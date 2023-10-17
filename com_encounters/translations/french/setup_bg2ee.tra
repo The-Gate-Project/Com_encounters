@@ -1,0 +1,623 @@
+@10032	= ~Couteau à beurre Orné~
+@10033	= ~Couteau à beurre de Baldurien~
+@10034	= ~Cela ressemble à un très joli couteau à beurre.
+
+PARAMETRES :
+
+Dégâts : 1D4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3~
+@10035	= ~Couteau à Beurre de Baldurien :
+Les légendes parlent souvent du Couteau à Beurre de Baldurien. Ce héros refusait de toucher ses aliments d'un autre ustensile. On pense que sa mère lui a offert ce couteau à beurre en cadeau pour son dix-huitième anniversaire.
+
+PARAMETRES :
+
+Dégâts : 1D4 + 2
+TAC0 : +2
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3~
+
+@10036	= ~Arbalète Légère "La Torche"~
+@10037	= ~La Torche a été conçue par un gnome dément qui adorait le feu. C'est l'une des rares choses qui ont pu être retrouvées dans son laboratoire lorsque celui-ci fut incendié alors que son inventeur testait cette arme.
+
+L'une des arbalètes les plus puissantes du royaume, Dent de feu n'a pas besoin de munitions car elle tire des carreaux de feu.
+
+PARAMETRES
+
+Dégâts : 2D6
+TAC0 : +3
+Spécial : n'a pas besoin de munitions
+Poids : 5 
+Facteur de Vitesse : 1 
+Compétence : Arbalète
+Type d'arme : à 2 mains~
+@10038	= ~Fléau +3, "Mort Enflammée"~
+@10039	= ~Fléau +3, "Mort Enflammée"
+Ce fléau est enchanté pour provoquer des dégâts de feu et augmenter votre sagesse. Amaunator en serait heureux.
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts : 1D8 +3
+Type de dégât : contondant
+Spécial : Attaques augmentées
+Spécial : 2D3 dégâts de feu
+Poids : 8
+Facteur de vitesse : 3
+Type de compétence : Fléau/Etoile du matin
+Type : arme à 1 main
+Force nécessaire : 13~
+ 
+@10040	= ~Fléau Empoisonné Drow +4~
+@10041	= ~Fléau Empoisonné Drow +4
+Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme servait à l'origine à battre le grain. 
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D6 +4, +5 de Poison
+Type de dégâts : écrasant
+Poids : 15
+Facteur de vitesse : 7
+Type de compétence : Fléau/Etoile du matin
+Type : arme à 1 main
+Force nécessaire : 13~
+
+@10042	= ~Carreaux Empoisonnés Drow +2~
+@10043	= ~Carreaux Empoisonnés Drow +2
+Les carreaux sont les projectiles tirés par les arbalètes, quelle qu'en soit la taille. Cependant, ceux-ci ont subi des enchantements qui améliorent leurs performances en vol, comme s'ils étaient guidés vers leur cible.
+Ces carreaux ont été améliorés par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-uns furent conçus pour la future conquête de la Surface par la Maison Maelither.
+
+PARAMETRES :
+
+TAC0 : +2
+Dégâts : 1D8 +2
+3 points de dégâts de Poison par rounds en cas d'échec d'un JS contre le poison
+Type de dégâts : perforant
+Poids : 0
+Arme de jet : arbalète~
+@10044	= ~Bracelets de Désintégration~
+@10045	= ~Bracelets de Désintégration
+Le simple aspect de ces gants de cuir dissimule leur pouvoir. Une fois par jour, leur porteur peut lancer le sort Désintégration.
+
+PARAMETRES
+
+Lance le sort Désintégration une fois par jour
++2 aux JS contre la Mort~
+
+@10046	= ~Billes +2 "Feu de la Forge"~
+@10047	= ~Billes +2 "Feu de la Forge"
+Des courants magiques sont incrustés dans cette bille, qui la rendent mieux équilibrée et plus légère. Elle file contre votre adversaire et quand elle le frappe, elle explose dans un éclair de feu.
+
+PARAMETRES :
+
+TAC0 : +2
+Dégâts : 1D4 + 3
+Spécial : 1D6 dégâts de feu
+Type de Dégâts : projectile (perforant)
+Poids : 0
+Arme de jet : fronde~
+
+@10048	= ~Cotte de Maille Drow +3
+
+L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers/Magiciens sans trop de restrictions.
+Cette armure a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+
+
+PARAMETRES :
+
+Capacités : 
+	+5% de Résistance Magique
+	-1 au temps d'incantation
+Classe d'armure : 2
+Poids : 12
+Force nécessaire : 5~
+
+@10049	= ~Cotte de Maille Drow +5
+L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers/Magiciens sans trop de restrictions.
+Cette armure a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+
+PARAMETRES :
+
+Capacités :
+	20% de Résistance Magique
+Classe d'armure : 0
+Poids : 12
+Force nécessaire : 5~
+
+@10050	= ~Cape Piwafwi de la Maison Maelither~
+@10051	= ~Une cape peut être faite de toute matière, et prendre toute forme, la plus courante étant celle d'un disque d'étoffe, percé d'un trou au centre pour la tête ou celle d'un tissu accroché au cou par une chaîne, un lacet, ou une broche.
+
+PARAMETRES :
+
+Classe d'Armure : +1
+Se cacher dans l'ombre : + 75 %
+Déplacement silencieux : + 75 %
+Jet de sauvegarde contre le Souffle : +6~
+@10052	= ~Manteau de la Forêt~
+@10053	= ~Le Manteau de la Forêt est le meilleur type de vêtement qui soit pour des druides ou des rôdeurs s'aventurant dans les bois.
+
+PARAMETRES : 
+
+Classe d'Armure : +2
+Classe d'Armure contre les Projectiles : +5
+Se cacher dans l'ombre : + 50 %
+Poids : 4~
+
+@10054	= ~Hallebarde Drow +3
+
+De loin la plus ancienne et la plus utilisée arme d'hast, la hallebarde est constituée d'une lame de hache montée sur une lance d'environ 2 m de long. La hache est équipée à l'arrière d'une pique et vers le haut d'une pointe généralement de section carrée. La pique est souvent remplacée par un crochet, utilisé pour faire tomber les cavaliers. La hallebarde peut être décrite comme un compromis entre la hache et la lance.
+Cette arme a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+
+PARAMETRES :
+
+Dégâts : 1D10+3, +1D2 dégâts électriques
+TAC0 : +3
+Type de dégâts :  Perforant
+Poids : 15
+Facteur de vitesse : 6
+Type de compétence : hallebarde
+Type : arme à 2 mains
+Force nécessaire : 13~
+
+@10055	= ~Armure du Forestier +6~
+@10056	= ~C'est l'armure de Malenious Grands-Pas. Selon la rumeur, ses prouesses au combat étaient dues à cette armure. Elle avait reçu des pouvoirs magiques qui la rendaient bien supérieure à une armure normale. Celui qui s'en équipe semble non seulement mieux protégé, mais également plus agile. Par ailleurs, cette armure semble se fondre dans le paysage, que vous soyez dans la nature ou dans une cité.
+
+PARAMETRES :
+
+Classe d'Armure : 1
+Spécial
+	Dextérité : +1
+	Se cacher dans l'ombre : +20%
+Poids : 25~
+@10057	= ~Pavois +3~
+@10058	= ~Le pavois est un bouclier massif en métal ou en bois couvrant le guerrier pratiquement du menton jusqu'aux doigts de pied. Il doit être bien attaché sur l'avant-bras et maintenu solidement. Naturellement, la main prise ne peut servir qu'à maintenir le pavois en place. 
+
+PARAMETRES :
+
+Bonus à la classe d'armure : 3
+Spécial : +3 contre les armes à projectile
+Poids : 15~
+@10059	= ~Bouclier Drow +3
+L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas. 
+
+PARAMETRES :
+
+Bonus à la classe d'armure : 4
+Poids : 7
+Force nécessaire : 12~
+@10060	= ~Cimeterre +3, "Furie d'Andarous"~
+@10061	= ~Andarous est un rôdeur qui a perdu ses bois à cause d'orques qui les ont ravagés et ont utilisé les troncs pour construire un fort. Mielikki a répondu à ses prières en lui donnant une épée pour lui permettre de réclamer vengeance au nom de la nature. Il détruisit avec cette seule arme tous les orques du camp.
+
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts : 1D8 +3, +2D4 dégâts électriques
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main~
+@10062	= ~Katana +3, "El Tel'lerian"~
+@10063	= ~Tel'lerian était un grand guerrier de Kara-Tur. C'était un mercenaire qui voyageait à travers les royaumes à la recherche de travail, combattant toujours le mal. Ce katana était l'une de ses armes favorites. Il perdit son épée et sa vie au cours d'une embuscade sur la route de Châteausuif.
+
+PARAMETRES :
+
+Capacité Spéciale : 10% de chance de pétrifier la cible à chaque coup, sauf si elle réussit un JS contre la pétrification
+
+TAC0 : +3
+Dégâts : 2D4 +3
+Type de dégâts : tranchant
+Poids : 10
+Facteur de vitesse : 8
+Type de compétence : Katana
+Type: arme à 1 main
+Force nécessaire : 11~
+@10064	= ~Epée à deux mains +3, "Mort de Khazid"~
+@10065	= ~Mort de Khazid fut forgée par un maître d'arme nain, Khazid El Dum. Il venait de créer cette épée lorsqu'un groupe de voleurs s'est introduit chez lui et l'a tué à l'aide de celle-ci. Une partie de son essence fut liée à cette arme au moment de sa mort.
+
+PARAMETRES
+
+TAC0 : +3
+Dégâts : 1D10 +3
+Spécial :
+	Force : +1
+	Constitution : +1
+Type de dégâts : Tranchant
+Poids : 12
+Facteur de Vitesse : 9
+Compétence : Epée à 2 mains
+Type d'arme : à 2 mains~
+@10066	= ~Katana +4, "Toran El Desiade"~
+@10067	= ~On sait peu de choses sur l'histoire de ce grand katana. D'anciennes runes sont gravées sur le pommeau, et sont peut-être à l'origine de ses capacités magiques.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D10+4, +2D4 dégâts de Froid
+Spécial :
+	Classe d'Armure : +1
+	Dextérité : +1
+	10% de chance de provoquer Terreur sur la cible
+Type de dégâts : tranchant
+Poids : 2
+Facteur de vitesse : 2
+Type de compétence : Katana
+Type : arme à 1 main
+Force nécessaire : 6~
+
+@10068	= ~Cimeterre Drow +3, "Blizzard"~
+@10069	= ~La lame à simple tranchant, longue et recourbée, tient à la fois du sabre et du cimeterre, bien que ses origines soient situées dans une autre partie de Féérune. 
+Cette arme a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+
+PARAMETRES :
+
+Dégâts : 1D8+4, +2D4 dégâts de Froid
+TAC0 : +4
+Type de dégâts :  Tranchant
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 10~
+@10070	= ~Armure de Plates~
+@10071	= ~Armure du Roi de l'Hiver~
+@10072	= ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir. 
+
+PARAMETRES :
+
+Classe d'Armure : 3
+Poids : 25
+Force nécessaire : 12~
+@10073	= ~Cette armure fut forgée avec la peau du plus puissant des vers polaires du Val Bise, nommé "Roi de l'Hiver" par les autochtones. Cette peau est extrêmement résistante, mais étonnamment légère. Son apparence est inhabituelle, blanc coloré d'accents bleutés.
+
+PARAMETRES :
+
+Classe d'Armure : 3
+Spécial : +25% de Résistance au Froid et au Feu
+Poids : 25
+Force nécessaire : 12~
+@10074	= ~Casque~
+@10075	= ~Casque du Patriote~
+@10076	= ~Un Casque à l'aspect étrange~
+@10077	= ~Ce casque fut porté par le guerrier nain Danel Froidargent, roi-martyr de la dernière Cité-Etat de Rocargent. Les exploits de Danel ne sont pas aussi connus que ceux d'autres nains héroïques, mais c'est peut-être parce que son royaume mourut avec lui. Sa nation a souffert de bien des pertes lorsque les trolls et les géants l'attaquèrent, il y a plus de mille ans, au cours de la Guerre presque oubliée du Sang Figé. Cette guerre entre les tribus de monstres et le royaume de Rocargent a duré plus de quinze ans. Danel ne tenta jamais de fuir son royaume, de chercher de l'aide auprès des nations voisines ou d'abandonner son peuple. Bien que nombre de ses sujets aient fui, il resta à Rocargent jusqu'à la fin. Avant la dernière bataille de cette terrible guerre, il dit à son peuple : "Quand vous verrez tomber le plumet sur ma tête, je veux être sûr que notre peuple ne se pliera pas comme l'or, mais se brisera comme le fer."
+
+Danel chargea en première ligne dès le début de la bataille, et tomba entre les griffes d'une douzaine de trolls. Au moment où son plumet ne fut plus visible, chaque homme, chaque femme, chaque enfant qui restait à Rocargent se précipita dans les cavernes fortifiées et entraîna autant de trolls et de géant qu'il le put. Des barils d'huile enflammée étaient dispersés dans toute la cité, consumant autant de trolls et de terribles géants du froid que de nains. Finalement, les monstres remportèrent une victoire à la Pyrrhus. La cité naine n'était plus qu'un amas de ruines fumantes dont on ne pouvait tirer que peu de trésor, aucun esclave, et aucune trace de nourriture. Bien des trolls moururent de famine cet hiver, et ils se retournèrent contre leurs alliés pour subsister, signant là la fin de cette armée.
+
+PARAMETRES :
+
+Bonus à la Classe d'Armure : 2
+Poids : 4~
+@10078	= ~Bracelets d'Argent de Kedl~
+@10079	= ~Ce mage, habitant de Phlan, était connu sous le nom de "Kedl aux Trois Anneaux", car il était dit qu'il avait mis au point une technique lui permettant de porter simultanément trois anneaux magiques. Enchanteur d'objet, il était bien connu pour son goût détestable en matière de vêtements, de bijoux et autres accessoires. Ses bracelets d'argents faisaient toujours partie de sa garde-robe. Kedl les vendit finalement lorsqu'il eut besoin d'argent pour un puissant anneau. Malheureusement, il mourut lors d'une attaque orque sur Phlan quelques années plus tard.
+
+PARAMETRES :
+
+Classe d'Armure : 2
+Poids : 2~
+@10080	= ~Epée Courte~
+@10081	= ~Sang de Fer~
+@10082	= ~L'épée courte est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler dague. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est utilisé pour décrire une lame à double tranchant longue d'environ 60 cm. L'estoc de l'épée est généralement pointu, et on la range donc parmi les armes perforantes.
+
+PARAMETRES :
+
+Dégâts : 1D6
+Type de dégâts : perforant
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : Epée courte
+Type : arme à 1 main
+Force nécessaire : 5~
+@10083	= ~Arme de sinistre réputation dans le Nord glacé, Sang de Fer fut forgée par un shaman barbare perverti nommé Hekedder. Il donna l'épée en cadeau à un cousin. L'arme fut longuement utilisée par de nombreux barbares durant des années. Finalement, chacun de ses propriétaires devint haï parce qu'il possédait cette arme. La souillure de la nécromancie est tellement méprisée par les tribus nordiques que le nom maudit de Sang de Fer devint bien connu parmi elles. Depuis ce jour, aucun barbare ne touche plus cette arme, et ils détestent en parler. Sa lame est constituée de fer brut et de mauvaise qualité, et sa surface est recouverte de marques sinistres et de l'empreinte de mauvais coups de marteau. Le pommeau est entouré de cuir rouge.
+
+PARAMETRES :
+
+TAC0 :  +4
+Dégâts :  1D6 +4
+Spécial : Guérit 3 points de vie à chaque coup porté
+Type de dégâts : perforant
+Facteur de Vitesse : 1
+Poids :  2
+Type de compétence : Epée Courte
+Type : arme à 1 main
+Force nécessaire : 5~
+@10084	= ~Epée Longue~
+@10085	= ~Cynisme~
+@10086	= ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
+
+PARAMETRES :
+
+Dégâts : 1D8
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Epée longue
+Type : arme à 1 main
+Force requise : 6~
+@10087	= ~En 834 DR, un sorcier nommé Legedain le Sage surprit un voleur renommé qui était entré par effraction dans sa tour. Le voleur était un cambrioleur cynique nommé Ilfain Noirplume. Legedain vieillissait et se fatiguait de son corps frêle. Pour remédier à cette situation, il lança "Jarre Magique" et plongea l'esprit d'Ilfain dans une gemme. Legedain transféra sa propre âme dans le corps du jeune elfe et plaça la pierre sur une étagère. Une centaine d'années plus tard, Legedain décida d'en faire quelque chose. Il créa une épée pour son arrogant garde du corps, Gundak, et transféra l'esprit d'Ilfain depuis la gemme jusqu'à la lame. Ilfain, qui avait toujours été très critique au cours de son existence, commença à faire des remarques télépathiques à Gundak pendant les combats. Gundak en eut assez de l'épée au bout de quinze jours et la jeta dans une rue. Un groupe de guerrier la récupéra et l'abandonna au bout de quelques jours. Avec le temps, la lame ne fut plus connue que sous son nom actuel.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 2D4 +4
+Spécial :
+	Détection des Pièges : 1 fois par jour
+	Déblocage : 1 fois par jour
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Epée longue
+Type : arme à 1 main
+Force requise : 6~
+@10088	= ~Epée Bâtarde~
+@10089	= ~Epée Bâtarde du Cancer +4~
+@10090	= ~En plus d'être un remarquable travail d'artisan, cette épée se caractérise par de petites runes de pouvoirs gravées tout au long de sa lame. De longues heures furent consacrées à sa création, et une légère lueur bleue semble émaner des runes.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 2D4 +4
+Spécial : 15% de chance de provoquer Maladie chez la cible
+Type de dégâts : tranchant
+Poids : 10
+Facteur de vitesse : 8
+Type de compétence : Epée bâtarde
+Type: arme à 1 main
+Force nécessaire : 11~
+@10091	= ~Marteau de Guerre~
+@10092	= ~Marteau de Guerre +4 : Défenseur~
+@10093	= ~Comme d'autres armes de ce type, ce marteau de guerre est entièrement constitué d'acier, et sa tête repose sur un manche de 45 cm de long. Il possède également quelques capacités magiques, ce qui le rend plus utile au combat.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D4 +3
+Spécial :
+	Classe d'Armure : +2
+	+15% de résistance aux dégâts Perforants
+	+15% de résistance aux dégâts Tranchants
+	+15% de résistance aux dégâts Contondants
+	+15% de résistance magique
+	+3 aux JS contre les Sorts	
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 3
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9~
+@10094	= ~Etoile du Matin~
+@10095	= ~Etoile du Matin des Dieux~
+@10096	= ~L'étoile du matin est un manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin mesurent environ 1,20 m. Celle-ci possède une tête en or qui fut magiquement améliorée pour que sa malléabilité ne soit pas un handicap.
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts : 2D4 +3
+Spécial :
+	Classe d'Armure : +1
+	Sagesse : +1
+	Permet de mémoriser 2 sorts supplémentaires de prêtres de niveau 1 et 1 de niveau 2
+Type de dégâts : contondant
+Poids : 10
+Facteur de vitesse : 6
+Type de compétence : Fléau/Etoile du matin
+Type: arme à 1 main
+Force nécessaire : 11~
+@10097	= ~Etoile du Matin +4 : Défenseur~
+@10098	= ~L'étoile du matin est un manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin mesurent environ 1,20 m. Celle-ci possède une tête en or qui fut magiquement améliorée pour que sa malléabilité ne soit pas un handicap.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 2D4 +4
+Spécial :
+	Classe d'Armure : +2
+	+20% de résistance aux dégâts Perforants
+	+20% de résistance aux dégâts Tranchants	
+	+15% de résistance magique
+Type de dégâts : contondant
+Poids : 10
+Facteur de vitesse : 6
+Type de compétence : Fléau/Etoile du matin
+Type: arme à 1 main
+Force nécessaire : 11~
+@10099	= ~Fléau~
+@10100	= ~Fléau Etourdissant +4~
+@10101	= ~Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme a été renforcée par magie. Des runes semblent luire sur toute sa surface.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts :  1D6 +3
+Spécial :
+	50% de chance de provoquer 2D3 dégâts électriques supplémentaires
+	10% de chance d'Etourdir la cible
+Type de dégâts : contondant
+Poids : 15
+Facteur de vitesse : 7
+Type de compétence : Fléau/Etoile du matin
+Type: arme à 1 main~
+@10102	= ~Amulette~
+@10103	= ~Sang de Kossuth~
+@10104	= ~Le dieu du feu, Kossuth, prend rarement forme physique dans les Royaumes Oubliés. Lorsque cela arrive, cependant, la destruction accompagne son éveil. Il fut invoqué en 801 DR par un groupe de fidèles qui avaient besoin de son aide pour vaincre une pieuvre géante qui menaçait un temple sur la côte. Kossuth apparut dans un gigantesque brasier et se battit avec l'énorme créature surnaturelle. L'avatar du dieu triompha de la pieuvre, mais le monstre parvint à endommager l'essence du dieu. Le feu divin courut le long du corps de la créature et se logea dans un de ses yeux, le transformant en une étrange sphère noire dans laquelle luisait une flamme.
+
+PARAMETRES
+
+Réduit le temps d'incantation de 2
+Augmente de 20% les dégâts de feu infligés par le personnage~
+@10105	= ~Anneau~
+@10106	= ~Anneau de Protection Supérieure~
+@10107	= ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers. Celui-ci semble chaud au toucher, sans raison apparente.
+
+PARAMETRES :
+
+Bonus de Classe d'Armure : 2
++ 25% de Résistance aux Dégâts Contondants
++ 3 aux JS contre les Sorts~
+@10108	= ~Wakizashi +2~
+@10109	= ~Le wakizashi est une arme essentielle pour tout samouraï. C'est l'arme qu'il porte en permanence, même en intérieur, et qu'il garde à portée de main pendant son sommeil. Fabriqué de la même façon que le katana, le wakizashi est, malgré sa plus petite taille, une arme redoutable entre les mains d'un pratiquant accompli.
+
+PARAMETRES :
+
+TAC0 : +2
+Dégâts : 1D8 +2
+Type de dégât : perforant
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 5~
+@10110	= ~Ninja-To +2~
+@10111	= ~L'épée du ninja, le ninja-to est de qualité inférieure aux autres lames de Kara-Tur, comme le katana. Le ninja-to est court et sa lame est droite, ce qui le rend idéal pour la dissimulation. Il est aussi plus approprié pour le combat en espace confiné, donnant parfois l'avantage aux ninjas sur les lames plus longues utilisées par les samouraïs.
+
+PARAMETRES :
+
+TAC0 : +2
+Dégâts : 1D8 +2
+Type de dégât : tranchant
+Poids : 5
+Facteur de vitesse : 4
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 6~
+@10112	= ~Robe du Grand Magicien~
+@10113	= ~Cette puissante Robe de Mage offre une protection contre toutes les attaques physiques tout en augmentant la résistance magique et les jets de sauvegarde. En raison de la nature de son enchantement, elle ne peut être portée que par des mages d'alignement mauvais.
+
+PARAMETRES :
+
+Classe d'Armure : +2
+Résistance à la Magie : 25%
+Jets de Sauvegarde : +3
+Poids : 6~
+@10114	= ~Armure de Plates de Dragon Vert~
+@10115	= ~Cette étrange armure verte semble imbibée d'une puissante magie.~
+@10116	= ~Cette armure provient de l'Est Lointain, et appartenait à un empereur connu sous le nom de Dragon Vert. Il dirigea son pays d'une main de fer jusqu'à sa défaite face à un seigneur de la guerre.
+
+PARAMETRES :
+
+Classe d'Armure : -4
+Spécial :
+	Dextérité : +1
+	Protection contre le Plan Négatif
+	Régénération de 2 points de vie par round
+	Invoque un gardien mort-vivant 1 fois par jour
+	Lance Régénération 1 fois par jour
+	Lance Forme Ethérée 1 fois par jour
+	
+Poids : 50
+Force nécessaire : 14~
+@10117	= ~Fléau Venimeux~
+@10118	= ~Chaque tête de ce fléau a été plongée dans un poison magique qui ne quittera jamais cette arme de destruction. Même celui qui la tient doit s'en méfier. Les têtes de ce fléau semblent avoir leur propre conscience par moment.
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts :  2D4 +3
+Spécial :
+	La victime doit effectuer un JS contre le poison ou subir 10 points de dégâts supplémentaires
+	10% de chance que le porteur soit empoisonné s'il rate un JS contre le poison
+Type de dégâts : contondant
+Poids : 9
+Facteur de vitesse : 5
+Type de compétence : Fléau/Etoile du matin
+Type: arme à 1 main~
+@10119	= ~Parchemin~
+@10120	= ~Le Hall des Merveilles de la Porte de Baldur s'est fait dérober quelques objets de valeurs. Le ou les voleurs ne sont pas connus, mais veuillez contacter le Poing Enflammé si vous avez la moindre information.~
+@10121	= ~Bertoxxulous~
+@10122	= ~Bertoxxulous, le Porteur de Peste
+
+"La seule vérité est la mort de chacun". Ceci est gravé sur la lame dans une langue démoniaque. Lorsqu'il tient cette épée, le porteur considère le déclin de la chair comme un spectacle d'une beauté ultime. Le pourpre subtil d'une blessure récente, le jaune verdâtre, presque iridescent d'une pustule infectée, voilà ce qui le fera vibrer.
+L'épée luit comme si elle était recouverte d'un ichor noir lorsqu'on utilise la magie pour tenter d'en découvrir la nature. Des maléfices nécromanciens infectent chaque parcelle de l'arme. Ceux qui voudraient l'utiliser n'auront plus d'autre désir que d'être entourés d'êtres qui continueront à pourrir même dans la non-vie.
+On ne peut apprendre d'autres éléments sur cette épée, hormis le fait qu'elle provient des Neufs Enfers.
+
+PARAMETRES :
+
+Capacités :
+ La cible subit une pénalité de -3 à ses mouvements pendant 60 secondes si elle ne réussit pas un JS contre les baguettes
+ La cible subit une pénalité de -2 à sa dextérité pendant 30 secondes
+ La cible subit 5 points de dégâts de poison pendant 2 secondes si elle ne réussit pas un JS contre le poison
+ 
+Inconvénients
+ Constitution : -1
+ Maudite
+ 
+TAC0 : +6
+Dégâts : 1D6 +6
+Type de dégâts : perforant
+Facteur de vitesse : 1
+Poids : 2
+Type de compétence : épée courte
+Type : arme à 1 main~
+@10123	= ~Wakizashi +4 "Vent Divin"~
+@10124	= ~Wakizashi +4 "Vent Divin"
+Cette arme appartenait à un noble guerrier nommé Shikintu. Ses réflexes étaient si foudroyants que ses cibles étaient étourdies sous l'impact de ses coups rapides et puissants. On dit que lorsqu'il mourut, son esprit ne fit plus qu'un avec son épée.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D8 +4
+Spécial :
+ 20% de chance d'étourdir la cible
+Type de dégât : perforant
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 5~
+@10125	= ~Katana +4, "Fléau de Mort"~
+@10126	= ~Une épée conçue par Fenris le Nécromancien de l'Orient. On ne sait rien d'autre sur cette épée ni sur son créateur. Peut-être une recherche studieuse dans un ouvrage vous permettra-t-elle d'en savoir plus.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D10+4, +2 dégâts de feu
+Spécial :
+	Tue les Morts-Vivants
+Type de dégâts : tranchant
+Poids : 6
+Facteur de vitesse : 4
+Type de compétence : Katana
+Type : arme à 1 main
+Force nécessaire : 6~
+@10127	= ~Epée à 2 mains~
+@10128	= ~Epée à 2 mains +4 de Dragon Vert~
+@10129	= ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. 
+
+PARAMETRES :
+
+Dégâts : 1D10
+Type de dégâts : tranchant 
+Poids : 15
+Facteur de vitesse : 10
+Type de compétence : Epée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14~
+@10130	= ~L'arme favorite du brutal Dragon Vert. Il exécutait personnellement ses ennemis, même de son sang, avec cette épée. Elle fut enterrée avec lui en compagnie d'autres objets magiques puissants.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D10 +4
+Spécial :
+ 5% de chance de désintégrer la cible
+ Dégâts doublés contre les Morts-Vivants et les Démons
+ Dissipation de la Magie à chaque coup
+ Lance Rayon de Soleil 2 fois par jour au niveau 20
+Type de dégâts : tranchant 
+Poids : 15
+Facteur de vitesse : 10
+Type de compétence : Epée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14~
+@10131	= ~Un Etrange Anneau~
+@10132	= ~Un Anneau Très Etrange~
+@10133	= ~Vous êtes tenté d'enfiler cet anneau. Essayez-donc.~ ~Vous êtes tentée d'enfiler cet anneau. Essayez-donc.~
+@10134	= ~Une sensation étrange s'empare de vous alors que vous tenez cet anneau. Il serait dans votre intérêt de ne pas l'enfiler et de le rendre à Sméagol. Vous ne l'avez tout de même pas enfilé, n'est-ce pas ?~

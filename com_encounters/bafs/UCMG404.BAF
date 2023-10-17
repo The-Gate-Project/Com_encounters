@@ -1,0 +1,11 @@
+IF
+	Global("UcmgSeThief","AR0404",0)
+THEN
+	RESPONSE #100
+		CreateCreature("UCMGTH01",[2124.2222],8) // Callendous
+		CreateCreature("UCMGTH02",[2120.2264],0) // Black Lilli Darkstar
+		CreateCreature("UCMGTH03",[2200.2219],6) // Shadow Thief
+		CreateCreature("UCMGTH04",[2176.2256],4) // Shadow Thief
+		SetGlobal("UcmgSeThief","AR0404",1)
+END
+

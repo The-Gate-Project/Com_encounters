@@ -1,0 +1,871 @@
+@0    = ~Bene, ti abbiamo preso finalmente <CHARNAME>. Non é stato un lavoro semplice, con tutti quegli elfi di superficie vicino all'entrata, ma malgrado tutto siamo qui.~
+@1    = ~Chi sei e cosa vuoi da me?~
+@2    = ~Chi sono io? Io ero Gab'Riella Maelither, la maestra d'armi della Casata Maelither, ma grazie a te io ora sono la *Matrona* Maelither.~
+@3    = ~Grazie a me? Cosa vuoi dire?~
+@4    = ~(Sigh) Non ricordi di aver incontrato una madre matrona con la sua scorta nel Sottosuolo e di averli uccisi nei dintorni di Ust Natha?~
+@5    = ~No.~
+@6    = ~Si, ma lei ci ha attaccato per prima.~
+@7    = ~Osi mentirmi? Possa la grande Madre torturarti per tutta l'eternità nella Fossa della Tela dei Demoni!~
+@8    = ~Si, forse potrebbe essere vero. Lei era arrogante ed aveva un complesso di superiorità. Guardava sempre la gente dall'alto in basso, anche la sua prima figlia, cercava di essere come sua madre. Dovrei ringraziarti di averla uccisa poiché ora sono io a capo della Casata Maelither.~
+@9    = ~Allora d'accordo. Ti ho fatto un favore e tu puoi restituirmelo lasciandomi andare via.~
+@10   = ~(Uno sguardo selvaggio brilla nei suoi occhi). Potrei farlo, potrei farlo davvero ma c'é un piccolo problema con la tua idea. Si..... un piccolo problema.~
+@11   = ~Oh e chi potrà mai essere questa Madre Matrona Maelither?~
+@12   = ~Ha ha mi piace. Cerchi di adularmi. Potresti essere un buono schiavetto nella Casata Maelither ma tornando al nostro piccolo problema. (Fa una pausa come se fosse confusa).~
+@13   = ~(Tu aspetti chiedendoti chi, per i Nove Inferni, abbia mai potuto farla uscire da qualche cella).~
+@14   = ~(Senti l'odio nel suo sguardo). Nessun essere inferiore, abitante di superficie, può toccare, o addirittura uccidere un drow e poi riuscire a fuggire! ELGG LIL OGGLIN! LOLTH TLU MALL; JAL ULTRINNAN ZHAH XUNDUS!!~
+
+@100  = ~Salve <LADYLORD>. Vuoi acquistare qualcuna delle mie mercanzia di ottima qualità oggi? Possiedo molte pergamene a buon prezzo.~
+@101  = ~Vediamo quello che hai.~
+@102  = ~Magari un'altra volta, grazie.~
+@103  = ~Come desideri.~
+@104  = ~Ritorna!~
+
+@200  = ~Salve <LADYLORD>. Vuoi acquistare qualcuna delle mie mercanzia di ottima qualità oggi?? Possiedo i migliori rifornimenti da offrire ai fedeli.~
+@201  = ~Vediamo quello che possiedi.~
+@202  = ~Forse un'altra volta, grazie.~
+@203  = ~Come desideri. Ti auguro una buona giornata e che Lathander possa benedirti.~
+@204  = ~Ritorna, se vuoi!~
+
+@300  = ~Salve viaggiatore. C'è qualcosa che il Maestro Shikoku può proporti? Oppure hai delle domande?~
+@301  = ~Si, mostrami quello che hai da vendere.~
+@302  = ~Domande? Si, ne ho.~
+@303  = ~No, non in questo momento, grazie.~
+@304  = ~Molto bene, onorevole <PRO_SIRMAAM>. Ecco quello che ho da offrire.~
+@305  = ~Fai le domande. Io ti risponderò, se posso.~
+@306  = ~Sai dirmi qualcosa sugli Stregoni Incappucciati?~
+@307  = ~Cosa ti ha portato ad Amn? Sembra che provieni dall'Est.~
+@308  = ~Hai mai sentito parlare di un mago chiamato Irenicus?~
+@309  = ~Rimarrai qui a lungo?~
+@310  = ~Ritorna quando vuoi nel mio piccolo negozio.~
+@311  = ~Non so molto di loro. So che difendono le loro leggi sulla pratica della magia come fa il martello con il chiodo. Dovresti acquistare un permesso per utilizzare la magia in città altrimenti ti imprigioneranno. Ora ti piacerebbe vedere quello che ho da vendere?~
+@312  = ~Vediamo quello che hai da offrire.~
+@313  = ~Si, vengo dal Lontano Est. Faccio parte dell'Ordine delle Tigri Dormienti. E' tutto quello che posso dirti. (Ti sorride, un sorriso che ti rende nervoso). Ora, ti piacerebbe vedere le mia merce, eh?~
+@314  = ~No. Ora ti piacerebbe vedere quello che vendo?~
+@315  = ~Sei un impiccione. Lo sai cos'é successo al gatto curioso? E' morto per essere stato troppo curioso. Ora, ti piacerebbe vedere la mia merce, eh?~
+
+@400  = ~Salve piccoletto, sono lieto che tu sia venuto. Ci hai risparmiato lo sforzo di cercarti.~
+@401  = ~Cercarmi? Cosa vuoi dire?~
+@402  = ~Cercarti per ucciderti, naturalmente. Lui ci ha detto praticamente che ti saresti trovato qui, e che noi saremmo dovuti essere stati qui per salutarti, e per mettere fine ai tuoi giorni.~
+@403  = ~Chi é questo "lui" e perché mi vuole morto?~
+@404  = ~Visto che stai per morire, perché sprecare il tuo fiato facendo domande stupide? No, non riveleremo chi sia "lui" come farebbero gli altri malvagi. Svelerebbe tutta la trama. Ora stai fermo, non sarà doloroso.~
+@405  = ~Ancora una domanda, se permetti.~
+@406  = ~Cosa c'é adesso?~
+@407  = ~Questa puzza é il tuo odore naturale o c'é una fogna da questa parti?~
+@408  = ~Divertente. Se io possedessi il senso dell'umore potrei anche abbassarmi a ridere al tuo commento. Ma ora torniamo a noi. Lasciamo che urlino i cani da guerra!~
+
+@500  = ~Cosa succede?? Spazzatura di superficie nei nostri reami? Guardandoti si direbbe che vieni dalla disgustosa città degli Sahuagin. Pagheranno ad alto prezzo il fatto di averti lasciato passare. Ma nel frattempo sarai sicuramente morto.~
+@501  = ~Ehi, aspetta un minuto! Non ti abbiamo fatto niente, perché sei così ostile con noi?~
+@502  = ~Prima cosa tu sei inferiore a me, in secondo luogo sono stata obbligata a parlare nel tuo linguaggio affinché tu possa comprendermi e terza cosa Lolth mi ricompenserà bene per la tua morte in sacrificio.~
+@503  = ~C'é un errore in questo avventato piano "padrona". Per prima cosa non hai riflettuto bene, secondo noi siamo dei guerrieri di gran lunga superiori di te e terzo dos lueth Lolth phuul rothe iblith!~
+@504  = ~(La Matrona di fissa in modo malvagio). Sargtlins! Xun izil dos phuul quarthen lueth elgg nind!~
+
+@600  = ~Siete degli eroi? Al povero Smeagol é stato rubato il suo Prezioso da degli sgradevoli orchi e bisogna che il Prezioso ritorni a me. Se puoi aiutare Smeagol poi Smeagol ti darà dei bellissimi pezzi brillanti.~
+@601  = ~Cos'é il Prezioso di cui parli?~
+@602  = ~Magari un'altra volta.~
+@603  = ~Chiedi cos'é il Prezioso? Il Prezioso é un bellissimo anello brillante, si. Si, molto luccicante, é un anello molto prezioso, si. Adesso cercherai di riprendere il Prezioso dalle mani di quegli sgradevoli orchi, eh?~
+@604  = ~Si, ti aiuterò a riprendere il tuo anello. Tornerò da te una volta che l'avrò recuperato.~
+@605  = ~Abbiamo deciso di aiutare uno strano halfling chiamato Smeagol, dobbiamo trovare un anello che gli è stato preso da alcuni orchi.~
+@606  = ~Ed il Prezioso? Non hai l'anello scintillante? Non hai il Prezioso, niente pezzi brillanti per te. Ora vai a cercare il Prezioso.~
+@607  = ~Ahh si, si il mio Prezioso! Smeagol é felice adesso! Quegli sgradevoli orchi non prenderanno più il mio Prezioso. Si Smeagol ora ti dà i pezzi brillanti. Ora posso indossare l'anello fortunato e catturare molti pesci gustosi.~
+@608  = ~Abbiamo ridato l'anello a Smeagol. Era molto felice di aver riavuto il suo anello. Non è il genere di anello che avrei voluto indossare, sembrava maledetto.~
+
+@700  = ~Bene, guardate chi arriva. Dei graziosi avventurieri che si sono smarriti nella strada sbagliata. Sembra che possiedi dell'oro. Lo posso indovinare dalle armature e dalle armi che possiedi. Perché non ci doni tutto quello che hai?~
+@701  = ~E perché non ci doni tu tutto quello che possiedi? La tua banda di fannulloni vagabondi ci spianerà la strada come farebbero un gruppo di bambini in età scolare.~
+@702  = ~Cos'é tutto questo, per i Nove Inferni? Siamo stati insultati nel nostro territorio da questi babbei. Facciamoli a fettine e trituriamoli.~
+
+@10000 = ~Chosen of Mystra's Encounters (Richiede Throne of Bhaal)~
+@10001 = ~/****************************************~
+@10002 = ~*CoM Encounters Mod Version 1.04 	  *~
+@10003 = ~*http://www.chosenofmystra.com	  *~
+@10004 = ~*  Copyright 2010 Dark Raven            *~
+@10005 = ~*	FOR USE WITH ToB Version 26498    *~
+@10006 = ~*	THIS FILE WILL INSTALL            *~
+@10007 = ~*	CoM Encounters IN YOUR BG         *~
+@10008 = ~*    II DIRECTORY.                      *~
+@10009 = ~*****************************************~
+@10010 = ~Non sembra essere installato TOB.~
+@10011 = ~Derro Berserker~
+@10012 = ~Madre Matrona Maelither~
+@10013 = ~Gab'Riella Maelither~
+@10014 = ~Callendous~
+@10015 = ~Lilli la Nera, Stella Oscura~
+@10016 = ~Silliria~
+@10017 = ~Aris il Potente~
+@10018 = ~Kiel l'Uccisore degli Eroi~
+@10019 = ~Ortus Hammerstrike~
+@10020 = ~Kang~
+@10021 = ~Thangrim la Lama~
+@10022 = ~Generale Chang~
+@10023 = ~Alexia~
+@10024 = ~Sacerdotessa Anna~
+@10025 = ~Shikoku~
+@10026 = ~Smeagol~
+@10027 = ~Orco Puzzolente~
+@10028 = ~Orco Stupido~
+@10029 = ~Uruk-hai~
+@10030 = ~Uruk-hai Maggiore ~
+@10031 = ~Capo Uruk-hai~
+@10032 = ~Coltello da Burro con ornamenti ~
+@10033 = ~Coltello da Burro di Balduran ~
+@10034 = ~Questo sembra essere un coltello da burro ornato.
+
+STATISTICHE:
+
+Danno: 1D4 
+Tipo di danno: perforante
+Peso: 1
+Fattore velocità: 2 
+Tipo di competenza: Pugnale
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Non utilizzabile da:
+ Chierico~
+@10035 = ~Coltello da burro di Balduran:
+Le leggende parlano spesso del coltello da burro di Balduran. L'eroe non permetteva a nessuno di toccare i suoi condimenti. Si dice che sua madre gli regalò il coltello come regalo per il suo diciottesimo compleanno.
+
+STATISTICHE:
+
+Danno: 1D4 +2
+THACO: +2 di bonus
+Peso: 1
+Fattore velocità: 0
+Tipo di competenza: Pugnale
+Tipo: ad una mano
+Richiede: 3 alla Forza
+Non utilizzabile da:
+ Chierico~
+@10036 = ~Balestra Leggera "La Torcia"~
+@10037 = ~La Torcia fu creata da uno gnomo folle a cui piaceva il fuoco. Questa balestra è una delle poche cose che sopravvissero dopo che il suo laboratorio  prese fuoco durante il collaudo di quest'arma.
+
+STATISTICHE:
+
+Danno: 2D6
+THACO: +3 bonus
+Speciale: Non necessitano munizioni
+Fattore velocità: 3
+Tipo di competenza: Armi da Lancio
+Tipo: a due mani
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+~
+@10038 = ~Mazzafrusto +3 "Morte Fiammante"~
+@10039 = ~Questo mazzafrusto è incantato per fare Danni da fuoco ed incrementare la saggezza. Amuanator ne sarebbe felice.    
+
+STATISTICHE:
+
+Danno: 1D8 +3
+THACO: +3
+Saggezza: +1 di bonus
+Speciale: Incrementa gli attacchi
+Speciale: 2D3 di Danno da Fuoco
+Tipo di danno: schiacciamento
+Peso: 8
+Fattore velocità: 3
+Tipo di competenza: Armi Appuntite
+Tipo: ad una mano
+Utilizzabile solamente da: 
+Chierico
+Paladino~
+@10040 = ~Mazzafrusto Avvelenato Drow +4~
+@10041 = ~Mazzafrusto Avvelenato Drow +4
+Il mazzafrusto è una impugnatura di legno robusto applicata a una mazza di ferro, a una mazza di legno con dei chiodi oppure una palla di ferro chiodata. Tra l'impugnatura e il suo strumento c'è una cerniera oppure un anello. L'arma veniva originariamente usata per trebbiare il grano.  
+ 
+
+STATISTICHE:
+
++5 di danno da Veleno
+THAC0: +4 di bonus
+Danno: 1D6 +4 
+Tipo di danno: schiacciamento
+Peso: 15
+Fattore velocità: 4
+Tipo di competenza: Mazzafrusto/Morningstar
+Tipo: ad una mano
+Richiede: 13 alla Forza
+Non utilizzabile da:
+ Druido
+ Mago 
+ Ladro~
+@10042 = ~Dardo Appuntito Avvelenato Drow +2~
+@10043 = ~Dardo Appuntito Avvelenato Drow +2
+I quadrelli o dardi sono le munizioni lanciate dalle balestre, indipendentemente dalle dimensioni dell'arma. Questo dardo ha tuttavia alcune proprietà magiche che ne migliorano le prestazioni in volo, quasi come se fosse pilotato verso il bersaglio.
+Questo dardi sono stati incantati dalla maga drow, Gab'Riella Maelither, in modo tale da non disintegrarsi quando ci si trova sul mondo di superficie. Solo alcuni oggetti sono stati fatti in questo modo per la conquista definitiva della superficie da parte della Casata Maelither.
+
+STATISTICHE:
+
+Danni da veleno di 3 punti al secondo se fallisce un Tiro Salvezza contro il Veleno
+Danno: 1D8 +2
+THACO: +2
+Tipo di danno: missile (perforante)
+Peso: 0
+Dispositivo di lancio: Balestra~
+@10044 = ~Bracciali della Disintegrazione~
+@10045 = ~L'aspetto semplice di questi guanti di cuoio dissimulano il loro potere. Una volta al giorno, colui che li indossa, può lanciare l'incantesimo di Disintegrazione. 
+
+STATISTICHE
+
+Lancia l'incantesimo Disintegrazione una volta al giorno
++2 al Tiro Salvezza contro la Morte~
+@10046 = ~Proiettile +2 "Fuoco della Forgia"~
+@10047 = ~In questo proiettile sono incorporate correnti magiche, di conseguenza sembra un po' più bilanciato e leggero quando scagliato contro un avversario. 
+
+STATISTICHE:
+
+Danno: 1D4 +3
+THACO: +2
+Speciale: 1D6 di danno da fuoco
+Tipo di danno: proiettile (perforante)
+Peso: 0
+Dispositivo di lancio: fionda~
+@10048 = ~Cotta di Maglia Drow +3
+L'artigianato degli elfi, delicato ma resistente, crea strumenti belli a vedersi ma anche molto utili. Tra questi è famosa la cotta di maglia elfica, talmente leggera da poter essere indossata sotto i vestiti senza essere vista. Grazie a ciò, può essere indossata anche dai ladri e dai maghi guerrieri con alcune restrizioni.
+Questa cotta di maglia drow magica dà al portatore un bonus di 5% di resistenza alla magia e abbassa di 1 il tempo di lancio degli incantesimi del portatore. Questa armatura è stata incantata dalla maga drow, Gab'Riella Maelither, in modo tale da non disintegrarsi quando ci si trova sul mondo di superficie. Solo alcuni oggetti sono stati fatti in questo modo per la conquista definitiva della superficie da parte della Casata Maelither.
+
+STATISTICHE:
+
+Abilità: +5 di Resistenza Magica
+           -1 al tempo di lancio di tutti gli incantesimi
+Classe Armatura: 2
+Peso: 12
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido 
+ Mago
+ Kensai~
+@10049 = ~Cotta di Maglia di Adamantite Drow +5
+
+L'artigianato degli elfi, delicato ma resistente, crea strumenti belli a vedersi ma anche molto utili. Tra questi è famosa la cotta di maglia elfica, talmente leggera da poter essere indossata sotto i vestiti senza essere vista. Grazie a ciò, può essere indossata anche dai ladri e dai maghi guerrieri con alcune restrizioni.
+Questa armatura è stata incantata dalla maga drow, Gab'Riella Maelither, in modo tale da non disintegrarsi quando ci si trova sul mondo di superficie. Solo alcuni oggetti sono stati fatti in questo modo per la conquista definitiva della superficie da parte della Casata Maelither.
+
+STATISTICHE:
+
+20% di Resistenza Magica
+Classe Armatura: 0
+Peso: 12
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Maghi
+ Druido
+ Kensai~
+@10050 = ~Mantello Piwafwi della Casata Maelither~
+@10051 = ~Esistono mantelli di qualsiasi forma e fatti con ogni tipo di tessuto. Quello più comune è composto da un pezzo di tessuto circolare con un buco al centro per la testa e una cucitura o una chiusura davanti al collo, fermata da una catena, una stringa o una spilla.  
+
+STATISTICHE
+
+Bonus alla Classe Armatura: +1
+Nascondersi nelle Ombre: +75%
+Muoversi Silenziosamente: + 75%
+Tiro salvezza contro Soffio: +6~
+@10052 = ~Mantello della Foresta~
+@10053 = ~Il Mantello della Foresta é l'abbigliamento migliore per i druidi avventurieri ed i ranger della foresta.
+
+STATISTICHE:
+
+Classe Armatura: 2
+Speciale: +50% Nascondersi nelle Ombre
+Speciale: +5 contro le Armi da Lancio
+Peso: 4
+Utilizzabile solamente da:
+Druidi e Ranger (singoli, multiclasse e duali)~
+@10054 = ~Alabarda Drow +3
+Di sicuro l'arma in asta più vecchia e più diffusa, l'alabarda è composta da un'ascia simile a una mannaia montata in cima a un'asta lunga circa 6 piedi. L'ascia è bilanciata da un alettone posteriore e sormontata da una picca acuminata, di solito di forma quadrangolare. L'alettone a volte è sostituito da un gancio studiato per disarcionare i nemici a cavallo. L'alabarda può essere considerata un incrocio tra un'ascia e una lancia.  
+Quest'arma è stata incantata dalla maga drow, Gab'Riella Maelither, in modo tale da non disintegrarsi quando ci si trova sul mondo di superficie. Solo alcuni oggetti sono stati fatti in questo modo per la conquista definitiva della superficie da parte della Casata Maelither.
+
+
+STATISTICHE:
+
+1D2 di Danni Elettrici
+THAC0: +3 di bonus
+Danno: 1D10 +3
+Tipo di danno: perforanti
+Peso: 15
+Fattore velocità: 6
+Tipo di competenza: Alabarda
+Tipo: a due mani
+Richiede: 13 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+@10055 = ~Armatura dei Boschi +6~
+@10056 = ~Questa é l'armatura di Malenious Strider. Si dice che il suo valore in battaglia sia dovuto a quest'armatura. Possiede molti poteri magici che la rendono migliore rispetto ad una normale armatura. Quando la si indossa non solo si ha una certa protezione ma si avrà anche una migliore agilità. Quando ci si trova nelle foreste e nelle aree ombrose delle città questa armatura sembra conferire a colui che la indossa la capacità di nascondersi e muoversi silenziosamente.
+
+STATISTICHE:
+
+Classe Armatura: 1
+Speciale: +1 alla Destrezza e un +20% al nascondersi nelle Ombre.
+Peso: 25
+Utilizzabile da:
+Guerrieri, Ranger e Druidi~
+@10057 = ~Scudo Medio +3~
+@10058 = ~Lo scudo per il corpo, noto anche come lo scudo aquilone o torre, è uno scudo massiccio di metallo o legno che protegge chi lo usa quasi dal mento fino ai piedi. Deve essere fissato saldamente all'avambraccio e la maniglia dello scudo deve sempre aderire saldamente a esso. Naturalmente, questo preclude la mano che tiene lo scudo da qualsiasi altro uso se non quello, appunto, di tenere lo scudo al proprio posto. 
+
+STATISTICHE:
+
+Bonus alla Classe Armatura: 3
+Speciale: +3 contro Armi da Lancio
+Peso: 15
+Non utilizzabile da: 
+Bardo 
+Druido 
+Mago 
+Ladro~
+@10059 = ~Scudo Drow +3
+Uno scudo medio si porta allo stesso modo di quello piccolo. A differenza di quello piccolo però, il suo peso impedisce al personaggio di usare la mano che lo sorregge per portare altri oggetti. Gli scudi medi sono normalmente in metallo, hanno un diametro di circa 1 m e possono avere qualunque forma, rotondi, quadrati o ad ali di drago spiegate. Un tipico scudo medievale assomiglia a un triangolo con una punta rivolta verso il basso. 
+
+STATISTICHE:
+
+Bonus alla Classe Armatura: 4
+Peso: 7
+Richiede: 12 alla Forza
+Non utilizzabile da:
+ Bardo
+ Druido
+ Mago
+ Ladro~
+@10060 = ~Scimitarra +3, "Furia di Andarous"~
+@10061 = ~Scimitarra +3, "Furia di Andarous"
+
+Andarous era un ranger che perse i suoi boschi a causa degli orchi che utilizzarono i tronchi del bosco per costruirci un forte. Mielikki rispose alle preghiere del ranger donandogli questa spada per ottenere vendetta in nome della natura. Con questa scimitarra Andarous riuscì facilmente a distruggere tutti gli orchi del forte.
+
+STATISTICHE:
+
+THACO: +3 di bonus
+Danno: 1D8 +3
++2D4 di Danni Elettrici
+Classe Armatura: +2 di Bonus
+Speciale: Stordisce il bersaglio a meno di tiro salvezza contro Incantesimo
+Tipo di danno: tagliente
+Peso: 3
+Fattore velocità: 2
+Tipo di competenza: Spada Larga
+Tipo: ad una mano
+Utilizzabile solo da:
+  Druido
+  Ranger~
+@10062 = ~Katana +3, "El Tel'lerian"~
+@10063 = ~Tel'lerian era un grande guerriero proveniente da Kara-Tur. Era un mercenario che viaggiò attraverso i reami alla ricerca di lavoro e combattendo il male. Questa era tra le sue armi preferite. Perse questa spada e la sua vita a seguito di un'imboscata mentre viaggiava verso Candlekeep. 
+
+STATISTICHE:
+
+Speciale: 10% di possibilità di pietrificare ad ogni colpo andato a buon fine se al bersaglio non riesce un tiro salvezza contro la pietrificazione
+
+Danno: 2D4 +3
+THACO: +3 bonus
+Tipo di danno: Tagliente
+Peso: 10
+Tipo di competenza: Spade Larghe
+Fattore velocità: 3
+Tipo: ad una mano
+Utilizzabile solamente da:
+Guerrieri 
+Ranger
+Paladini~
+@10064 = ~Spada +3 "Morte di Khazid"~
+@10065 = ~La Morte di Khazid fu creata da un fabbricante di armi nano, Khazid El Dum. Aveva quest'arma quando un gruppo di ladri irruppe in casa sua e fu ucciso con la sua stessa spada. Parta della sua essenza spirituale si legò a questa spada nel momento stesso della sua morte. 
+
+STATISTICHE:
+
+Danno: 1D10 +3
+Speciale: +1 alla Forza ed alla Costituzione
+THACO: +3 di bonus
+Tipo di danno: tagliente
+Peso: 12
+Fattore velocità: 9
+Tipo di competenza: Spada Larga
+Tipo: a due mani
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Thief~
+@10066 = ~Katana +4 "Toran El Desiade" ~
+@10067 = ~Si conosce poco la storia di questa grande katana. Ha delle natiche rune incise sull'elsa che probabilmente gli concedono delle abilità magiche. Chiunque sia di cuore malvagio non potrà brandire questa katana che è solo per I buonio di cuore. 
+
+STATISTICHE:
+
+Danno: 1D10 +4 
++2D4 di danno da Freddo
+THACO: +4 di bonus
+Speciale: +1 Bonus alla Classe Armatura
+               +1 alla Destrezza
+               10% di possibilità di lanciare Orrore sul bersaglio
+Tipo di danno: Tagliente
+Peso:  2
+Tipo di competenza: Spada Larga
+Fattore velocità: 2
+Tipo: ad una mano
+Utilizzabile solamente da:
+Guerrieri
+Ranger
+Paladini~
+@10068 = ~Scimitarra Drow +3 "Nebbia Gelida"~
+@10069 = ~Scimitarra Drow +3
+Questa lunga lama intarsiata e ricurva è tipica sia della sciabola che della scimitarra, anche se le loro origini appartengono a zone diverse di Faerun. 
+Quest'arma è stata incantata dalla maga drow, Gab'Riella Maelither, in modo tale da non disintegrarsi quando ci si trova sul mondo di superficie. Solo alcuni oggetti sono stati fatti in questo modo per la conquista definitiva della superficie da parte della Casata Maelither.
+
+STATISTICHE
+
+2D4 di Danni da Freddo
+
+Danno: 1D8 +4
+THAC0: +4
+Tipo di danno: tagliente
+Peso: 3
+Fattore velocità: 2
+Tipo di competenza: Scimitarra/Wakizashi/Ninja-To
+Tipo: ad una mano
+Richiede: 10 alla Forza
+Non utilizzabile da:
+ Chierico
+ Mago
+ Thief~
+@10070 = ~Corazza di Piastre~
+@10071 = ~Corazza del Re dell'Inverno~
+@10072 = ~La corazza di piastre è un combinazione tra la corazza di maglia e di piastre che protegge parti vitali come il petto, l'addome e l'inguine. Simile nella struttura alla corazza di piastre di bronzo, la corazza di piastre è una via di mezzo tra maglia e cuoio. 
+
+STATISTICHE:
+
+Classe Armatura: 3
+Peso: 50
+Richiede: 12 alla Forza
+Non utilizzabile da:
+ Bardo 
+ Druido
+ Mago
+ Ladro
+ Arciere
+ Infiltrato
+ Barbaro
+ Addestratore di animali
+ Kensai
+ Monk~
+@10073 = ~Questa armatura è stata ricavata dalla pelle di un poderoso verme polare della Valle del Vento Gelido, noto alla gente del posto come "Il Re dell'Inverno". La pelle della creatura è estremamente spessa e robusta, ma sorprendentemente leggera. È di aspetto molto insolito, e emana dei riflessi azzurrognoli.
+
+STATISTICHE:
+
+Classe Armatura: 3
+Speciale: +25% di Resistenza al Freddo ed al Fuoco
+Peso: 25
+Non utilizzabile da:
+ Bardo
+ Mago
+ Ladro~
+@10074 = ~Elmo~
+@10075 = ~Elmo del Patriota~
+@10076 = ~E' un elmo dall'aspetto strano.~
+@10077 = ~Questo elmo fu indossato dal guerriero nanico Danel Silverfrost, re e martire della perduta città-stato dei nani di Silverrock. Le imprese di Danel non sono risapute come quelle di molti altri eroi nanici, ma questo forse è dovuto al fatto che il suo regno morì assieme a lui. La sua nazione subì gravi perdite quando i troll e i giganti la attaccarono oltre mille anni fa, nel conflitto quasi  dimenticato chiamato "Guerra del Sangue Coagulato". La guerra tra le varie tribù di mostri e il regno di Silverrock infuriò per oltre quindici anni. Danel non tentò mai di abbandonare il suo regno, o di cercare l'aiuto dei paesi vicini, o di lasciare il suo popolo. Anzi, nonostante il fatto che molti dei suoi sudditi se ne fossero andati, Danel rimase a Silverrock fino alla fine. Prima della battaglia finale di quella terribile guerra, Danel disse alla sua gente "Quando vedrete la piuma sulla mia testa cadere, voglio che vi assicuriate che il nostro popolo non si pieghi come l'oro, ma si spezzi, come il ferro."
+
+Non appena la battaglia ebbe inizio, Danel guidò la carica alla testa dell'esercito e si gettò tra gli artigli di una dozzina di troll. Nel momento in cui la sua piuma scomparve, ogni uomo, donna e bambino rimasti a Silverrock si riversarono fuori dalle caverne e trascinarono con loro quanti più troll e giganti poterono. Barili di olio infuocato vennero riversati in tutto il palazzo di Danel e nei luoghi pubblici della città, incendiando i nani assieme ai troll e ai terribili giganti del gelo. Alla fine, i mostri non ottennero altro che una vittoria di Pirro. La città dei nani era un cumulo di rovine fumanti che non offriva più né tesori, né schiavi, né cibo. Molti troll morirono di fame durante l'inverno, e quando si rivoltarono contro i giganti loro alleati per sfamarsi, l'intero esercito andò allo sbando.
+
+STATISTICHE:
+
+Bonus alla CLasse Armatura: 2
+Peso: 4
+Non utilizzabile da:
+ Mago
+ Bardo
+ Ladro~
+@10078 = ~Bracciali d'Argento di Kedl~
+@10079 = ~Questo mago, che aveva fatto di Phlan la propria casa, era conosciuto come "Kedl dei Tre Anelli", perché si diceva che avesse inventato una tecnica che gli permetteva di indossare tre anelli magici simultaneamente. Era un incantatore di oggetti, molto conosciuto per i suoi gusti particolari in materia di vestiti, gioielli ed altri accessori. I suoi lucidi bracciali d'argento erano una parte fondamentale del suo guardaroba. Kedl finì poi per vendere i bracciali quando gli servì denaro per comprare degli anelli di grande potere. Sfortunatamente, Kedl morì durante un assalto degli orchi a Phlan pochi anni dopo.
+
+STATISTICHE:
+
+Classe Armatura: 2
+Peso: 2
+Non utilizzabile da:~
+@10080 = ~Spada Corta~
+@10081 = ~Sangue di Ferro~
+@10082 = ~La spada corta fu la prima spada prodotta. Per dare un'idea approssimativa della forma, la spada corta può essere assimilata a una sorta di pugnale con lama così lunga da non poter più essere considerata tale. Il termine spada corta non esiste nella classificazione delle spade. Tuttavia, definisce una lama a doppio taglio di circa 60 cm. Solitamente l'estremità è appuntita, l'ideale per trafiggere.  
+
+STATISTICHE:
+
+Danno: 1D6
+Tipo di danno: perforante
+Peso: 3
+Fattore velocità: 3
+Tipo di competenza: Spada Corta
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico 
+ Mago
+ Addestratore di animali~
+@10083 = ~Sangue di Ferro, un'arma dalla cupa reputazione nel gelido nord, venne forgiata da un perfido barbaro sciamano di nome Hekedder. Questi passò la spada in dono a un suo cugino. L'arma fu usata in molti modi nelle mani di vari barbari col passare degli anni. Prima o poi, ogni proprietario si ritrovò odiato da tutti per il semplice fatto di essere in possesso della spada. La corruzione della negromanzia era talmente deplorata dalle tribù del nord che il nome maledetto del Sangue di Ferro divenne di conoscenza comune. Anche al giorno d'oggi, i barbari non toccano la lama maledetta e non amano nemmeno parlarne. È forgiata in ferro grezzo e lavorata rozzamente, e la superficie della lama è ricoperta di grosse tacche e dei segni di colpi di martello. L'impugnatura è avvolta in pelle color rosso fuoco.
+
+STATISTICHE:
+Danno: 1D6 +4
+THACO: +4
+Tipo di danno: Perforante
+Speciale: Ogni colpo cura 3 punti ferita a chi la impugna
+Peso: 3
+Fattore velocità: 1
+Tipo di competenza: Spada Piccola
+Tipo: ad una mano
+Non utilizzabile da:
+ Personaggi di allineamento Buono
+ Druido
+ Chierico 
+ Mago~
+@10084 = ~Spada Lunga~
+@10085 = ~Cinismo~
+@10086 = ~Queste spade vengono solitamente chiamate spade a doppio filo, spade da guerra o spade militari. In molti casi la spada lunga ha solo una lama affilata. Non esiste un'unica versione della spada lunga: la linea, la forma e la lunghezza variano da cultura a cultura a seconda del periodo. Tra le caratteristiche più diffuse delle spade lunghe va menzionata la lunghezza dell'arma, che può variare dai 90 ai 120 cm.. In questo caso la lama da sola arriva fino a 100 cm. della lunghezza totale. Alcune spade lunghe hanno una lama a doppio filo e una cima appuntita. Nonostante la punta, tuttavia, la spada lunga è progettata per tagliare, non per perforare.
+
+STATISTICHE:
+
+Danno: 1D8
+Tipo di danno: tagliente
+Peso: 4
+Fattore velocità: 5
+Tipo di competenza: Spada Lunga
+Tipo: ad una mano
+Richiede: 6 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Addestratore di animali~
+@10087 = ~Nell'834 CV un mago chiamato Legedain il Saggio colse sul fatto un famoso ladro che si era intrufolato all'interno della sua torre. Il ladro era un cinico esperto in furti nelle dimore più facoltose chiamato Ilfain Blackfeather. Legedain stava invecchiando ed era stanco del suo corpo fragile. Per rimediare alla sua situazione lanciò Giara Magica e imprigionò lo spirito di Ilfain in una gemma pronta a ospitarlo. Legedain poi trasferì la sua anima nel corpo del giovane elfo e lasciò la gemma su una mensola lì vicino. Cento anni dopo, Legedain decise di farne qualcosa. Creò una spada per la sua arrogante guardia del corpo, Gundak, e trasferì lo spirito di Ilfan dalla gemma ospite alla spada. Ilfain, sempre estremamente critico anche quando era in vita, prese a criticare Gundak in combattimento. Gundak si stancò della spada dopo due settimane e la gettò in strada. Una lunga serie di guerrieri la raccolse e la scartò dopo averla posseduta per poco tempo. Col passare degli anni, l'arma è diventata conosciuta soltanto col suo nome attuale.
+
+STATISTICHE:
+
+Danno: 2D4 +4
+THACO: +4
+Tipo di danno: Tagliente
+Speciale: Trovare Trappole 1 volta al giorno, Scassinare 1 volta al Giorno
+Peso: 4
+Fattore velocità: 5
+Tipo di competenza: Spada Lunga
+Tipo: ad una mano
+Non utilizzabile da:
+ Druido 
+ Chierico
+ Mago~
+@10088 = ~Spada Bastarda~
+@10089 = ~Spada Bastarda Maligna +4~
+@10090 = ~Oltre ad essere di notevole fattura artigianale, delle piccole rune di potere possono essere viste incise lungo tutta la superficie di questa spada. E' ovvio che ci sia stato un notevole sforzo durante la sua creazione e sebbene non si veda a prima vista, ad uno sguardo più attento può essere notata una leggera luminosità blu provenire dalle rune.
+
+STATISTICHE:
+
+Danno: 2D4 +4
+THAC0: +4
+Tipo di danno: Tagliente
+Speciale: 15% di possibilità che il bersaglio sia infettato da Malattia
+Peso: 10
+Fattore velocità: 8
+Tipo di competenza: Spada Bastarda
+Tipo: ad una mano
+Non utilizzabile da:
+ Personaggi di Allineamento Buono
+ Druido
+ Chierico
+ Mago
+ Ladro~
+@10091 = ~Martello da Guerra~
+@10092 = ~Martello da Guerra +4: Difensore~
+@10093 = ~Come gli altri di questo genere, questo martello da guerra è fatto interamente d'acciaio, con un martello schiaccia-ossa montato su una punta di 45 cm. Gli sono state attribuite anche alcune proprietà magiche che lo rendono più efficace in combattimento.  
+
+STATISTICHE:
+
+Danno: 1D4 +3
+THAC0: +4
+Tipo di danno: Schiacciamento
+Bonus alla Classe Armatura: 2
+Bonus alle Resistenze:
+  +15% di Resistenza ai Danni Perforanti
+  +15% di Resistenza ai Danni Taglienti
+  +15% di Resistenza ai Danni da Schiacciamento
+  +15% di Resistenza alla Magia
+  +3 ai Tiri Salvezza contro Incantesimi
+Peso: 6
+Fattore velocità: 3
+Tipo di competenza: Martelli
+Tipo: ad una mano
+Non utilizzabile da:
+ Druido
+ Mago
+ Ladro~
+@10094 = ~Morning Star~
+@10095 = ~Morning Star degli Dei~
+@10096 = ~La morning star è una lancia di legno che termina con una punta di metallo realizzata con una guaina di ferro chiodata. La lunghezza totale della morning star è di circa 1,2 m. In particolare, questa morning star presenta la punta in oro potenziata magicamente in modo da migliorarne le prestazioni e rimediare alla malleabilità dell'oro.  
+
+STATISTICHE:
+
+Danno: 2D4 +3
+THAC0: +3
+Tipo di danno: Schiacciamento
+Bonus alla Classe Armatura: 1
+Saggezza: +1 di bonus
+Memorizza 2 incantesimi da Sacerdote supplementare di livello 1
+Memorizza 1 incantesimo da Sacerdote supplementare di livello 2
+Peso: 10
+Fattore velocità: 6
+Tipo di competenza: Mazza
+Tipo: ad una mano
+Utilizzabile solamente da:
+ Chierico (singolo, duale, e multiclasse)~
+@10097 = ~Morning Star +4: Difensore~
+@10098 = ~La morning star è una lancia di legno che termina con una punta di metallo realizzata con una guaina di ferro chiodata. La lunghezza totale della morning star è di circa 1,2 m. In particolare, questa morning star presenta la punta in oro potenziata magicamente in modo da migliorarne le prestazioni e rimediare alla malleabilità dell'oro.  
+
+STATISTICHE:
+
+Danno: 2D4 +4
+THAC0: +4
+Tipo di danno: Schiacciamento
+Bonus alla Classe Armatura: 2
+Bonus alle Resistenze: 
+  +15% di Resistenza alla Magia
+  +20% di Resistenza ai Danni Tagliente
+  +20% di Resistenza ai Danni Perforanti
+Peso: 10
+Fattore velocità: 6
+Tipo di competenza: Mazza
+Tipo: ad una mano
+Non utilizzabile da:
+ Druido
+ Mago 
+ Ladro~
+@10099 = ~Mazzafrusto~
+@10100 = ~Mazzafrusto Scioccante +4~
+@10101 = ~Il mazzafrusto è composto da una robusta impugnatura in legno e una sfera di metallo, una palla di metallo chiodata o un bastone chiodato agganciati all'impugnatura tramite una catena o una cinghia. L'arma veniva usata originariamente come uno strumento per falciare il grano. Questo mazzafrusto è stato incantato magicamente. Delle rune possono essere viste brillare lungo tutta la sua superficie.
+
+STATISTICHE:
+
+Danno: 1D6 +3
+THAC0: +4
+Tipo di danno: Schiacciamento
+Bonus alla Classe Armatura: 1
+Speciale: 
+  50% di possibilità di causare +2D3 di Danni elettrici
+  10% di possibilità che il bersaglio sia Stordito
+Peso: 15
+Fattore velocità: 7
+Tipo di competenza: Mazzafrusti
+Tipo: ad una mano
+Non utilizzabile da:
+ Druido
+ Mago 
+ Ladro~
+@10102 = ~Amuleto~
+@10103 = ~Sangue di Kossuth~
+@10104 = ~Raramente il dio di fuoco, Kossuth, prende forma fisica nei Reami. In quelle rare occasioni, tuttavia, la distruzione lo segue. Fu evocato nell'801 CV da una folta schiera di seguaci fedeli che supplicarono poichè avevano bisogno dell'aiuto del loro dio per sconfiggere una piovra colossale che minacciava un tempio sulla costa. Kossuth apparve in un falò gigantesco e lottò con l'enorme bestia soprannaturale. L'avatar del dio trionfò sulla piovra, ma il mostro riuscì a danneggiare l'essenza di Kossuth. Il fuoco divino corse attraverso il corpo della creatura e si annidò in uno dei suoi occhi, trasformandolo velocemente in una bizzarra sfera nera illuminata dall'interno dalla fiamma.
+
+STATISTICHE:
+
+Tutti i tempi di lancio sono ridotti di 2.
+Tutti i danni da fuoco inflitti dal personaggio sono aumentati del 20%.
+Non utilizzabile da:~
+@10105 = ~Anello~
+@10106 = ~Anello della Resistenza Maggiore~
+@10107 = ~Un anello è una piccola fascia di metallo prezioso utilizzata come gioiello. Alcuni anelli rari sono stati incantati e hanno acquisito poteri magici. Questi anelli sono molto ricercati, soprattutto dagli avventurieri. Per qualche ragione questo anello è caldo al tocco.
+
+STATISTICHE:
+
+Bonus alla classe Armatura: 2
+Bonus alle resistenze: 
+ +25% di Resistenza ai Danni da Schiacciamento
+ +3 al Tiro Salvezza contro gli Incantesimi
+Non utilizzabile da:~
+@10108 = ~Wakizashi +2~
+@10109 = ~Wakizashi
+La wakizashi, o spada compagna, è estremamente importante per il samurai. Viene portata sempre, anche all'interno di un edificio, e si trova accanto al samurai quando dorme la notte. Costruita altrettanto accuratamente quanto una katana, la wakizashi è una spada più corta, lunga tra i 30 ed i 60 cm., ed è un'arma pericolosa in mano a chi sa usarla.
+
+STATISTICHE
+
+Danno: 1D8 +2
+THAC0: +2
+Tipo di danno: perforante
+Peso: 3
+Fattore velocità: 3
+Tipo di competenza: Scimitarra/Wakizashi/Ninja-To
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@10110 = ~Ninja-To +2~
+@10111 = ~Ninja-To
+La spada del ninja, la ninja-to, è di qualità inferiore rispetto alle altre spade Kara-Tur come la katana. la ninja-to è corta e ha una lama dritta, l'ideale per i sotterfugi dei ninja. Essa è più adatta ai luoghi chiusi e a volte avvantaggia il ninja rispetto alle spade più lunghe usate dal samurai.
+
+STATISTICHE
+
+Danno: 1D8 +2
+THAC0: +2
+Tipo di danno: tagliente
+Peso: 5
+Fattore velocità: 4
+Tipo di competenza: Scimitarra/Wakizashi/Ninja-To
+Tipo: ad una mano
+Richiede: 6 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@10112 = ~Abito del Grande Stregone~
+@10113 = ~Questo potente abito da mago offre protezione da tutte le forme di attacco fisico aumentando al contempo la resistenza alla magia e i tiri-salvezza dell'individuo. Per la natura dell'incantesimo, può essere indossato solo da maghi di allineamento malvagio.
+
+STATISTICHE:
+
+Classe Armatura: +2 di Bonus
+Resistenza alla Magia: 25%
+Tiro Salvezza: +3 di bonus
+Peso: 6
+Utilizzabile solo da:
+ Mago (singolo, duale, e multiclasse)
+ Evil-aligned character~
+@10114 = ~Armatura del Drago Verde~
+@10115 = ~Questa strana armature verde sembra possedere dei potenti poteri magici.~
+@10116 = ~Questa armatura, proviene dal Lontano Est, apparteneva ad un Imperatore conosciuto solo con il nome di Il Drago Verde. Governò il suo paese con il pugno di ferro finché incontrò la morte per mano di una Signora della Guerra.
+
+STATISTICHE:
+Classe Armatura -4
+Destrezza +1
+Protezione dal Piano Negativo
+Rigenera 2 punti ferita per round
+
+Speciale:
+Evoca un 1 Guardiano Non Morto 1 volta al giorno (Golem d'Osso)
+Lancia Rigenerazione 1 volta al giorno
+Lancia Etereo 1 volta al giorno
+
+Non utilizzabile da:
+Ladro
+Bardi~
+@10117 = ~Mazzafrusto del Veleno~
+@10118 = ~Ogni testa di questo mazzafrusto é stata immersa in un veleno magico che non potrà mai essere tolto fino alla distruzione dell'arma stessa. Dovrebbe essere maneggiato con molta cura. Inoltre sembra che le teste, un tempo, abbiano avuto una propria mente. 
+
+STATISTICHE
+
+Abilità di combattimento: alle vittime deve riuscire un tiro salvezza contro veleno altrimenti subiranno un 10 punti di danno da veleno
+
+10% di possibilità che il possessore del mazzafrusto sia avvelenato se non gli riesce un tiro salvezza contro veleno.
+
+THACO: +3
+Danno: 2D4 +3
+Tipo di danno: schiacciamento
+Peso: 9
+Fattore velocità: 5
+Tipo di competenza: Mazzafrusto/Morningstar
+Tipo: ad una mano
+Richiede: 11 alla Forza
+Non utilizzabile da:
+ Druido
+ Mago 
+ Ladro~
+@10119 = ~Pergamena~
+@10120 = ~Dalla Sala delle Meraviglie di Baldur's Gate sono stati rubati alcuni oggetti di valore. Il ladro o i ladri non si conoscono ma se hai qualche informazione in merito ai furti avvenuti contatta, per favore, il Pugno Fiammante.~
+@10121 = ~Bertoxxulous~
+@10122 = ~Bertoxxulous, Il Portatore di Calamità
+
+"La sola verità é che tutti muoiono". Questa è la frase impressa sulla lama vicino all'elsa in lingua demoniaca. Mentre si brandisce quest'arma il possessore considera il decomporsi della carne come uno spettacolo bellissimo. Il sottile color porpora di una nuova contusione, l'iridescenza quasi giallo verdastra di una pustola infetta, sono solo alcune delle cose con cui il possessore di quest'arma inizierà ad avere gusto.
+La spada arde come di un icore nero quando viene utilizzata la sua magia, rivelando la sua natura. Della negromanzia malvagia infesta ogni parte di quest'arma. Per coloro che utilizzano questa spada ripugnante, non c'é niente di più desiderabile di essere circondato da esseri, anche non morti, in continuo decomponimento e deperimento.
+Non si sa altro su questa spada se non che proviene dai Nove Inferni.
+
+STATISTICHE:
+
+Abilità 1: il bersaglio subisce una penalità di -3 nei movimenti per 60 secondi se non gli riesce un tiro salvezza contro bacchette.
+
+Abilità 2: il bersaglio subisce una penalità di -2 alla sua destrezza per 30 secondi senza tiro salvezza.
+
+Abilità 3: il bersaglio subisce una penalità di 5 danni da veleno per 2 secondi a meno che non gli riesce un tiro salvezza contro veleno/morte magica.
+
+Penaltà 1: -1 alla Costituzione.
+
+Penaltà 2: Maledetta.
+
+THAC0: +6
+Danno: 1D6 +6
+Tipo di danno: perforante
+Peso: 2
+Fattore velocità: 1
+Tipo di competenza: Spada Corta
+Tipo: ad una mano
+
+Utilizzabile da:
+ Personaggi di allineamento Malvagio~
+@10123 = ~Wakizashi +4 "Vento Divino"~
+@10124 = ~Wakizashi +4 "Vento Divino":
+Questa spada apparteneva ad un nobile guerriero chiamato Shikintu. I suoi riflessi erano talmente veloci che le sue vittime venivano stordite dalla Potenza e dalla rapidità dei suoi colpi. Si dice che quando morì il suo spirito divenne tutt'uno con la sua spada.
+
+STATISTICHE
+
+20% di possibilità che la vittima sia Stordito 
+Danno: 1D8 +4
+THAC0: +4
+Tipo di danno: perforante
+Peso: 3
+Fattore velocità: 3
+Tipo di competenza: Scimitarra/Wakizashi/Ninja-To
+Tipo: ad una mano
+Richiede: 5 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@10125 = ~Katana +4 "Rovina Mortale"~
+@10126 = ~Questa é una spada creata da Fenris il Negromante proveniente dall'Est. Non si conosce nient'altro di quest'arma e del suo creatore. Magari se ci si impegna si potrà trovare un pò della sua storia scritta in un libro.
+
+STATISTICHE:
+
+Uccide i Non Morti
+Danno: 1D10 +4
++2 di danni da fuoco
+THAC0: +4
+Tipo di danno: tagliente
+Peso: 6
+Fattore velocità: 4
+Tipo di competenza: Katana
+Tipo: ad una mano
+Richiede: 6 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago~
+@10127 = ~Spada a due Mani~
+@10128 = ~Spada del Drago verde +4~
+@10129 = ~La spada a due mani deriva dalla spada lunga. Nell'ambito dei costanti tentativi dei fabbricanti di migliorare gli equipaggiamenti dei guerrieri, la lama della spada lunga è stata allungata e quindi è stato necessario allungare l'impugnatura per poter brandire l'arma agevolmente. La funzione principale di una spada a due mani è quella di disarcionare i cavalieri in sella e spezzare le formazioni armate di picche.
+
+STATISTICHE:
+
+Danno: 1D10
+Tipo di danno: tagliente
+Peso: 15
+Fattore velocità: 10
+Tipo di competenza: Spada a due Mani
+Tipo: a due mani
+Richiede: 14 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago 
+ Ladro~
+@10130 = ~Questa era l'arma favorita del brutale Imperatore conosciuto col nome di Drago Verde. Lui giustiziava personalmente i suoi nemici, persino i familiari, con questa spada. Quest'arma fu sepolta con lui insieme con altri oggetti magici preziosi.
+
+STATISTICHE:
+1D10 +4
+THAC0 +4
+5% di possibilità che il bersaglio verrà disintegrato.
+I danni sono raddoppiati verso i Non Morti e Demoni. 
+Lancia Dissolvi magie ad ogni colpo
+
+Speciale:
+Lancia: Raggio di Sole 2 volte al giorni al livello 20.
+
+Utilizzabile da:
+Guerrieri
+Paladini
+Ranger~
+@10131 = ~Uno Strano Anello~
+@10132 = ~Uno Stranissimo Anello~
+@10133 = ~Sei tentato di infilarti questo anello. Prova e vedrai l'effetto.~
+@10134 = ~Un'inquietante sensazione ti pervade quando indossi questo anello. Forse sarebbe nel tuo interesse non infilarti questo anello e riconsegnarlo a Smeagol. Perché non l'hai infilato, vero?~
+@10135 = ~Articoli del Lontano Est di Shikoku~
+@10136 = ~A Bordo del tappeto Volante~
+@10137 = ~Pergamene R Us~
+@10138 = ~Vuoi installare gli incontri con i druidi migliorati?~
+@10139 = ~Vuoi installare gli incontri con Shagbag migliorati?~

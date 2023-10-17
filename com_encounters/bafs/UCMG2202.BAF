@@ -1,0 +1,11 @@
+IF
+	Global("UcmMoreDrow3","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreature("uddrow33",[650.748],14) // Drow Warrior
+		CreateCreature("uddrow32",[713.800],0) // Drow Warrior
+		CreateCreature("uddrow33",[1681.475],6) // Drow Warrior
+		SetGlobal("UcmMoreDrow3","GLOBAL",1)
+END
+
+

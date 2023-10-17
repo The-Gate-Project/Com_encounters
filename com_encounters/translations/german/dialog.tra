@@ -1,0 +1,1143 @@
+@0    = ~So haben wir Euch endlich doch noch eingeholt, <CHARNAME>! Es war keine leichte Aufgabe, wegen all dieser Oberflächen-Elfen nahe des Einganges, aber nichts desto trotz sind wir hier.~
+@1    = ~Wer seid Ihr und was wollt Ihr von mir?~
+@2    = ~Wer ich bin? Ich war Gab'Riella Maelither, Waffenmeisterin des Hauses Maelither, aber Dank Euch bin ich jetzt "Mutter" Maelither.~
+@3    = ~Dank uns? Was soll das bedeuten?~
+@4    = ~(Seufz) Ihr erinnert Euch nicht daran, im Unterreich eine Mutter Oberin mit ihrer Eskorte getroffen zu haben, die Ihr in den Aussenbezirken von Ust Natha getötet habt?~
+@5    = ~Nein.~
+@6    = ~Ja, aber sie hat uns zuerst angegriffen.~
+@7    = ~Ihr wagt es, mich anzulügen? Möge die grosse Mutter Euch für alle Ewigkeiten foltern!~
+@8    = ~Ja, das ist vielleicht die Wahrheit. Sie hatte einen arroganten Überlegenheitskomplex. Sie hat auf alles und jeden herabgesehen, selbst auf ihre erstgeborene Tochter, die immer versucht hatte, so zu sein, wie die ehrwürdige Mutter es sich vorstellte. Ich sollte Euch dafür danken, dass ihr sie beseitigt habt, da mich das nun zum Oberhaupt des Hauses Maelither macht.~
+@9    = ~Dann ist ja alles gut. Ich habe Euch einen Gefallen getan und Ihr könnt mir einen tun, indem Ihr uns weiterziehen lasst.~
+@10   = ~(Mit einem wilden Ausdruck in ihren Augen.) Das könnte ich... ja, das könnte ich wirklich tun, wenn es da nicht ein kleines Problem gäbe. Ja... ein kleines Problem.~
+@11   = ~Oh, und was könnte das sein, ehrwürdige Mutter Maelither?~
+@12   = ~Haha, das gefällt mir. Ihr versucht Euch bei mir einzuschmeicheln. Ihr wäret ein guter kleiner Sklave im Hause Maelither, aber zurück zu unserem kleinen Problem. (Sie hält inne, als ob sie verwirrt wäre.)~
+@13   = ~(Ihr wartet und fragt Euch, wer sie wohl aus ihrer Gummizelle gelassen hat.)~
+@14   = ~(Ihr spürt den Hass, als Ihr in ihre Augen seht.) Keine weiteren Störungen mehr durch Oberflächenbewohner, Ihr habt eine Drow getötet und werdet nicht damit davonkommen! ELGG LIL OGGLIN! LOLTH TLU MALL; JAL ULTRINNAN ZHAH XUNDUS!!~
+
+@100  = ~Hallo <LADYLORD>. Wollt Ihr vielleicht etwas von meiner Qualitätsware kaufen? Ich habe viele Schriftrollen zu einem guten Preis.~
+@101  = ~Dann zeigt uns einmal, was Ihr habt.~
+@102  = ~Vielleicht ein anderes Mal.~
+@103  = ~Wie Ihr wünscht.~
+@104  = ~Kommt wieder!~
+
+@200  = ~Hallo, <LADYLORD>. Wollt Ihr vielleicht etwas von meiner Qualitätsware kaufen? Ich habe die besten Vorräte, um sie den Gläubigen anzubieten.~
+@201  = ~Zeigt mir, was Ihr habt.~
+@202  = ~Vielleicht ein anderes Mal.~
+@203  = ~Wie Ihr wünscht. Habt eine gute Zeit und möge Lathander Euch segnen.~
+@204  = ~Kommt wieder!~
+
+@300  = ~Seid gegrüsst, Reisende. Gibt es etwas, das Meister Shikoku für Euch tun kann, oder habt Ihr irgendwelche Fragen?~
+@301  = ~Ja, zeigt mir, was Ihr anzubieten habt.~
+@302  = ~Fragen? Ja, möglicherweise.~
+@303  = ~Im Moment nichts.~
+@304  = ~Sehr schön, ehrenwerter <PRO_SIRMAAM>. Seht, was ich Euch anbieten kann.~ ~Sehr schön, ehrenwerte <PRO_SIRMAAM>. Seht, was ich Euch anbieten kann.~
+@305  = ~Fragen dürft Ihr stellen. Antworten werde ich, wenn ich kann.~
+@306  = ~Wißt Ihr etwas über die verhüllten Magier?~
+@307  = ~Was führte Euch nach Amn? Ihr seht wie jemand aus dem Osten aus.~
+@308  = ~Habt Ihr von dem Magier namens Irenicus gehört?~
+@309  = ~Bleibt Ihr lange hier?~
+@310  = ~Ihr könnt jederzeit wieder kommen.~
+@311  = ~Ich weiss nicht viel über sie. Ich weiss nur, dass sie darüber wachen, wie die Magie hier angewendet werden darf. Ihr müsst Euch eine Erlaubnis besorgen, um zaubern zu können. Ansonsten sperren sie Euch ein. Möchtet Ihr jetzt sehen, was ich anzubieten habe?~
+@312  = ~Ja, zeigt mir, was Ihr anzubieten habt.~
+@313  = ~Ja, ich bin aus den fernen Osten. Ich bin vom Orden des schafenden Tigers. Das ist alles, was ich dazu sagen kann. (Er lächelt Euch an, doch dieses Lächeln beunruhigt Euch.) Wollt Ihr jetzt meine Waren begutachten?~
+@314  = ~Nein. Möchtet Ihr jetzt sehen, was ich anzubieten habe?~
+@315  = ~Ihr seid ziemlich neugierig. Was passierte der neugierigen Katze? Starb dafür, dass sie zu neugierig war... Möchtet Ihr jetzt meine Waren sehen, ja?~
+
+@400  = ~Ich grüsse Euch, kleines Wesen! Ich bin so froh, dass Ihr gekommen seid. Das erspart uns Ärger bei der Suche.~
+@401  = ~Bei der Suche nach uns? Was wollt Ihr von uns?~
+@402  = ~Euch natürlich töten. Er sagte, dass Ihr hier sein würdet und dass wir Euch begrüssen sollen. Dann sollen wir Euer Leben beenden.~
+@403  = ~Wer ist "Er" und warum will er uns tot sehen?~
+@404  = ~Für jemanden, der bald sterben wird, verschwendet Ihr Eure Zeit mit dummen Fragen. Nein, wir werden Euch nicht sagen, wer "Er" ist. Das wäre gar nicht in seinem Sinne. Jetzt haltet still, das wird nicht sehr weh tun.~
+@405  = ~Noch eine Frage, wenn Ihr gestattet.~
+@406  = ~Und was?~
+@407  = ~Ist das Euer natürlicher Gestank, oder rieche ich hier eine Kloake in der Nähe?~
+@408  = ~Interessant. Wenn ich einen Sinn für Humor hätte, läge ich jetzt wahrscheinlich lachend am Boden. Doch jetzt wieder zurück zum Geschäft. Lasst und den Tanz beginnen!~
+
+@500  = ~Was ist hier los? Oberflächenabschaum in unserem Territorium? So wie Ihr ausseht, kommt Ihr geradewegs aus dieser elenden Sahuagin-Stadt. Sie werden bitter dafür bezahlen, dass sie Euch passieren liessen. Doch zuerst werdet Ihr hier und jetzt sterben.~
+@501  = ~Hey, wartet mal eine Minute! Wir haben Euch nichts getan, warum seid Ihr uns dann feindlich gesinnt?~
+@502  = ~Erstens seid Ihr minderwertig. Zweitens musste ich in Eurer Sprache mit Euch reden, damit Ihr mich verstehen könnt. Und drittens wird mich Lolth belohnen, wenn ich Euch ihr opfere.~
+@503  = ~Ich sehe einen Fehler in dem Plan Eurer "Herrin". Erstens ist er nicht durchdacht. Zweitens sind wir die besseren Kämpfer. Und drittens... dos lueth Lolth phuul rothe iblith!~
+@504  = ~(Die ehrwürdige Mütter sieht Euch böse an.) Sargtlins! Xun izil dos phuul quarthen lueth elgg nind!~
+
+@600  = ~Ihr Helden seid? Dem armen Smeagol wurde sein Schatz von bösen Orks gestohlen und er will seinen Schatz zurück. Ihr helft Smeagol und Smeagol gibt Euch glänzende Münzen dafür.~
+@601  = ~Was ist das für ein Schatz, von dem Ihr sprecht?~
+@602  = ~Vielleicht ein anderes Mal.~
+@603  = ~Welcher Schatz fragt Ihr? Der Schatz ist ein kleiner funkelnder Ring, ja. Sehr, sehr funkelnd er ist. Jetzt Ihr geht holen den Ring von den bösen stinkenden Orks, jaa?~
+@604  = ~Ja, wir werden Euch den Ring besorgen. Wenn wir ihn haben, dann kommen wir wieder zurück.~
+@605  = ~Wir haben uns entschlossen, einem seltsamen Halbling namens Smeagol zu helfen. Wir sollen einen Ring finden, den ihm einige Orks gestohlen hatten.~
+@606  = ~Wo ist der Schatz? Kein glänzender Ring? Kein Schatz, keine glänzenden Münzen. Jetzt findet den Schatz.~
+@607  = ~Ahh jaa, mein Schatzzzz! Smeagol ist jetzt glücklich! Böse Orks werden meinen Schatz nie wieder bekommen. Jetzt Smeagol gibt Euch glänzende Münzen. Jetzt kann ich meinen Ring wieder tragen und schöne Fische fangen.~
+@608  = ~Wir brachten den Ring zu Smeagol zurück. Er war überglücklich, dass er den Ring wieder hatte. Es war kein Ring, der mir gefiel, er schien verflucht zu sein.~
+
+@700  = ~Nun seht mal, was da unsere Wege kreuzt. Einige hübsch aussehende Abenteurer, die sich hier unten verlaufen haben. Ihr seht so aus, als hättet Ihr etwas Gold bei Euch. Das sieht man schon an den schönen Rüstungen und Waffen. Warum übergebt Ihr uns nicht einfach alles?~
+@701  = ~Warum gebt Ihr nicht alles an uns? Ihr Dilettanten könntet Euch ja nicht einmal Euren Weg durch eine Horde Schulkinder bahnen.~
+@702  = ~Was bei den neun Höllen hat das zu bedeuten? Wir werden auf unserem eigenen Territorium von diesen Anfängern beleidigt. Schlitzen wir sie langsam auf!~
+
+@10000 = ~Chosen of Mystra's Encounters (benötigt Thron des Bhaal)~
+@10001 = ~/****************************************~
+@10002 = ~*CoM Encounters Mod Version 1.04 FULL	*~
+@10003 = ~*http://www.chosenofmystra.com	*~
+@10004 = ~*  Copyright 2010 Dark Raven	        *~
+@10005 = ~*	FOR USE WITH ToB Version 26498  *~
+@10006 = ~*	THIS FILE WILL INSTALL          *~
+@10007 = ~*	CoM Encounters IN YOUR BG       *~
+@10008 = ~*    II DIRECTORY.                    *~
+@10009 = ~*****************************************~
+@10010 = ~Anscheinend habt Ihr Thron des Bhaal nicht installiert.~
+@10011 = ~Derro Berserker~
+@10012 = ~Ehrwürdige Mutter Maelither~
+@10013 = ~Gab'Riella Maelither~
+@10014 = ~Callendous~
+@10015 = ~Black Lilli Darkstar~
+@10016 = ~Silliria~
+@10017 = ~Aris der Mächtige~
+@10018 = ~Kiel der Heldentöter~
+@10019 = ~Ortus Hammerschlag~
+@10020 = ~Kang~
+@10021 = ~Thangrim die Klinge~
+@10022 = ~General Chang~
+@10023 = ~Alexia~
+@10024 = ~Priesterin Anna~
+@10025 = ~Shikoku~
+@10026 = ~Smeagol~
+@10027 = ~Stinkender Ork~
+@10028 = ~Dummer Ork~
+@10029 = ~Uruk-hai~
+@10030 = ~Elite Uruk-hai~
+@10031 = ~Uruk-hai Anführer~
+@10032 = ~Verziertes Buttermesser~
+@10033 = ~Baldurans Buttermesser~
+@10034 = ~Dies scheint ein verziertes Buttermesser zu sein.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W4 (Stichwaffe)
+Gewicht: 1
+Initiativefaktor: 2
+Fertigkeit: Dolch
+Mindeststärke: 3
+Nicht verwendbar von:
+Klerikern~
+
+@10035 = ~Baldurans Buttermesser:
+Legenden erzählen oft von Baldurans Buttermesser. Der Held hätte es niemand anderem erlaubt, seine Besitztümer zu berühren. Es wird erzählt, dass seine Mutter ihm dieses Messer zu seinem 18. Geburtstag gab.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W4+2 (Stichwaffe)
+ETW0: +2 Bonus
+Gewicht: 1
+Initiativefaktor: 0
+Fertigkeit: Dolch
+Mindeststärke: 3
+Nicht verwendbar von:
+Klerikern~
+
+@10036 = ~Leichte Armbrust "Die Fackel"~
+@10037 = ~Die Fackel wurde von einem verrückten Gnom entworfen, der eine Vorliebe für Feuer hatte. Sie war einer der wenigen Gegenstände, die den Brand seines Laboratoriums überlebten, als er die Waffe testete.
+
+EIGENSCHAFTEN:
+
+Schaden: 2W6
+ETW0: +3 Bonus
+Speziell: benötigt keine Munition
+Initiativefaktor: 3
+Waffenfertigkeit: Fernkampfwaffe
+Nicht verwendbar von:
+Druiden
+Magiern
+Klerikern~
+
+@10038 = ~Flegel +3 "Flammender Tod"~
+@10039 = ~Dieser Flegel ist verzaubert und verursacht Feuerschaden, sowie die Erhöhung der Weisheit. Amuanator wäre sehr erfreut.
+
+EIGENSCHAFTEN:
+
+Speziell: Verbesserte Angriffe
+Speziell: 2W3 Feuerschaden
+
+Schaden: 1W8+3 (Wuchtwaffe)
+ETW0: +3 Bonus
+Weisheit +1
+Gewicht: 8
+Initiativefaktor: 3
+Waffenfertigkeit: Flegel
+Typ: 1-händig
+Mindeststärke: 12
+
+Nur verwendbar von:
+Klerikern
+Paladinen~
+@10040 = ~Drow Giftflegel +4~
+@10041 = ~Drow Giftflegel +4
+Ein Flegel besteht aus einem kräftigen Holzgriff, der mit einem Eisenstab, einem Dornen besetzten Holzstab oder einer mit Dornen besetzten Eisenkugel verbunden ist. Die beiden Teile sind entweder mit einem Scharnier oder einer Kette verbunden. Ursprünglich wurde diese Waffe zum Dreschen von Getreide benutzt.
+
+EIGENSCHAFTEN:
+
+ETW0: +4 Bonus
+Schaden: 1W6 +4 (Wuchtwaffe) 
+Gewicht: 15
+Initiativefaktor: 4
+Fertigkeit: Flegel/Morgenstern
+Typ: 1-händig
+Mindeststärke: 13
+
+Besonderheiten:
++5 Giftschaden
+
+Nicht verwendbar von:
+ Druiden
+ Magiern 
+ Dieben~
+@10042 = ~Vergifteter Drowbolzen +2~
+@10043 = ~Vergifteter Drowbolzen +2
+Bolzen werden von Armbrüsten als Munition verschossen. Diese Bolzen wurden mit Magie ausgestattet, was ihre Flugeigenschaften und Treffsicherheit verbessert.
+ Diese Bolzen wurden von der Drow-Magierin Gab'Riella Maelither verzaubert, daher zerfallen sie nicht an der Oberfläche. Nur wenige Gegenstände dieser Art wurden hergestellt.
+
+EIGENSCHAFTEN:
+
+3 Punkte Giftschaden pro Sekunde, wenn der Rettungswurf gegen Gifte fehlschlägt
+
+Schaden: 1W8 +2
+ETWO: +2
+Typ: Geschoss (durchbohren)
+Gewicht: 0
+Abschussvorrichtung: Armbrust~
+@10044 = ~Handschuhe der Auflösung~
+@10045 = ~Die einfache Erscheinung dieser ledernen Handschuhe lässt nicht ihre Macht erkennen. Einmal am Tag kann der Spruch Auflösung angewandt werden.
+
+EIGENSCHAFTEN:
+
+Kann zweimal täglich den Spruch Auflösung wirken
++2 auf den Rettungswurf gegen Tod~
+@10046 = ~Kugeln +2 "Feuerschmiede"~
+@10047 = ~Diese Kugeln wurden magisch aufgewertet und macht sie treffsicherer gegenüber normalen Kugeln.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W4 + 3
+ETWO: +2
+Besonderheiten:
++1W6 Feuerschaden
+Typ: Geschoss (durchbohren)
+Gewicht: 0
+
+Abschussvorrichtung: Schleuder~
+@10048 = ~Drow-Kettenhemd +3
+Die kunstvolle und meisterhafte Handwerkskunst der Elfen ermöglicht es ihnen, wunderschöne und nützliche Dinge herzustellen. Dazu gehört auch das Elfenkettenhemd, welches so fein gewoben ist, dass man es unbemerkt unter der Kleidung tragen kann. Wegen seiner zusätzlichen Leichtigkeit wird es von Dieben, Kämpfern und Magiern mit wenigen Einschränkungen gern getragen.
+ Dieses magische Drow-Kettenhemd gibt seinem Träger einen Bonus von 5% auf die Magieresistenz und vermindert den Zeitaufwand beim zaubern um 1. Diese Rüstung wurde von der Drow-Magierin Gab'Riella Maelither verzaubert, daher zerfallen sie nicht an der Oberfläche. Nur wenige Gegenstände dieser Art wurden hergestellt.
+
+EIGENSCHAFTEN:
+
+Besonderheiten:
+ +5 Magiereesistenz
+ -1 auf den Zeitaufwand bei allen Sprüchen
+
+Rüstungsklasse: 2
+Gewicht: 12
+Mindeststärke: 5
+
+Nicht verwendbar von:
+ Druiden
+ Magiern
+ Kensai~
+@10049 = ~Drow-Adamantit Kettenhemd +5
+
+Die kunstvolle und meisterhafte Handwerkskunst der Elfen ermöglicht es ihnen, wunderschöne und nützliche Dinge herzustellen. Dazu gehört auch das Kettenhemd, welches so fein gewoben ist, dass man es unbemerkt unter der Kleidung tragen kann. Wegen seiner zusätzlichen Leichtigkeit wird es von Dieben, Kämpfern und Magiern mit wenigen Einschränkungen gern getragen.
+ Diese Rüstung wurde von der Drow-Magierin Gab'Riella Maelither verzaubert, daher zerfällt sie nicht an der Oberfläche. Nur wenige Gegenstände dieser Art wurden hergestellt.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+20% Magieresistenz
+
+Rüstungsklasse: 0
+
+Gewicht: 12
+
+Mindeststärke: 5
+
+
+Nicht verwendbar von:
+
+ Magiern
+
+ Druid
+en
+ Kensai~
+
+@10050 = ~Piwafwi Umhang des Hauses Maelither~
+
+@10051 = ~Form und Stoff eines Umhangs können beliebig sein. Die herkömmlichste Form besteht aus einem kreisrunden Stück Stoff, in das in der Mitte ein Loch für den Kopf eingearbeitet wurde. Der Umhang wird mit einer Kette, Brosche, Kordel oder Nadel zusammengehalten. Die besonderen Eigenschaften dieses Umhangs beruhen auf den feinen Adamantitstreifen, die von hochbegabten Drow-Webern in das Material eingefügt wurden.
+
+EIGENSCHAFTEN:
+
+
+
+RK Bonus: +1
+
+Im Schatten verstecken: + 75%
+
+Leise bewegen: + 75%
+
+Rettungwurf gegen Odem: +6~
+
+@10052 = ~Umhang des Waldes~
+@10053 = ~Ein umhang dieser Machart ist ideal für Druiden und Waldläufer die sich in den Wäldern bewegen.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Rüstungsklasse: 2
+
+Speziell: +50% im Schatten verstecken
+
+Speziell: +5 gegen Fernkampfwaffen
+
+Gewicht: 4
+
+Nur verwendbar von:
+
+ Druiden
+ Waldläufern (Einzel und Mehrklassig)~
+
+@10054 = ~Drow Hellebarde +3
+
+Die Hellebarde ist nach dem Speer die älteste und verbreitetste Stangenwaffe. Sie besteht aus einer Klinge, die einem Henkerbeil ähnelt, welche auf einen durchschnittlich 1,80 m langen Stab aufgesetzt ist. Das Gewicht der Axtklinge wird durch eine Fluke ausgeglichen. Am oberen Ende sitzt ein spitzer Dorn, der gewöhnlich viereckig geformt ist. Manchmal wird die Fluke von einem Haken ersetzt, mit dem berittene Kämpfer vom Pferd geholt werden können. Eine Hellebarde lässt sich am besten als eine Kreuzung zwischen Speer und Axt beschreiben.
+Diese Waffe ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer Adamantitlegierung hergestellt. Daher zerfällt sie zu Staub, wenn man sie aus dem Unterreich ins Sonnenlicht bringt.
+
+EIGENSCHAFTEN:
+
+1W2 zusätzlicher Elektischer Schaden
+
+ETW0: +3 Bonus
+
+Schaden: 1W10 +3 (Stichwaffe)
+
+Gewicht: 15
+Initiativefaktor: 6
+Fertigkeit: Hellebarde
+Typ: 2-händig
+Mindeststärke: 13
+
+
+Nicht verwendbar von:
+ Druiden
+ Klerikern
+ Magiern
+ Dieben~
+@10055 = ~Rüstung der Wälder +6~
+@10056 = ~Dies ist die Rüstung von Malenious Strider. Das Gerücht geht um, dass seine Tapferkeit in Kampf von dieser Rüstung kommt. Ihr sind viele magische Kräfte zur normalen Rüstung gegeben worden. Wenn sie angelegt ist, scheint sie nicht nur besseren Schutz zu bieten, sondern auch noch ein paar Extras. Ist man in den Wäldern und den schattenhaften Bereichen von Städten, scheint diese Rüstung sich gut dazu zu eignen, sich leise zu bewegen und verstecken zu können.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 1
+Speziell: +1 Geschicklichkeit und +20% im Schatten verstecken.
+Gewicht: 25
+Nutzbar von:
+ Kämpfern
+ Waldläufern
+ Druiden~
+@10057 = ~Mittlerer Schild +3~
+@10058 = ~Der mittlere Schild wird auf dieselbe Weise getragen wie der kleine Schild, ist jedoch so schwer, dass mit der Schildhand keine anderen Aktionen ausgeführt werden können. Mittlere Schilde bestehen für gewöhnlich aus Metall und haben einen Durchmesser von 90 bis 120 cm. Es gibt sie in zahlreichen Formen; von rund über quadratisch bis zur Form der gespreizten Drachenflügel. Ein typischer mittlerer Schild ist dreieckig, wobei eine Spitze nach unten zeigt.
+
+EIGENSCHAFTEN:
+
+Rüstungsklassen Bonus: 3
+Speziell: +3 gegen Fernkampfwaffen
+Gewicht: 15
+Nicht verwendbar von: 
+ Barden 
+ Druiden 
+ Magiern 
+ Dieben~
+@10059 = ~Drow Schild +3
+Der mittlere Schild wird auf dieselbe Weise getragen wie der kleine Schild, ist jedoch so schwer, dass mit der Schildhand keine anderen Aktionen ausgeführt werden können. Mittlere Schilde bestehen für gewöhnlich aus Metall und haben einen Durchmesser von 90 bis 120 cm. Es gibt sie in zahlreichen Formen; von rund über quadratisch bis zur Form der gespreizten Drachenflügel. Ein typischer mittlerer Schild ist dreieckig, wobei eine Spitze nach unten zeigt.
+
+
+EIGENSCHAFTEN:
+
+
+
+Rüstungsklassen Bonus: 4
+
+Gewicht: 7
+
+Mindeststärke: 12
+
+
+Nicht verwendbar von:
+
+ Barden
+
+ Druiden
+
+ Magiern
+
+ Dieben~
+
+@10060 = ~Krummsäbel +3, "Andarous Wut"~
+
+@10061 = ~Krummsäbel +3, "Andarous Wut"
+
+
+
+Andarous war ein Waldläufer, der seinen Wald an Orks verlor, die ihn abholzten und ein Fort daraus bauten. Mielikki erhörte seine Gebete und gab ihm dieses Schwert, um Rache im Namen der Natur zu nehmen. Er vernichtete allein alle Orks dieses Forts.
+
+EIGENSCHAFTEN:
+
+ETWO: +3 Bonus
+Schaden: 1W8 +3 (Hiebwaffe) +2W4 elektrischer Schaden
+Rüstungsklasse: +2 Bonus
+Speziell: Betäubt das Ziel, es sei denn ein Rettungswurf gegen Zaubersprüche gelingt
+
+Gewicht: 3
+Initiativefaktor: 2
+Fertigkeit: Grosses Schwert
+Typ: 1-händig
+
+Nur verwendbar von:
+ Druiden
+ Waldläufern~
+@10062 = ~Katana +3, "El Tel'lerian"~
+@10063 = ~Tel'lerian war ein grosser Krieger aus Kara-Tur. Er war ein Söldner, der durch die Reiche reiste, um gegen das Böse zu kämpfen. Dieses Katana war eine seiner Lieblingswaffen. Er verlor dieses Schwert und sein Leben, als er auf dem Weg nach Kerzenburg überfallen wurde.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Speziell: 10%ige Chance, bei einem Treffer das Ziel zu versteinern. (Rettungswurf gegen Versteinerung)
+
+
+
+Schaden: 2W4 + 3 (Hiebwaffe)
+
+ETWO: +3 Bonus
+
+Gewicht: 10
+
+Fertigkeit: Grosses Schwert
+
+Initiativefaktor: 3
+
+Typ: 1-händig
+
+
+Nur verwendbar von:
+ Kriegern
+
+ Waldläufern
+ 
+Paladinen~
+
+@10064 = ~Schwert +3 "Khazids Tod"~
+
+@10065 = ~Khazids Tod wurde von einem Waffenmeister der Zwerge erschaffen, Khazid El Dum. Er hatte dieses Schwert gerade erst ferig gestellt, als eine Gruppe von Dieben bei ihm einbrach und ihn mit diesem Schwert tötete. Ein Teil seiner spirituellen Essenz war zum Zeitpunkt seines Todes an dieses Schwert gebunden. 
+
+EIGENSCHAFTEN:
+
+Schaden: 1W10 +3 (Hiebwaffe)
+Speziell: +1 Stärke und Konstitution
+
+ETWO: +3 Bonus
+Gewicht: 12
+Initiativefaktor: 9
+Fertigkeit: Grosses Schwert
+Typ:  2-händig
+
+
+Nicht verwendbar von:
+ Druid
+en
+ Klerikern
+
+ Magiern 
+ Dieben~
+@10066 = ~Katana +4 "Toran El Desiade" ~
+@10067 = ~Über die Geschichte dieses Katanas ist nur wenig bekannt. Im Griff sind alte Runen eingraviert, die vielleicht etwas mit seiner Magie zu tun haben. Jeder Charakter mit böser Gesinnung kann dieses Katana nicht verwenden, es dient nur den Guten.
+
+
+EIGENSCHAFTEN:
+
+
+Schaden: 1W10 +4 (Hiebwaffe) 
+
++2W4 Kälteschaden
+
+ETWO: +4 Bonus
+
+Speziell: +1 auf die Rüstungsklasse
++1 Geschicklichkeit
+10%ige Chance Schreckenszauber auf das Ziel zu wirken
+
+Gewicht:  2
+
+Fertigkeit: Grosses Schwert
+
+Initiativefaktor: 2
+
+Typ: 1-händig
+
+
+Nur verwendabr von:
+
+ Kriegern
+
+ Waldläufern
+
+ Paladinen~
+
+@10068 = ~Drow Krummsäbel +3 "Kalter Nebel"~
+
+@10069 = ~Drow Krummsäbel +3
+
+Sowohl der Säbel als auch der Krummsäbel sind durch eine einseitig scharfe, gekrümmte Klinge charakterisiert, obwohl die beiden Waffen ursprünglich aus unterschiedlichen Regionen Faerûns stammen. Dieser Säbel ist, wie die meisten Ausrüstungsgegenstände der Drow, aus einer Adamantitlegierung hergestellt. 
+Diese Waffe wurden von der Drow-Magierin Gab'Riella Maelither verzaubert, daher zerfällt sie nicht an der Oberfläche. Nur wenige Gegenstände dieser Art wurden hergestellt.
+
+EIGENSCHAFTEN:
+
+2W4 Kälteschaden
+
+Schaden: 1W8 +4 (Hiebwaffe)
+ETW0: +4
+Gewicht: 3
+Initiativefaktor: 2
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+Typ: 1-händig
+Mindeststärke: 10
+
+Nicht verwendbar von:
+ Klerikern
+ Magiern
+ Dieben~
+@10070 = ~Plattenpanzer~
+@10071 = ~Plattenpanzer des Winterkönigs~
+@10072 = ~Ein Plattenpanzer verbindet Kettengeflecht mit Metallplatten, die die am meisten gefährdeten Körperbereiche wie Brust-, Bauch- und Leistengegend schützen. Ähnlich in der Bauweise wie ein Bronzepanzer, besteht ein echter Plattenpanzer aus Kettengeflecht und Leder.
+
+
+EIGENSCHAFTEN:
+
+
+
+Rüstungsklasse: 3
+
+Gewicht: 50
+
+Mindeststärke: 12
+
+
+Nicht verwendbar von:
+
+ Barden
+ Druiden
+
+ Magiern
+
+ Dieben
+
+ Barbarian
+
+ Tiermeistern
+
+ Kensai~
+
+@10073 = ~Diese Rüstung wurde aus dem Panzer des mächtigen Polarwurms im Eiswindtal gefertigt. Von den Einheimischen wurde er Winterkönig genannt. Der Panzer dieser Kreatur ist extrem dick und widerstandsfähig, aber überraschenderweise sehr leicht. Sein unübliches Aussehen in der Farbe Weiß mit blauen Akzenten macht ihn zu etwas Besonderem.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: 3
+Speziell:  +25% Kälte und Feuerresistenz
+Gewicht: 25
+
+Nicht verwendbar von:
+ Barden
+ Magiern
+ Dieben~
+@10074 = ~Helm~
+@10075 = ~Patrioten Helm~
+@10076 = ~Ein merkwürdig aussehender Helm.~
+@10077 = ~Dieser Helm wurde von dem Zwergenkrieger Danel Silberfrost getragen, König und Märtyrer der verlorenen Zwergenstadt Silberfels. Danels Taten sind nicht so bekannt wie die anderer Zwergenhelden, weil sein Königreich mit ihm starb. Sein Reich erlitt schwere Verluste, als Trolle und Riesen es vor tausend Jahren angriffen. Der Krieg zwischen den Stämmen der Monster und des Königreiches Silberfels dauerte über 15 Jahre. Danel dachte niemals daran, sein Königreich aufzugeben.
+
+EIGENSCHAFTEN:
+
+Rüstungsklassenbonus: 2
+Gewicht: 4
+
+Nicht verwendbar von:
+ Magiern
+
+ Barden
+ Dieben~
+@10078 = ~Silberne Armschienen von Kedl~
+@10079 = ~Dieser Magier, der aus der Provinz Phlan stammte, war als "Kedl der drei Ringe" bekannt. Es wird behauptet, dass er eine Technik entwickelt haben soll, drei magische Ringe gleichzeitig zu tragen. Er war bekannt für seinen seltsamen Geschmack bezüglich Kleidung, Schmuck und anderem Zubehör. Sein polierter silberner Armschutz war ein konstanter Teil seiner Garderobe. Schliesslich verkaufte Kedl seinen Armschutz, als er das Geld für einige mächtige Ringe brauchte. Leider starb Kedl in einem Orkangriff auf Phlan wenige Jahre später.
+
+
+EIGENSCHAFTEN:
+
+
+
+Rüstungsklasse: 2
+
+Gewicht: 2
+
+Nicht verwendbar von:~
+
+@10080 = ~Kurzschwert~
+
+@10081 = ~Eisen und Blut~
+
+@10082 = ~Das Kurzschwert ist die erste und ursprüngliche Form eines Schwertes. Einfach ausgedrückt ist ein Kurzschwert ein Dolch, bei dem die Klinge so lang ist, dass das Ganze nicht mehr als Dolch bezeichnet werden kann. Der Begriff "Kurzschwert" ist in der Klassifizierung der Schwerter eigentlich nicht bekannt. Er wird jedoch mittlerweile zur Beschreibung einer zweischneidigen Klinge mit einer ungefähren Länge von 60 cm verwendet. Die Klinge ist normalerweise vorne spitz, wodurch sich das Kurzschwert hervorragend zum Stoßen eignet.  
+
+EIGENSCHAFTEN:
+
+Schaden: 1W6 (Stichwaffe)
+Gewicht: 3
+Initiativefaktor: 3
+Fertigkeit: Kurzschwert
+Typ:  1-händig
+Mindeststärke: 5
+
+Nicht verwendbar von:
+ Druiden
+ Klerikern 
+ Magiern
+ Tiermeistern~
+@10083 = ~Eine berüchtigte Waffe aus dem hohen Norden. Eisen und Blut wurde von einem verschlagenen Barbaren-Schamanen namens Hekedder hergestellt. Er schenkte das Schwert einem Cousin. Die Waffe wurde jahrelang von vielen Barbaren benutzt. Jeder, der diese Waffe besass, wurde dafür gehasst. Bis zum heutigen Tag meiden Barbaren diese verfluchte Waffe und weigern sich, über sie zu sprechen. Sie ist aus sehr minderwertigem Eisen gearbeitet, und auf der Oberfläche der Klinge sind die Abdrücke von Hammerschlägen zu sehen. Der Griff ist in helles rotes Leder eingewickelt.
+
+
+
+EIGENScHAFTEN:
+
+
+Speziell: Jeder Treffer heilt 3 Trefferpunkte beim Träger
+
+
+Schaden: 1W6 +4 (Stichwaffe)
+
+ETWO: +4
+
+Gewicht: 3
+
+Initiativefaktor: 1
+
+Fertigkeit: Kurzschwert
+
+Typ: 1-händig
+
+
+Nicht verwendbar von:
+
+ Guten Charakteren
+
+ Druiden
+
+ Klerikern
+ 
+Magiern~
+@10084 = ~Langschwert~
+@10085 = ~Cynicismus~
+@10086 = ~Diese Schwerter werden auch als zweischneidige Schwerter, Kriegsschwerter oder Militärschwerter bezeichnet. Es gibt keine einheitliche Form des Langschwertes. Seine Form und Länge sind von Kultur zu Kultur unterschiedlich und können selbst innerhalb einer Kultur je nach Zeitalter variieren. Das grundlegendste Merkmal aller Langschwerter ist ihre Länge, die zwischen 90 cm und 1,20 m beträgt. Im letzteren Fall nimmt die Klinge 1 m der Gesamtlänge ein. Die meisten Langschwerter besitzen eine zweischneidige Klinge mit einer scharfen Spitze. Trotz dieser Spitze ist das Langschwert nicht zum Stoßen, sondern zum Schwingen vorgesehen.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Schaden: 1W8 (Hiebwaffe)
+
+Gewicht: 4
+
+Initiativefaktor: 5
+
+Ferigkeit: Langschwert
+Typ:  1-händig
+
+Mindeststärke: 6
+
+
+Nicht verwendbar von:
+
+ Druiden
+
+ Klerikern
+
+ Magiern
+
+ Tiermeistern~
+
+@10087 = ~Im Jahre 834 fing ein Magier namens Legedain einen berüchtigten Dieb, als dieser in seinen Turm einbrechen wollte. Der Dieb war ein zynischer Einbrecher namens Ilfain Schwarzfeder. Legedain war alt und müde in seinem zerbrechlichen Körper geworden. Um diese Situation zu verändern, bannte er kurzerhand Ilfains Geist in einen Edelstein. Legedain übertrug seine Seele auf den Körper des jungen Elfen und ließ den Edelstein in der Nähe in einem Regal liegen. Einhundert Jahre später beschloss Legedain, etwas mit dem Edelstein zu tun. Er erschuf ein Schwert für seinen arroganten Leibwächter Gundak und übertrug Ilfains Geist aus dem Edelstein in das Schwert. Ilfain, der schon zu Lebzeiten immer sehr kritisch gewesen war, begann Gundak im Kampf telepathisch zu kritisieren. Das Schwert begann Gundak schon nach kurzer zeit so sehr zu nerven, dass er es wegschmiss. Viele weitere Krieger hatten es danach auch nur kurz in ihrem Besitz. Mit der Zeit wurde die Waffe durch ihren Namen bekannt.
+
+EIGENSCHAFTEN:
+
+Schaden: 2W4 +4 (Hiebwaffe)
+ETWO: +4
+Gewicht: 4
+Initiativefaktor: 5
+Waffenfertigkeit: Grosses Schwert
+Typ: 1-händig
+
+Nicht verwendbar von:
+Druiden
+Magiern
+Klerikern~
+@10088 = ~Bastardschwert~
+@10089 = ~Ansteckendes Bastardschwert +4~
+@10090 = ~Wenn man von der hervorragenden Verarbeitung einmal absieht, kann man überall auf der Oberfläche kleine Runen erkennen. Es wurde offensichtlich viel Zeit und Mühe in die Fertigung dieses Schwertes investiert und bei genauerem Hinsehen kann man die Runen leicht bläulich leuchten sehen.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Speziell: 15%ige Chance, das Ziel mit einer Krankheit zu infizieren
+
+
+Schaden: 2W4 +4 (Hiebwaffe)
+
+ETW0: +4
+
+
+
+Gewicht: 10
+
+Initiativefaktor: 8
+
+Fertigkeit: Grosses Schwert
+
+Typ: 1-händig
+
+
+Nicht verwendbar von:
+
+ Guten Gesinnungen
+
+ Druiden
+
+ Klerikern
+
+ Magiern
+
+ Dieben~
+
+@10091 = ~Kriegshammer~
+
+@10092 = ~Kriegshammer +4: Verteidiger~
+
+@10093 = ~Wie andere Waffen dieses Typs, ist auch dieser Hammer komplett aus Stahl gefertigt. Er wurde auch noch mit einigen magischen Eigenschaften ausgestattet, um die Kampfkraft zu erhöhen.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Schaden: 1W4 +5 (Wuchtwaffe)
+
+ETW0: +4
+
+Rüstungsklassenbonus: 2
+
+
+Resistenz Boni:
+ +15% Stichresistenz
+
+ +15% Hiebresistenz
+
+ +15% Schmetterresistenz
+
+ +15% Magieresistenz
+
+ +3 Rettungswurf gegen Zaubersprüche
+
+Gewicht: 6
+Initiativefaktor: 3
+Fertigkeit: Kriegshammer
+Typ: 1-händig
+
+Nicht verwendbar von:
+ Druiden
+ Magiern
+ Dieben~
+@10094 = ~Morgenstern~
+@10095 = ~Morgenstern der Götter~
+@10096 = ~Ein Morgenstern besteht aus einem hölzernen Schaft, auf den ein mit Eisenspitzen besetzter Metallkopf aufgesetzt ist. Die Gesamtlänge eines Morgensterns beträgt etwa 1,20 m. Der Kopf kann rund, oval oder zylindrisch geformt sein. Unabhängig von der jeweiligen Ausführung ist der Kopf von Morgensternen meist mit einer langen Spitze zum Stoßen versehen.
+
+
+
+EIGENSCHAFTEN:
+
+
+
+Schaden: 2W4 +3 (Wuchtwaffe)
+
+ETW0: +3
+
+Rüstungsklassenbonus: 1
+
+Weisheit: +1 Bonus
+
+
+2 zusätzliche Priestersprüche des ersten Grades
+
+1 zusätzlicher Priesterspruch des zweiten Grades
+
+
+Gewicht: 10
+
+Initiativefaktor: 6
+
+Fertigkeit: Streitkolben
+Typ: 1-händig
+
+
+Nur verwendbar von:
+
+ Klerikern~
+
+@10097 = ~Morgenstern +4: Verteidiger~
+
+@10098 = ~Ein Morgenstern besteht aus einem hölzernen Schaft, auf den ein mit Eisenspitzen besetzter Metallkopf aufgesetzt ist. Die Gesamtlänge eines Morgensterns beträgt etwa 1,20 m. Der Kopf kann rund, oval oder zylindrisch geformt sein. Unabhängig von der jeweiligen Ausführung ist der Kopf von Morgensternen meist mit einer langen Spitze zum Stoßen versehen. Dieser spezielle Morgenstern hat einen goldenen Kopf, der magisch verstärkt wurde, um bessere Kampfergebnisse zu erzielen.  
+
+EIGENSCHAFTEN:
+
+Schaden: 2W4 +4 (Wuchtwaffe)
+ETW0: +4
+Rüstungsklassenbonus: 2
+
+Resistenz Boni: 
+  +15% Magieresistenz
+  +20% Resistenz gegen Hiebwaffen
+  +20% Resistenz gegen Stichwaffen
+
+Gewicht: 10
+Initiativefaktor: 6
+Fertigkeit: Streitkolben
+Typ: 1-händig
+
+Nicht verwendbar von:
+ Druiden
+ Magiern 
+ Dieben~
+@10099 = ~Flegel~
+@10100 = ~Schockflegel +4~
+@10101 = ~Ein Flegel besteht aus einem kräftigen Holzgriff, der mit einem Eisenstab, einem Dornen besetzten Holzstab oder einer mit Dornen besetzten Eisenkugel verbunden ist. Die beiden Teile sind entweder mit einem Scharnier oder einer Kette verbunden. Ursprünglich wurde diese Waffe zum Dreschen von Getreide benutzt. Dieser Flegel wurde magisch verbessert. Leuchtende Runen kann man auf seiner Oberfläche entdecken.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W6 +5 (Wuchtwaffe)
+ETW0: +4
+Rüstungsklassenbonus: 1
+
+Speziell:
+  50%ige Chance auf +2W3 elektrischen Schaden
+  10%ige Chance das Ziel zu betäuben
+Gewicht: 15
+Initiativefaktor: 7
+Fertigkeit: Flegel
+Typ: 1-händig
+
+Nicht verwendbar von:
+ Druiden
+ Magiern 
+ Dieben~
+@10102 = ~Amulett~
+@10103 = ~Kossuths Blut~
+@10104 = ~Der Gott des Feuers, Kossuth, nimmt nur selten eine physische Form in den vergessenen Reichen an. Wenn dieser seltene Fall aber einmal eintritt, liegt Zerstörung auf seinem Weg. Er wurde im Jahre 801 von einer grossen Zahl von fanatischen Anhängern beschworen, die seine Hilfe gegen einen rieseigen Oktopus erbaten, der einen Tempel an der Küste bedrohte. Kossuth erschien in der Form eines gigantischen Feuersturms und kämpfte mit dem enormen übernatürlichen Biest. Der Avatar des Gottes triumphierte über den Oktopus, aber das Monster schaffte es, Kossuths Essenz zu beschädigen. Das göttliche Feuer raste durch den Körper der Kreatur, bündelte sich in einem der Augen und verwandelte es schnell in eine von innen lodernde bizarre schwarze Kugel.
+
+EIGENSCHAFTEN:
+
+Der Zeitaufwand beim Zaubern wird um 2 reduziert.
+
+Jeder Feuerschaden, der von dem Charakter verursacht wird, wird um 20% erhöht.
+
+Nicht verwendbar von:~
+@10105 = ~Ring~
+@10106 = ~Ring der höheren Resistenz~
+@10107 = ~Ein Ring ist ein kleines Band aus wertvollem Metall, das als Schmuck am Finger getragen wird. Einige Ringe sind verzaubert und verleihen magische Fähigkeiten. Diese Ringe sind heißbegehrt, insbesondere von Abenteurern und Magiern.
+
+EIGENSCHAFTEN:
+
+Rüstungsklassenbonus: 2
+
+Resistenz Boni: 
+ +25% Resistenz gegen Wuchtwaffen
+ +3 RW gegen Zaubersprüche
+
+Nicht verwendbar von:~
+@10108 = ~Wakizashi +2~
+@10109 = ~Wakizashi
+Das Wakizashi, auch Begleitschwert genannt, ist für einen Samurai von höchster Wichtigkeit. Es wird von ihm ständig getragen, auch wenn er sich in einem Gebäude aufhält. Wenn er schläft, liegt es neben ihm. Das Wakizashi ist von ebenso hochwertiger Fertigung wie das Katana. Es ist allerdings deutlich kürzer und die Klinge ist nur 30 bis 60 cm lang. In den Händen eines geschulten Kriegers ist es eine tödliche Waffe.
+
+
+EIGENSCHAFTEN:
+
+
+
+Schaden: 1W8 +2 (Stichwaffe)
+
+ETW0: +2
+
+Gewicht: 3
+
+Initiativefaktor: 3
+
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+
+Typ: 1-händig
+
+Mindeststärke: 5
+
+
+Nicht verwendbar von:
+
+ Druiden
+
+ Klerikern
+
+ Magiern~
+
+@10110 = ~Ninja-To +2~
+
+@10111 = ~Das Ninja-To ist das Schwert der Ninja und nicht von so hochwertiger Qualität wie die anderen Klingen, die aus Kara-Tur stammen, wie beispielsweise das Katana. Das Ninja-To hat eine gerade Klinge und ist relativ kurz. Es eignet sich daher ideal für den verschlagenen Ninja, da es sich leicht verbergen lässt. Da es recht kurz ist, eignet es sich besser als die langen Klingen eines Samurais, um damit unter beengten Verhältnissen zu kämpfen. Das verschafft einem Ninja, der gegen einen Samurai antritt, manchmal einen Vorteil.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W8 +2 (Hiebwaffe)
+ETW0: +2
+Gewicht: 5
+Initiativefaktor: 4
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+Typ: 1-händig
+Mindeststärke: 6
+Nicht verwendbar von:
+ Druiden
+ Klerikern
+ Magiern~
+@10112 = ~Robe des Grossmeisters~
+@10113 = ~Diese mächtige magische Robe bitet Schutz gegen alle Arten von physischen Angriffen, während sie zur gleichen Zeit die magischen Resistenzen und Rettungswürfe erhöht. Sie kann nur von Magiern böser Gesinnung getragen werden.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse: +2 Bonus
+Magieresistenz: +25%
+Rettungswürfe: +3 Bonus
+Gewicht: 6
+Nur verwendbar von:
+ Magiern (ein-, zwei- und mehrklassig)
+ Böse gesinnten Charakteren~
+@10114 = ~Grüner Drachenschuppen-Panzer~
+@10115 = ~Diese seltsame grüne Rüstung hat eine sehr mächtige magische Ausstrahlung.~
+@10116 = ~Diese Rüstung kommt aus dem fernen Osten und gehörte einem Kaiser, der grüner Drache genannt wurde. Er regierte sein Land mit eiserner Hand, bis er von einer weiblichen Kriegsherrin besiegt wurde.
+
+
+EIGENSCHAFTEN:
+
+
+Rüstungsklasse: -4
+
+Geschicklichkeit: +1
+
+Schutz vor negativer Ebene
+
+Regeneriert 2 Trefferpunkte pro Runde
+
+
+Speziell: 
+Kann 1 untoten Wächter einmal pro Tag erschaffen (Knochengolem)
+
+Einmal pro Tag kann der Zauber Regeneration angewandt werden
+
+Einmal am Tag kann der Zauber Ätherisch angewandt werden
+
+
+
+Nicht verwendbar von:
+
+ Dieben
+
+ Barden~
+
+@10117 = ~Vergifteter Flegel~
+
+@10118 = ~Jeder Kopf dieses Flegels wurde mit einem magischen Gift versehen, das nie zur Neige geht. Der Träger dieses Flegel sollte ihn mit Vorsicht behandeln. Die Köpfe dieses Flegels scheinen manchmal ein Eigenleben zu entwickeln. 
+
+EIGENSCHAFTEN:
+
+Getroffene Gegner müssen einen erfolgreichen Rettungswurf gegen Gifte ausüben oder erhalten10 Trefferpunkte Giftschaden
+
+
+10%-ige Chance, dass der Träger der Waffe diesen Rettungswurf ablegen muss, weil er selbst getroffen wurde.
+
+ETWO: +3
+Schaden: 2W4 +3 (Wuchtwaffe)
+Gewicht: 9
+Initiativefaktor: 5
+Fertigkeit: Flegel/Morgenstern
+Typ: 1-händig
+Mindeststärke: 11
+
+Nicht verwendbar von:
+ Druiden
+ Magiern 
+ Dieben~
+@10119 = ~Schriftrolle~
+@10120 = ~Aus der Halle der Wunder in Baldurs Tor wurden einige Wertgegenstände gestohlen. Der Dieb oder Diebe ist nicht bekannt, außer, wenn Ihr irgendeine Information habt, wendet Euch bitte an die Flammende Faust.~
+
+@10121 = ~Bertoxxulous~
+
+@10122 = ~Bertoxxulous, der Verpester. "Die einzige Wahrheit liegt darin, dass jeder sterben muss." ist in die Klinge eingraviert. Während man dieses Schwert hält, betrachtet man den Zerfall des Fleisches als einen Vorgang von endgültiger Schönheit. Die subtilen Farben einer frischen Narbe, oder das fast schillernde gelbe Grün von verseuchten Pusteln sind einige der Dinge, die der Träger zu genießen beginnt. Das Schwert scheint dunkel zu glühen, wenn Magie verwendet wird, um seine Natur zu offenbaren. Das Übel der Nekromantie befällt jeden Teil dieser Waffe. Für jene, die solch ein übles Schwert benutzen würden, gibt es nichts wünschenswerteres, als von Wesen umgeben zu werden, die, selbst als Untote, weiterhin verrotten und zu verfallen. 
+Nicht viel ist sonst über dieses Schwert zu erfahren außer dass seinen Ursprüngen aus den neun Höllen kommen.
+
+EIGENSCHAFTEN:
+
+Fähigkeit 1: Das Ziel erhält einen -3 Malus auf seine Bewegeung für 60 Sekunden, wenn ein Rettungswurf gegen Zauberstäbe misslingt.
+
+Fähigkeit 2: Das getroffene Ziel erhält -2 auf die Geschicklichkeit für 30 Sekunden ohne rettungswurf.
+
+Fähigkeit 3: Das getroffene Ziel erleidet 5 Punkte Giftschaden für 2 Sekunden, es sei denn ein RW gegen Gifte/Todesmagie wird erfolgreich abgelegt.
+
+
+
+Nachteil 1: -1 Konstitution.
+
+
+Nachteil 2: Verflucht.
+
+
+
+ETW0: +6
+
+Schaden: 1W6 +6 (Stichwaffe)
+
+Gewicht: 2
+
+Initiativefaktor: 1
+
+Fertigkeit: Kurzschwert
+
+Typ: 1-händig
+
+
+
+Nutzbar von:
+
+ Charakteren böser Gesinnung~
+
+@10123 = ~Wakizashi +4 "Göttlicher Wind"~
+
+@10124 = ~Wakizashi +4 "Göttlicher Wind":
+
+Dieses Schwert gehörte einem ehrenwerten Krieger namens Shikintu. Seine Reflexe waren aussergewöhnlich schnell, so dass der Gegner durch seine harten und schnellen Angriffe betäubt wurde. Es wird behauptet, dass sein Geist Eins mit seinem Schwert wurde, als er starb.
+
+EIGENSCHAFTEN:
+
+20%ige Chance, das Ziel zu betäuben
+
+Schaden: 1W8 +4 (Stichwaffe)
+ETW0: +4
+Gewicht: 3
+Initiativefaktor: 3
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+Typ: 1-händig
+Mindeststärke: 5
+
+Nicht verwendbar von:
+ Druiden
+
+ Klerikern
+ Magiern~
+
+@10125 = ~Katana +4 "Todesbann"~
+@10126 = ~Ein Schwert, das von Fenris, einem Magier aus dem fernen Osten, hersgetellt wurde. Weiter ist nichts über die Waffe oder ihren Erschaffer bekannt. Vielleicht kann man in einem Buch mehr darüber lesen.
+
+
+EIGENSCHAFTEN:
+
+
+
+Vernichtet Untote
+
+
+Schaden: 1W10 +4 (Hiebwaffe) +2 Feuerschaden
+
+ETW0: +4
+
+Gewicht: 6
+
+Initiativefaktor: 4
+
+Fertigkeit: Katana
+
+Typ: 1-händig
+
+Mindeststärke: 6
+
+
+Nicht verwendbar von:
+
+ Druiden
+
+ Klerikern
+
+ Magiern~
+
+@10127 = ~Zweihändiges Schwert~
+
+@10128 = ~Schwert des grünen Drachen +4~
+
+@10129 = ~Beim Zweihänder handelt es sich um eine Weiterentwicklung des Langschwertes. Waffenschmiede sind seit jeher daran interessiert, bereits existierende Waffen noch zu verbessern, was beim Langschwert dazu führte, dass die Klinge verlängert wurde. Schließlich musste auch der Griff verlängert werden und man brauchte nun beide Hände, um das Schwert richtig zu schwingen. Der Zweihänder dient hauptsächlich dazu, berittene Krieger schwer zu verletzen und die Stoßformation eines Heeres aufzubrechen. 
+
+EIGENSCHAFTEN:
+
+Schaden: 1W10 (Hiebwaffe)
+Gewicht: 15
+Initiativefaktor: 10
+Fertigkeit: Zweihänder
+Typ: 2-händig
+Mindeststärke: 14
+
+
+Nicht verwendbar von:
+ Druiden
+ Klerikern
+ Magiern 
+ Dieben~
+@10130 = ~Das Lieblingsschwert des brutalen grünen Drachen. Er würde seine persönlichen Feinde und selbst seine Familie damit hinrichten. Diese Waffe wurde mit einigen anderen wertvollen Gegenständen mit ihm begraben.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W10 +4
+ETW0 +5
+
+15%ige Chance, daß das Ziel aufgelöst wird. 
+Doppelter Schaden genen Untote und Dämonen. 
+Magie bannen bei jedem Treffer
+
+Speziell:
+
+Sonnenstrahl 2 mal am Tag ab Stufe 20.
+
+Verwendbar von:
+ Kriegern
+ Paladinen
+
+ Waldläufern~
+@10131 = ~Ein merkwürdiger Ring~
+@10132 = ~Ein sehr merkwürdiger Ring~
+@10133 = ~Ihr seid versucht, diesen Ring anzulegen. Ihr könnt es tun, wenn Ihr mehr wissen wollt.~
+@10134 = ~Ein unheimliches Gefühl entseht beim Tragen dieses Ringes. Es wäre in Eurem eigenen Interesse, ihn Smeagol nicht vorzuenthalten. Ihr habt ihn wirklich nicht angelegt?~
+@10135 = ~Shikoku's Fernöstliche Waren~
+@10136 = ~Ein Flug mit den fliegenden Teppich~
+@10137 = ~Scrolls R Us~
+@10138 = ~Soll die Komponente "Verbesserte Druidenbegegnungen" installiert werden?~
+@10139 = ~Soll die Komponente "Verbesserte Wassersäufer-Begegnung" installiert werden?~

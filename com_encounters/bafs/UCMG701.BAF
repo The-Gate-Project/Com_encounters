@@ -1,0 +1,11 @@
+IF
+	Global("UcmgNuts","AR0701",0)
+THEN
+	RESPONSE #100
+		CreateCreature("ucmgnut",[2328.1000],6) // Kiel the Hero Killer
+		CreateCreature("ucmgnut1",[2222.1090],0) // Aris the Mighty
+		CreateCreature("ucmgnut2",[2180.1069],11) // Silliria
+		SetGlobal("UcmgNuts","AR0701",1)
+END
+
+

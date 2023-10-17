@@ -1,0 +1,25 @@
+IF
+	Global("UcmgOrcs","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreature("UCMGORL",[1670.1558],10) 
+		CreateCreature("UCMGORC1",[1643.1641],9) 
+		CreateCreature("UCMGORC1",[1800.1447],6) 
+		CreateCreature("UCMGORC2",[1396.1592],6) 
+		CreateCreature("UCMGORC2",[1340.1637],5) 
+		CreateCreature("UCMGORC3",[1402.1732],6) 
+		CreateCreature("UCMGORC4",[1400.1729],0) 
+		CreateCreature("UCMGORC4",[1600.1660],6) 
+		CreateCreature("UCMGORC1",[1780.1427],3)
+		CreateCreature("UCMGORC1",[1830.1494],3)
+		CreateCreature("UCMGORC2",[1610.1443],4)
+		SetGlobal("UcmgOrcs","GLOBAL",1)
+END
+
+IF
+	Global("AlexExists","AR1100",0)
+THEN
+	RESPONSE #100
+		SetGlobal("AlexExists","AR1100",1)
+		CreateCreature("UCMGCL01",[3500.3076],3) 
+END

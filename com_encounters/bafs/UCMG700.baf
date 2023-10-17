@@ -1,0 +1,7 @@
+IF
+	Global("ShikExists","AR0700",0)
+THEN
+	RESPONSE #100
+		SetGlobal("ShikExists","AR0700",1)
+		CreateCreature("UCMGCL03",[2200.1396],6) 
+END

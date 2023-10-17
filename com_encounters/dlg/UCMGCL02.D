@@ -1,0 +1,19 @@
+BEGIN ~UCMGCL02~ 
+
+IF ~True()
+~ THEN BEGIN 0 
+  SAY @200 
+  IF ~~ THEN REPLY @201 DO ~StartStore("ucmgst02",LastTalkedToBy())
+~ EXIT
+  IF ~~ THEN REPLY @202 GOTO 1
+END
+
+IF ~~ THEN BEGIN 1 
+  SAY @203 
+  IF ~~ THEN EXIT
+END
+
+IF ~False()~ THEN BEGIN 2 
+  SAY @204 
+  IF ~~ THEN EXIT
+END

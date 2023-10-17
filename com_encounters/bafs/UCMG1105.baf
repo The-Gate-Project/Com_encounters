@@ -1,0 +1,7 @@
+IF
+	Global("UcmgSmeagol","GLOBAL",0)
+THEN
+	RESPONSE #100
+		CreateCreature("UCMGSMEG",[830.433],10) 
+		SetGlobal("UcmgSmeagol","GLOBAL",1)
+END

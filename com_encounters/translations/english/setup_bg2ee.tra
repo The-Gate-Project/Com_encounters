@@ -1,0 +1,600 @@
+@10032 = ~Ornate Butter Knife~
+@10033 = ~Butter Knife of Balduran~
+@10034 = ~This appears to be an ornate butter knife.
+
+STATISTICS:
+
+Damage: 1D4 
+Damage type: piercing
+Weight: 1
+Speed Factor: 2 
+Proficiency Type: Dagger
+Type: 1-handed
+Requires: 3 Strength
+~
+@10035 = ~Butter Knife of Balduran:
+Legends often speak of Balduran's Butter Knife. The hero would allow no other utensil to touch his condiments. It is believed that his mother gave the ornate butter knife to him as an eighteenth birthday gift.
+
+STATISTICS:
+
+Damage: 1D4 +2
+THACO: +2 bonus
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: 1-handed
+Requires: 3 Strength
+~
+@10036 = ~Light Crossbow "The Torch"~
+@10037 = ~The Torch was made by an insane gnome who had a thing for fire. This was one of the few things to survive from his laboratory after it caught on fire by this weapon when he was testing it.
+
+STATISTICS:
+
+Damage: 2D6
+THACO: +3 bonus
+Special: Needs no ammunition
+Speed Factor: 3
+Proficiency Type: Missile Weapon
+Type: 2-handed~
+@10038 = ~Flail +3 "Flaming Death"~
+@10039 = ~This flail is enchanted to do fire damage and increase your wisdom. Amuanator would be pleased.
+
+STATISTICS:
+
+Damage: 1D8 +3
+THACO: +3
+Wisdom: +1 bonus
+Special: Increased attacks
+Special: 2D3 Fire Damage
+Damage type: crushing
+Weight: 8
+Speed Factor: 3
+Proficiency Type: Spiked Weapons
+Type: 1-handed
+~
+@10040 = ~Drow Venom Flail +4~
+@10041 = ~Drow Venom Flail +4
+The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain.  
+ 
+
+STATISTICS:
+
++5 Poison Damage
+THAC0: +4 bonus
+Damage: 1D6 +4 
+Damage type: crushing
+Weight: 15
+Speed Factor: 4
+Proficiency Type: Flail/Morningstar
+Type: 1-handed
+Requires: 13 Strength ~
+@10042 = ~Drow Poison Tipped Bolt +2~
+@10043 = ~Drow Poison Tipped Bolt +2
+Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size. However this bolt has been imbued with a small amount of magical properties which enhances performance in flight, almost as if the bolt was guided towards its target.
+These bolts has been enhanced by the drow mage, Gab'Riella Maelither, so it does not decay on the surface world. Only a few items were made of this type for House Maelither's permanent conquest to the surface.
+
+STATISTICS:
+
+Poison damage 3 points per second if fail Save vs Poison
+Damage: 1D8 +2
+THACO: +2
+Damage type: missile (piercing)
+Weight: 0
+Launcher: Crossbow~
+@10044 = ~Bracers of Disintegration~
+@10045 = ~The simple appearance of these leather gloves belies its power. Once per day the spell disintegrate can be cast by the wearer. 
+
+STATISTICS
+
+Cast the spell disintegration once per day
++2 Save vs Death~
+@10046 = ~Bullets +2 "Forge Fire"~
+@10047 = ~Magical currents are embedded inside this bullet so that it seems a little more balanced and lighter as it jumps towards an opponent. 
+
+STATISTICS:
+
+Damage: 1D4 +3
+THACO: +2
+Special: 1D6 fire damage
+Damage type: missile (piercing)
+Weight: 0
+Launcher: sling~
+@10048 = ~Drow Chain +3
+The delicate yet sturdy craftsmanship of the Elven races allows them to design many beautiful yet utilitarian goods. Among these is Elven chain mail, which is so finely wrought that it can be worn under normal clothing without revealing its presence. This and its lightness allow it to be worn by thieves and fighter/mages with few restrictions.
+This magical drow chain mail gives the wearer a bonus of 5% to magic resistance and takes 1 off of the speed factor of all spells cast by the wearer of the armor. This armor has been enhanced by the drow mage, Gab'Riella Maelither, so it does not decay on the surface world. Only a few items were made of this type for House Maelither's permanent conquest to the surface.
+
+STATISTICS:
+
+Abilities: +5 Magic Resistance
+           -1 to casting time of all spells
+Armor Class: 2
+Weight: 12
+Requires: 5 Strength~
+@10049 = ~Drow Admantine Chain +5
+
+The sturdy craftsmanship of the Drow allows them to design many beautiful yet utilitarian goods. Among these is Drow chain mail, which is so finely wrought that it can be worn under normal clothing without revealing its presence. This and its lightness allow it to be worn by thieves and fighter/mages with few restrictions.
+This armor has been enhanced by the drow mage, Gab'Riella Maelither, so it does not decay on the surface world. Only a few items were made of this type for House Maelither's permanent conquest to the surface.
+
+STATISTICS:
+
+20% Magic Resistance
+Armor Class: 0
+Weight: 12
+Requires: 5 Strength~
+@10050 = ~House Maelither Piwafwi Cloak~
+@10051 = ~The cloak can be made in every possible shape with just about every type of fabric. The most common forms are a circular piece of fabric with a hole in the center for the head, and fabric draped from neck, connected by a chain, brooch, cord, or pins.  
+
+STATISTICS
+
+AC bonus: +1
+Hide in Shadows: +75%
+Move Silent: + 75%
+Saving Throw vs. Breath: +6~
+@10052 = ~Cloak of the Forest~
+@10053 = ~Cloak of the Forest is the best type of clothing for the adventuring druids and rangers of the forest.
+
+STATISTICS:
+
+Armor Class: 2
+Special: +50% Hide in Shadows
+Special: +5 vs. Missile Weapons
+Weight: 4~
+@10054 = ~Drow Halberd +3
+By far the oldest and most often used pole-arm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke, and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
+This weapon has been enhanced by the drow mage, Gab'Riella Maelither, so it does not decay on the surface world. Only a few items were made of this type for House Maelither's permanent conquest to the surface.
+
+
+STATISTICS:
+
+1D2 Electrical damage
+THAC0: +3 bonus
+Damage: 1D10 +3
+Damage type: piercing
+Weight: 15
+Speed Factor: 6
+Proficiency Type: Halberd
+Type: 2-handed
+Requires: 13 Strength~
+@10055 = ~Woodland Armor +6~
+@10056 = ~This is the armor of Malenious Strider. The rumor goes that his prowess in battle stems from this armor. It has been given many magical powers beyond that of normal armor. When put on you seem not only to have better protection but you seem to have that extra edge. When in the forests and the shadowy areas of towns this armor seems to lend itself to hiding and moving silently.
+
+STATISTICS:
+
+Armor Class: 1
+Special: +1 dexterity and +20% hide in the shadows.
+Weight: 25~
+@10057 = ~Medium Shield +3~
+@10058 = ~The body shield, also known as the kite or tower shield, is a massive metal or wooden shield reaching nearly from the chin to the toe of the user.  It must be firmly fastened to the forearm and the shield hand must firmly grip it at all times.  Naturally, this precludes use of the shield hand for anything but holding the body shield in place.
+
+STATISTICS:
+
+Armor Class Bonus: 3
+Special: +3 vs. Missile Weapons
+Weight: 15~
+@10059 = ~Drow Shield +3
+A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using his shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from 3'-4' in diameter, and can be of any shape, from round to square to a spread dragon's wings. A typical medieval shield resembles a triangle with one point facing downward. 
+
+STATISTICS:
+
+Armor Class Bonus: 4
+Weight: 7
+Requires: 12 Strength~
+@10060 = ~Scimitar +3, "Andarous' Fury"~
+@10061 = ~Scimitar +3, "Andarous' Fury"
+
+Andarous was a ranger who lost his woods to orcs who cut it down and use the wood for building a fort. Mielikki answered his prayers by giving him this sword to extract revenge in the name of nature. He single handily destroyed all of the orcs in the camp.
+
+STATISTICS:
+
+THACO: +3 bonus
+Damage: 1D8 +3
++2D4 Electrical Damage
+Armor Class: +2 Bonus
+Special: Stun target unless save vs. Spell
+Damage type: slashing
+Weight: 3
+Speed Factor: 2
+Proficiency Type: Scimitar
+Type: 1-handed~
+@10062 = ~Katana +3, "El Tel'lerian"~
+@10063 = ~Tel'lerian was a grand fighter from Kara-Tur. He was a mercenary who traveled throughout the realms looking for work and fighting evil. This katana was one of his favorite weapons. He lost this sword and his life when he was ambushed on his way to Candlekeep. 
+
+STATISTICS:
+
+Special: 10% chance of petrification upon successful hit if failed save vs petrification
+
+Damage: 2D4 +3
+THACO: +3 bonus
+Damage type: Slashing
+Weight: 10
+Proficiency type: Katana
+Speed Factor: 3
+Type: 1-handed~
+@10064 = ~Sword +3 "Khazid's Death"~
+@10065 = ~Khazid's Death was created by a dwarven weapon master, Khazid El Dum. He had just created this sword when a group of thieves broke in and killed him with this sword. Part of his spiritual essence was bonded to this weapon at the time of his death. 
+
+STATISTICS:
+
+Damage: 1D10 +3
+Special: +1 Strength and Constitution
+THACO: +3 bonus
+Damage type: slashing
+Weight: 12
+Speed Factor: 9
+Proficiency Type: Two-handed Sword
+Type:  2-handed~
+@10066 = ~Katana +4 "Toran El Desiade" ~
+@10067 = ~Little is known about this large katanas history. It has ancient runes carved on the handle perhaps giving it magical abilities. Anyone who is evil can not pick it up so it may be a katana for good. 
+
+STATISTICS:
+
+Damage: 1D10 +4 
++2D4 Cold Damage
+THACO: +4 bonus
+Special: +1 Armor Class bonus
+               +1 Dexterity
+               10% Chance Horror cast on target
+Damage type: Slashing
+Weight:  2
+Proficiency type: Katana
+Speed Factor: 2
+Type: 1-handed~
+@10068 = ~Drow Scimitar +3 "Cold Mist"~
+@10069 = ~Drow Scimitar +3
+The long, curved, single edged blade is characteristic of both the sabre and the scimitar, even though their origins lie in different parts of Faerun. 
+This weapon has been enhanced by the drow mage, Gab'Riella Maelither, so it does not decay on the surface world. Only a few items were made of this type for House Maelither's permanent conquest to the surface.
+
+STATISTICS
+
+2D4 Cold Damage
+
+Damage: 1D8 +4
+THAC0: +4
+Damage type: slashing
+Weight: 3
+Speed Factor: 2
+Proficiency Type: Scimitar/Wakizashi/Ninja-To
+Type: 1-handed
+Requires: 10 Strength~
+@10070 = ~Plate Armor~
+@10071 = ~Winter King's Plate~
+@10072 = ~Plate mail is a combination of chain armor with metal plates covering the vital areas such as the chest, abdomen and groin.  Similar in construction to bronze plate mail, true plate mail comprises of chain and leather.
+
+STATISTICS:
+
+Armor Class: 3
+Weight: 50
+Requires: 12 Strength~
+@10073 = ~This armor was crafted from the hide of the most powerful polar worm in Icewind Dale, known by the natives as the "Winter King."  The hide of the creature is extremely thick and tough, but surprisingly light. It is very unusual in its appearance, colored white with blue accents.
+
+STATISTICS:
+
+Armor Class: 3
+Special:  +25% Resist Cold and Fire
+Weight: 25~
+@10074 = ~Helm~
+@10075 = ~Patriot Helm~
+@10076 = ~An odd looking helm.~
+@10077 = ~This helm was worn by the dwarven warrior Danel Silverfrost, king and martyr of the lost dwarven city-state of Silverrock. Danel's deeds are not as well-known as those of many other heroic dwarves, but that is perhaps because his kingdom died with him. His nation suffered heavy losses when trolls and giants attacked it over a thousand years ago in the nearly-forgotten "War of Curdling Blood." The war between the tribes of monsters and the kingdom of Silverrock was waged over fifteen years. Danel never attempted to flee his kingdom, seek the aid of neighboring countries, or abandon his people. Despite the fact that many of his subjects did, indeed, flee, Danel remained in Silverrock until the very end.  Before the final battle of the terrible war, Danel told his people, "When ye see this plume on me head fall, I want ye to make sure that our people don't bow, like gold, but that they break, like iron."
+
+Almost as soon as the battle was joined, Danel charged to the front of the fray and leapt into the talons of a dozen trolls. The moment his plume disappeared from sight, every man, woman, and child remaining in Silverrock poured out of the fortified caverns and dragged down as many trolls and giants as they could.  Barrels of flaming oil were dumped all over Danel's palace and the common areas of the city, consuming as many dwarves as trolls and terrible frost giants. In the end, the monsters had achieved a Pyrrhic victory. The dwarven city was a smoldering ruin from which little treasure, no slaves, and no food, could be taken. Many trolls died of starvation that winter, and when they turned on their giant allies for sustenance, the entire army fell into disarray forever.
+
+STATISTICS:
+
+Armor Class Bonus: 2
+Weight: 4~
+@10078 = ~Silver Bracers of Kedl~
+@10079 = ~This mage, who made his home in Phlan, was known as "Kedl of the Three Rings," for it was said that he perfected a technique whereby he could wear three magical rings simultaneously. An enchanter of items, he was well known for his discriminating taste in clothing, jewelry, and other accessories.  His polished silver bracers were a constant part of his wardrobe. Kedl eventually sold his bracers when he needed the money for some powerful rings.  Unfortunately, Kedl died in an orc attack on Phlan several years later.
+
+STATISTICS:
+
+Armor Class: 2
+Weight: 2
+Not Usable By:~
+@10080 = ~Short Sword~
+@10081 = ~Blood Iron~
+@10082 = ~The short sword is the first type of sword to come into existence.  In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger.  The term short sword does not exist in sword classifications.  However, it has come to be used to describe a double-edged blade about two feet in length.  The sword tip is usually pointed, ideal for thrusting.  
+
+STATISTICS:
+
+Damage: 1D6
+Damage type: piercing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Short Sword
+Type: 1-handed
+Requires: 5 Strength~
+@10083 = ~A weapon of grim reputation in the frozen north, Blood Iron was crafted by a wicked barbarian shaman named Hekedder. He gave the sword to a cousin as a gift. The weapon saw a good amount of use in various barbarian hands as the years went by. Eventually, each owner found themselves hated for having the weapon in their possession. The taint of necromancy is so deplored by the northern tribes that the cursed name of Blood Iron became common knowledge among them. To this day, barbarians will not touch the cursed weapon and dislike even speaking of it. It is crafted of crude, poorly worked iron and the surface of the blade is covered in gouge marks and the imprint of bad hammer strikes. The grip is wrapped in bright red leather.
+
+STATISTICS:
+Damage: 1D6 +4
+THACO: +4
+Damage Type: Piercing
+Special: Every hit heals 3 hit points in the wielder
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Small Sword
+Type: 1-handed~
+@10084 = ~Long Sword~
+@10085 = ~Cynicism~
+@10086 = ~These swords are usually referred to as doubled-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture, and may vary within the same culture depending on the era.  Among the most common characteristics of all long swords is their length, which ranges from 35 inches to 47 inches.  In the latter case, the blade is known to take up 40 inches of the total length.  Most long swords have a double-edged blade and a sharp point at the tip.  Despite the tip, the long sword is designed for slashing, not thrusting.
+
+STATISTICS:
+
+Damage: 1D8
+Damage type: slashing
+Weight: 4
+Speed Factor: 5
+Proficiency Type: Long Sword
+Type: 1-handed
+Requires: 6 Strength~
+@10087 = ~In 834 DR, a wizard named Legedain the Wiser caught a renowned thief breaking into his tower. The thief was a cynical burglar named Ilfain Blackfeather. Legedain was growing old and becoming tired of his frail body. To remedy the situation, he cast Magic Jar and forced Ilfain's spirit into a host gem. Legedain then transferred his soul to the young elf's body and left the gem on a shelf nearby. One hundred years later, Legedain decided to do something with it. He created a sword for his arrogant bodyguard, Gundak, and transferred Ilfain's spirit from the host gem into the sword. Ilfain, always highly critical in life, started telepathically criticizing Gundak in combat. Gundak became annoyed with the sword after two weeks and he threw it into the street. A series of warriors picked it up and discarded it after short periods of ownership.  Over time, the weapon has simply come to be known by its current name.
+
+STATISTICS:
+
+Damage: 2D4 +4
+THACO: +4
+Damage Type: Slashing
+Special: Find Traps 1/Day, Knock 1/Day
+Weight: 4
+Speed Factor: 5
+Proficiency Type: Long Sword
+Type: 1-handed~
+@10088 = ~Bastard Sword~
+@10089 = ~Cancerous Bastard Sword +4~
+@10090 = ~Besides its superb craftsmanship, tiny runes of power can be seen etched all along the surface. It's obvious a lot of time and effort went into its creation and although not apparent at first, a slight blue glow can be seen emanating from the runes.
+
+STATISTICS:
+
+Damage: 2D4 +4
+THAC0: +4
+Damage type: Slashing
+Special: 15% chance target is infected with Disease
+Weight: 10
+Speed Factor: 8
+Proficiency Type: Bastard Swords
+Type: 1-handed~
+@10091 = ~War Hammer~
+@10092 = ~War Hammer +4: Defender~
+@10093 = ~Like others of its type, this warhammer is made entirely of steel, with a bone-crushing hammer mounted upon an 18" shaft. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat.  
+
+STATISTICS:
+
+Damage: 1D4 +3
+THAC0: +4
+Damage type: Crushing
+Armor Class Bonus: 2
+Resistance Bonuses:
+  +15% Piercing Resistance
+  +15% Slashing Resistance
+  +15% Crushing Resistance
+  +15% Magic Resistance
+  +3 Save vs. Spells
+Weight: 6
+Speed Factor: 3
+Proficiency Type: Hammers
+Type: 1-handed~
+@10094 = ~Morning Star~
+@10095 = ~Morning Star of the Gods~
+@10096 = ~The morning star is a wooden shaft topped with a metal head made up of a spiked iron sheath. Morning stars have an overall length of about four feet. This particular one is mounted with a golden head that has been magically enhanced so as to improve performance and escape the malleability of gold.  
+
+STATISTICS:
+
+Damage: 2D4 +3
+THAC0: +3
+Damage type: Crushing
+Armor Class Bonus: 1
+Wisdom: +1 bonus
+Memorize 2 additional 1st level Priest spells
+Memorize 1 additional 2nd level Priest spell
+Weight: 10
+Speed Factor: 6
+Proficiency Type: Mace
+Type: 1-handed~
+@10097 = ~Morning Star +4: Defender~
+@10098 = ~The morning star is a wooden shaft topped with a metal head made up of a spiked iron sheath. Morning stars have an overall length of about four feet. This particular one is mounted with a golden head that has been magically enhanced so as to improve performance and escape the malleability of gold.
+
+STATISTICS:
+
+Damage: 2D4 +4
+THAC0: +4
+Damage type: Crushing
+Armor Class Bonus: 2
+Resistance Bonuses: 
+  +15% Magic Resistance
+  +20% Slashing Resistance
+  +20% Piercing Resistance
+Weight: 10
+Speed Factor: 6
+Proficiency Type: Mace
+Type: 1-handed~
+@10099 = ~Flail~
+@10100 = ~Shocking Flail +4~
+@10101 = ~The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain. This flail has been enhanced magically. Runes can be seen glowing on every surface.
+
+STATISTICS:
+
+Damage: 1D6 +3
+THAC0: +4
+Damage type: Crushing
+Armor Class Bonus: 1
+Special: 
+  50% chance +2D3 electrical damage
+  10% chance target is Stunned
+Weight: 15
+Speed Factor: 7
+Proficiency Type: Flails
+Type: 1-handed~
+@10102 = ~Amulet~
+@10103 = ~Kossuth's Blood~
+@10104 = ~The god of fire, Kossuth, rarely takes physical form in the Forgotten Realms. On those rare occasions when he does, however, destruction lies in his wake. He was summoned in 801 DR by a large collection of faithful followers who plead that they needed their god's aid to defeat a colossal octopus threatening a temple on the coast. Kossuth appeared in a gigantic bonfire and did battle with the enormous supernatural beast. The god's avatar triumphed over the octopus, but the monster did manage to damage Kossuth's essence. The divine fire raced through the creature's body and lodged in one of the creature's eyes, quickly transforming it into a bizarre black sphere lit by the flame within.
+
+STATISTICS:
+
+All casting times reduced by 2.
+All fire damage inflicted by the character is increased by 20%.
+Not Usable By:~
+@10105 = ~Ring~
+@10106 = ~Ring of Greater Resistance~
+@10107 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession. For no apparent reason, this ring feels warm to the touch.
+
+STATISTICS:
+
+Armor Class Bonus: 2
+Resistance Bonuses: 
+ +25% Crushing Resistance
+ +3 Save vs. Spells~
+@10108 = ~Wakizashi +2~
+@10109 = ~Wakizashi
+The wakizashi, or companion sword is extremely important to samurai. It is worn at all times, even indoors, and is near the samurai when he sleeps at night. As finely made as the katana, the wakizashi, a shorter sword with a length between 12 and 24 inches, is a dangerous weapon in the hands of a skilled user.
+
+STATISTICS
+
+Damage: 1D8 +2
+THAC0: +2
+Damage type: piercing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Scimitar/Wakizashi/Ninja-To
+Type: 1-handed
+Requires: 5 Strength~
+@10110 = ~Ninja-To +2~
+@10111 = ~Ninja-To
+The sword of the ninja, the ninja-to, is of lower quality than other Kara-Tur blades such as the katana. The ninja-to is short with a straight blade, making it ideal for the subterfuge of the ninja. The ninja-to is also more suited to fighting in closed places, sometimes giving the ninja an advantage over the longer blades that the samurai used.
+
+STATISTICS
+
+Damage: 1D8 +2
+THAC0: +2
+Damage type: slashing
+Weight: 5
+Speed Factor: 4
+Proficiency Type: Scimitar/Wakizashi/Ninja-To
+Type: 1-handed
+Requires: 6 Strength~
+@10112 = ~Robe of the Grand Wizard~
+@10113 = ~This powerful Mage Robe offers protection from all forms of physical attack while at the same time increasing one's magical resistance and saving throws. Due to the nature of its enchantment, it can only be worn by mages of evil alignment.
+
+STATISTICS:
+
+Armor Class: +2 Bonus
+Magic Resistance: 25%
+Saving Throw: +3 bonus
+Weight: 6~
+@10114 = ~Green Dragon's Plate~
+@10115 = ~This strange green armor has a very powerful magical feel to it.~
+@10116 = ~This armor comes from the Far East that used to belong to an emperor known only as The Green Dragon. He ruled his country with an iron fist until he met his demise at the hands of a female warlord.
+
+Statistics:
+AC -4
+Dex +1
+Negative Plane Protection
+Regeneration of 2 hit Points Per Round
+
+Special:
+Summon 1 Undead Guardian 1 Time Per Day (Bone Golem)
+Cast Regeneration 1 time per day
+Cast Ethereal 1 Time Per Day~
+@10117 = ~Flail of Venom~
+@10118 = ~Each head on this flail has been dipped into a magical poison that will never wear off this weapon of destruction. Care should be taken even by the one who holds it as well. The heads of this flail seem to have a mind of their own at times. 
+
+STATISTICS
+
+Combat Abilities: Victims must make a saving throw vs. poison or take 10 hit points of poison damage
+
+10% chance of wielder being poison if fail save vs poison.
+
+THACO: +3
+Damage: 2D4 +3
+Damage type: crushing
+Weight: 9
+Speed Factor: 5
+Proficiency Type: Flail/Morningstar
+Type: 1-handed
+Requires: 11 Strength~
+@10119 = ~Scroll~
+@10120 = ~The Hall of Wonders in Baldur's Gate has had some valuable items stolen. The thief or thieves is not known but if you have any information please contact the Flaming Fist.~
+@10121 = ~Bertoxxulous~
+@10122 = ~Bertoxxulous, The Plaguebringer
+
+"The only truth is that everyone dies." is printed upon the blade near the hilt in a demonic tongue. While holding this sword the wielder views the decay of flesh as a thing of ultimate beauty. The subtle purples of a fresh bruise, the almost iridescent yellow green of infested pustule, are but a few of the things the wielder begins to relish.
+The sword glows with a black icor when magic is used to reveal it's nature.  Necromancy's evil infests every part of the weapon. Those who would use such a foul sword, for them there is nothing more desirable than to be surrounded by beings who, even in unlife, continue to rot and decay.
+Not much else can be learned about this sword other than its origins come from the Nine Hells.
+
+STATISTICS:
+
+Ability 1: Target struck suffers a -3 to their movement for 60 seconds if a save vs. wands is not made.
+
+Ability 2: Target struck suffers a -2 to their dexterity for 30 seconds with no saving throw.
+
+Ability 3: Target struck suffers 5 poison damage over 2 seconds unless a save vs. poison/death magic is made.
+
+Penalty 1: -1 Constitution.
+
+Penalty 2: Cursed.
+
+THAC0: +6
+Damage: 1D6 +6
+Damage type: piercing
+Weight: 2
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: 1-handed~
+@10123 = ~Wakizashi +4 "Divine Wind"~
+@10124 = ~Wakizashi +4 "Divine Wind":
+This sword belonged to a noble warrior named Shikintu. His reflexes were very fast that upon impact the person would be stunned from his powerful and quick blows. It has been rumored that when he died his spirit became one with his sword.
+
+STATISTICS
+
+20% chance target being stunned 
+Damage: 1D8 +4
+THAC0: +4
+Damage type: piercing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Scimitar/Wakizashi/Ninja-To
+Type: 1-handed
+Requires: 5 Strength~
+@10125 = ~Katana +4 Death's Bane~
+@10126 = ~A sword that was made by Fenris the Necromancer of the East. Nothing else is known of this weapon or its creator. Maybe if you look hard enough a book may reveal their past.
+
+STATISTICS:
+
+Slays undead
+Damage: 1D10 +4
++2 fire damage
+THAC0: +4
+Damage type: slashing
+Weight: 6
+Speed Factor: 4
+Proficiency Type: Katana
+Type: 1-handed
+Requires: 6 Strength~
+@10127 = ~Two Handed Sword~
+@10128 = ~Green Dragon's Sword +4~
+@10129 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+STATISTICS:
+
+Damage: 1D10
+Damage type: slashing
+Weight: 15
+Speed Factor: 10
+Proficiency Type: Two Handed Sword
+Type: 2-handed
+Requires: 14 Strength~
+@10130 = ~The brutal Green Dragon's favorite sword. He would personally execute his own enemy's, even family, with this sword. This weapon was buried with him along with some other prized magical items.
+
+Statistics:
+1D10 +4
+THAC0 +4
+5% Target will be disintegrated.
+Does double damage to undead and demonic. 
+Dispel magic cast on each hit
+
+Special:
+Cast: Sunray 2 times a day at 20th level.~
+@10131 = ~An Odd Ring~
+@10132 = ~A Very Odd Ring~
+@10133 = ~You are tempted to put this ring on. Try it and find out.~
+@10134 = ~An eerie feeling is felt by holding this ring. It would be in your best interest not to put it on and just return it to Smeagol. You really didn't put it on right?~

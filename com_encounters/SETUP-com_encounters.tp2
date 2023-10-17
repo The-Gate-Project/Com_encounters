@@ -1,0 +1,586 @@
+	/////////////////////////
+	/////////////////////////
+	// CoM Encounters      //
+	/////////////////////////
+	/////////////////////////
+
+
+BACKUP ~com_encounters\backup~
+AUTHOR ~"http://chosenofmystra.com"~
+
+// Isaya: version, readme displayed at the beginning, UTF-8 conversion on the fly
+VERSION ~v1.10_charsets~
+
+README ~com_encounters/readme_ce.html~
+
+ALWAYS
+  // Borrowed from Edwin Romance: convert strings to UTF-8 for BG2EE
+
+  // Setup-Tsujatha.tra contains in game texts as well as installation texts
+  // and need to be converted
+  ACTION_DEFINE_ARRAY ucmnoconvert BEGIN END
+  ACTION_DEFINE_ARRAY ucmreload BEGIN dialog END
+
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charset = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%/translations~
+      // charset_table = ucmtscharsets // Use HANDLE_CHARSETS built-in rule for charset choice
+      noconvert_array = ucmnoconvert
+      reload_array = ucmreload
+  END
+END
+
+LANGUAGE ~English~
+         ~english~
+         ~com_encounters/translations/english/dialog.tra~
+LANGUAGE ~Francais (Traduction de Thot des d'Oghmatiques)~
+         ~french~
+         ~com_encounters/translations/french/dialog.tra~
+LANGUAGE ~German (Translation by Gerri)~
+         ~german~
+         ~com_encounters/translations/german/dialog.tra~
+LANGUAGE ~Italian (Translation by ilot)~
+         ~italian~
+         ~com_encounters/translations/italian/dialog.tra~
+LANGUAGE ~Russian (by aerie.ru & arcanecoast.ru)~
+         ~russian~
+         ~com_encounters/translations/russian/dialog.tra~
+LANGUAGE ~Polish (by Aristo)~
+         ~polish~
+         ~com_encounters/translations/polish/dialog.tra~
+
+BEGIN @10000
+REQUIRE_PREDICATE GAME_IS ~tob bgt bg2ee~ @10010
+
+PRINT @10001
+PRINT @10002
+PRINT @10003
+PRINT @10004
+PRINT @10005
+PRINT @10006
+PRINT @10007
+PRINT @10008
+PRINT @10009
+
+// REQUIRE_FILE ~Data/25Dialog.bif~ @10010
+
+// Copy portraits
+
+/* COPY ~com_encounters/images/TF053S.bmp~ ~override~
+
+COPY ~com_encounters/images/ucmgmat.bmp~ ~override~
+
+COPY ~com_encounters/images/ucmshikS.bmp~ ~override~  */
+
+// Copy Images
+
+COPY ~com_encounters/bams~ ~override~
+
+ACTION_IF FILE_EXISTS_IN_GAME ~neera10.cre~ THEN BEGIN
+    COPY ~com_encounters/portraitsEE~ ~override/~
+END ELSE BEGIN
+COPY ~com_encounters\portraits~ ~override~
+END
+
+// Copy Sounds
+
+
+
+
+
+// Creature Stuff
+
+COPY ~com_encounters/cre/UCMGDP01.CRE~ ~override/UCMGDP01.CRE~       
+
+COPY ~com_encounters/cre/UCMGDP02.CRE~ ~override/UCMGDP02.CRE~       
+
+COPY ~com_encounters/cre/UCMGDW01.CRE~ ~override/UCMGDW01.CRE~
+
+COPY ~com_encounters/cre/UCMGDW02.CRE~ ~override/UCMGDW02.CRE~       
+
+COPY ~com_encounters/cre/UCMGDW03.CRE~ ~override/UCMGDW03.CRE~       
+  SAY NAME1 @10011 
+  SAY NAME2 @10011 
+
+COPY ~com_encounters/cre/UCMGMA01.CRE~ ~override/UCMGMA01.CRE~       
+
+COPY ~com_encounters/cre/UCMGMA02.CRE~ ~override/UCMGMA02.CRE~       
+
+COPY ~com_encounters/cre/UCMGMA03.CRE~ ~override/UCMGMA03.CRE~       
+
+COPY ~com_encounters/cre/UCMGMATR.CRE~ ~override/UCMGMATR.CRE~       
+  SAY NAME1 @10012 
+  SAY NAME2 @10012 
+
+COPY ~com_encounters/cre/UCMGMM01.CRE~ ~override/UCMGMM01.CRE~       
+  SAY NAME1 @10013 
+  SAY NAME2 @10013 
+
+COPY ~com_encounters/cre/UCMGWA01.CRE~ ~override/UCMGWA01.CRE~       
+
+COPY ~com_encounters/cre/UCMGWA02.CRE~ ~override/UCMGWA02.CRE~       
+
+COPY ~com_encounters/cre/UCMGWA03.CRE~ ~override/UCMGWA03.CRE~       
+
+COPY ~com_encounters/cre/UCMGWA04.CRE~ ~override/UCMGWA04.CRE~       
+
+COPY ~com_encounters/cre/UCMGWA05.CRE~ ~override/UCMGWA05.CRE~       
+
+COPY ~com_encounters/cre/UCMGTH01.CRE~ ~override/UCMGTH01.CRE~       
+  SAY NAME1 @10014 
+  SAY NAME2 @10014 
+
+COPY ~com_encounters/cre/UCMGTH02.CRE~ ~override/UCMGTH02.CRE~       
+  SAY NAME1 @10015 
+  SAY NAME2 @10015 
+
+COPY ~com_encounters/cre/UCMGTH03.CRE~ ~override/UCMGTH03.CRE~
+
+COPY ~com_encounters/cre/UCMGTH04.CRE~ ~override/UCMGTH04.CRE~       
+
+COPY ~com_encounters/cre/UCMGNUT2.CRE~ ~override/UCMGNUT2.CRE~       
+  SAY NAME1 @10016 
+  SAY NAME2 @10016 
+
+COPY ~com_encounters/cre/UCMGNUT1.CRE~ ~override/UCMGNUT1.CRE~       
+  SAY NAME1 @10017 
+  SAY NAME2 @10017 
+
+COPY ~com_encounters/cre/UCMGNUT.CRE~ ~override/UCMGNUT.CRE~        
+  SAY NAME1 @10018 
+  SAY NAME2 @10018 
+
+COPY ~com_encounters/cre/UCMGHUN4.CRE~ ~override/UCMGHUN4.CRE~       
+  SAY NAME1 @10019 
+  SAY NAME2 @10019 
+
+COPY ~com_encounters/cre/UCMGHUN3.CRE~ ~override/UCMGHUN3.CRE~       
+  SAY NAME1 @10020 
+  SAY NAME2 @10020 
+
+COPY ~com_encounters/cre/UCMGHUN2.CRE~ ~override/UCMGHUN2.CRE~       
+  SAY NAME1 @10021 
+  SAY NAME2 @10021 
+
+COPY ~com_encounters/cre/UCMGHUN1.CRE~ ~override/UCMGHUN1.CRE~       
+  SAY NAME1 @10022 
+  SAY NAME2 @10022 
+
+COPY ~com_encounters/cre/UCMGCL01.CRE~ ~override/UCMGCL01.CRE~       
+  SAY NAME1 @10023 
+  SAY NAME2 @10023 
+
+COPY ~com_encounters/cre/UCMGCL02.CRE~ ~override/UCMGCL02.CRE~       
+  SAY NAME1 @10024 
+  SAY NAME2 @10024 
+
+COPY ~com_encounters/cre/UCMGCL03.CRE~ ~override/UCMGCL03.CRE~       
+  SAY NAME1 @10025 
+  SAY NAME2 @10025 
+
+COPY ~com_encounters/cre/UCMGSMEG.CRE~ ~override/UCMGSMEG.CRE~       
+  SAY NAME1 @10026 
+  SAY NAME2 @10026 
+
+COPY ~com_encounters/cre/UCMGORC1.CRE~ ~override/UCMGORC1.CRE~       
+  SAY NAME1 @10027 
+  SAY NAME2 @10027 
+
+COPY ~com_encounters/cre/UCMGORC2.CRE~ ~override/UCMGORC2.CRE~       
+  SAY NAME1 @10028 
+  SAY NAME2 @10028
+
+COPY ~com_encounters/cre/UCMGORC3.CRE~ ~override/UCMGORC3.CRE~       
+  SAY NAME1 @10029 
+  SAY NAME2 @10029
+
+COPY ~com_encounters/cre/UCMGORC4.CRE~ ~override/UCMGORC4.CRE~       
+  SAY NAME1 @10030 
+  SAY NAME2 @10030
+
+COPY ~com_encounters/cre/UCMGORL.CRE~ ~override/UCMGORL.CRE~       
+  SAY NAME1 @10031 
+  SAY NAME2 @10031
+
+// Items
+
+/*
+COPY ~com_encounters/item/UHALB4A.ITM~ ~override/UHALB4A.ITM~        
+  SAY NAME1 ~Halberd~
+  SAY NAME2 ~Doom Halberd +3~
+  SAY UNIDENTIFIED_DESC ~By far the oldest and most often used pole-arm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke, and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
+
+STATISTICS:  
+
+Damage: 1D10 
+Damage Type: Piercing 
+Weight: 15 
+Speed Factor: 9 
+Proficiency Type: Halberd 
+Type: 2-handed Not 
+~
+  SAY DESC ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor. This halberd has had various enchantments placed on it to increase its effectiveness in battle. 
+
+STATISTICS:  
+
+Damage: 1D10 +3 
+THAC0: +3 
+Damage type: Piercing 
+Special:   
+50% chance +2D3 fire damage
+15% chance target is Stunned 
+Weight: 14 
+Speed Factor: 8 
+Proficiency Type: Halberds 
+Type: 2-handed 
+~
+
+COPY ~com_encounters/item/UHALB4B.ITM~ ~override/UHALB4B.ITM~        
+  SAY NAME1 ~Halberd~
+  SAY NAME2 ~Star Forged Halberd +3~
+  SAY UNIDENTIFIED_DESC ~By far the oldest and most often used pole-arm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke, and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
+
+STATISTICS:  
+
+Damage: 1D10 
+Damage Type: Piercing 
+Weight: 15 
+Speed Factor: 9 
+Proficiency Type: Halberd 
+Type: 2-handed Not 
+~
+  SAY DESC ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor. This halberd has had various enchantments placed on it to increase its effectiveness in battle.
+
+STATISTICS:
+
+Damage: 1D10 +3
+THAC0: +3
+Damage type: Piercing
+Dexterity: +1 bonus
+Special: 15% chance target is Stunned
+Resistance Bonuses
+  +5% Slashing Resistance
+  +5% Piercing Resistance
+Weight: 14
+Speed Factor: 8
+Proficiency Type: Halberds
+Type: 2-handed
+~
+
+COPY ~com_encounters/item/UHALB5A.ITM~ ~override/UHALB5A.ITM~        
+  SAY NAME1 ~Halberd~
+  SAY NAME2 ~Great Halberd +4~
+  SAY UNIDENTIFIED_DESC ~By far the oldest and most often used pole-arm, the halberd consists of a cleaver-like axe blade mounted on a staff averaging six feet in length. The axe blade is balanced at the rear with a fluke, and surmounted by a sharp spike, usually of quadrangular design. The fluke is sometimes replaced by a hook used to dismount cavalry. A halberd can be best described as a cross between a spear and an axe.
+
+STATISTICS:  
+
+Damage: 1D10 
+Damage Type: Piercing 
+Weight: 15 
+Speed Factor: 9 
+Proficiency Type: Halberd 
+Type: 2-handed Not 
+~
+  SAY DESC ~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponent's flesh to find the bone while its barbed tip will seek out gaps in their armor. This halberd has had various enchantments placed on it to increase its effectiveness in battle.
+
+STATISTICS:
+
+Damage: 1D10 +4
+THAC0: +4
+Damage type: Piercing
+Special: 50% chance +2D3 acid damage
+Resistance Bonus: +10% Magic Resistance
+Weight: 14
+Speed Factor: 8
+Proficiency Type: Halberds
+Type:  2-handed
+~    */
+
+// load up ee-specific tra files on BG2EE - Isaya: fixed path and missing .tra in file name
+ACTION_IF GAME_IS ~bg2ee~ THEN BEGIN
+  LOAD_TRA ~com_encounters/translations/%LANGUAGE%/setup_bg2ee.tra~
+END
+
+COPY ~com_encounters/item/CMDAG01.ITM~ ~override/CMDAG01.ITM~        
+  SAY NAME1 @10032 
+  SAY NAME2 @10033
+  SAY UNIDENTIFIED_DESC @10034 
+  SAY DESC @10035 
+
+COPY ~com_encounters/item/UCMGXB01.ITM~ ~override/UCMGXB01.ITM~       
+  SAY NAME2 @10036 
+  SAY DESC @10037 
+
+COPY ~com_encounters/item/UCMGBL01.ITM~ ~override/UCMGBL01.ITM~       
+  SAY NAME2 @10038 
+  SAY DESC @10039 
+
+COPY ~com_encounters/item/UCMGBL02.ITM~ ~override/UCMGBL02.ITM~       
+  SAY NAME2 @10040 
+  SAY DESC @10041 
+
+COPY ~com_encounters/item/UCMGBO01.ITM~ ~override/UCMGBO01.ITM~       
+  SAY NAME2 @10042 
+  SAY DESC @10043 
+
+COPY ~com_encounters/item/UCMGBR01.ITM~ ~override/UCMGBR01.ITM~       
+  SAY NAME2 @10044 
+  SAY DESC @10045 
+
+COPY ~com_encounters/item/UCMGBU01.ITM~ ~override/UCMGBU01.ITM~       
+  SAY NAME2 @10046 
+  SAY DESC @10047 
+
+COPY ~com_encounters/item/UCMGCH01.ITM~ ~override/UCMGCH01.ITM~       
+  SAY DESC @10048 
+
+COPY ~com_encounters/item/UCMGCH02.ITM~ ~override/UCMGCH02.ITM~       
+  SAY DESC @10049 
+
+COPY ~com_encounters/item/UCMGCL01.ITM~ ~override/UCMGCL01.ITM~       
+  SAY NAME2 @10050 
+  SAY DESC @10051 
+
+COPY ~com_encounters/item/UCMGCL02.ITM~ ~override/UCMGCL02.ITM~       
+  SAY NAME2 @10052 
+  SAY DESC @10053 
+
+COPY ~com_encounters/item/UCMGHA01.ITM~ ~override/UCMGHA01.ITM~       
+  SAY DESC @10054 
+
+COPY ~com_encounters/item/UCMGLE01.ITM~ ~override/UCMGLE01.ITM~       
+  SAY NAME2 @10055 
+  SAY DESC @10056 
+
+COPY ~com_encounters/item/UCMGSH01.ITM~ ~override/UCMGSH01.ITM~       
+  SAY NAME2 @10057 
+  SAY DESC @10058 
+
+COPY ~com_encounters/item/UCMGSH02.ITM~ ~override/UCMGSH02.ITM~       
+  SAY DESC @10059 
+
+COPY ~com_encounters/item/UCMGSW01.ITM~ ~override/UCMGSW01.ITM~       
+  SAY NAME2 @10060 
+  SAY DESC @10061 
+
+COPY ~com_encounters/item/UCMGSW02.ITM~ ~override/UCMGSW02.ITM~       
+  SAY NAME2 @10062 
+  SAY DESC @10063 
+
+COPY ~com_encounters/item/UCMGSW03.ITM~ ~override/UCMGSW03.ITM~       
+  SAY NAME2 @10064 
+  SAY DESC @10065 
+
+COPY ~com_encounters/item/UCMGSW04.ITM~ ~override/UCMGSW04.ITM~       
+  SAY NAME2 @10066 
+  SAY DESC @10067 
+
+COPY ~com_encounters/item/UCMGSW05.ITM~ ~override/UCMGSW05.ITM~       
+  SAY NAME2 @10068 
+  SAY DESC @10069 
+
+COPY ~com_encounters/item/UCMGPL01.ITM~ ~override/UCMGPL01.ITM~       
+  SAY NAME1 @10070
+  SAY NAME2 @10071 
+  SAY UNIDENTIFIED_DESC @10072
+  SAY DESC @10073 
+
+COPY ~com_encounters/item/Helmpat.itm~ ~override/Helmpat.itm~   
+  SAY NAME1 @10074
+  SAY NAME2 @10075
+  SAY UNIDENTIFIED_DESC @10076
+  SAY DESC @10077 
+
+COPY ~com_encounters/item/Kedl.itm~ ~override/Kedl.itm~           
+  SAY NAME2 @10078 
+  SAY DESC @10079 
+
+COPY ~com_encounters/item/UCMGSW06.ITM~ ~override/UCMGSW06.ITM~  
+  SAY NAME1 @10080     
+  SAY NAME2 @10081
+  SAY UNIDENTIFIED_DESC @10082
+  SAY DESC @10083 
+
+COPY ~com_encounters/item/UCMGSW07.ITM~ ~override/UCMGSW07.ITM~ 
+  SAY NAME1 @10084      
+  SAY NAME2 @10085
+  SAY UNIDENTIFIED_DESC @10086 
+  SAY DESC @10087 
+
+COPY ~com_encounters/item/UBSWD5A.ITM~ ~override/UBSWD5A.ITM~        
+  SAY NAME1 @10088 
+  SAY NAME2 @10089 
+  SAY DESC @10090 
+
+COPY ~com_encounters/item/U1ham5b.itm~ ~override/U1ham5b.itm~        
+  SAY NAME1 @10091 
+  SAY NAME2 @10092 
+  SAY DESC @10093 
+
+COPY ~com_encounters/item/UMSTR4A.ITM~ ~override/UMSTR4A.ITM~        
+  SAY NAME1 @10094 
+  SAY NAME2 @10095 
+  SAY DESC @10096 
+
+COPY ~com_encounters/item/UMSTR5B.ITM~ ~override/UMSTR5B.ITM~        
+  SAY NAME1 @10094 
+  SAY NAME2 @10097 
+  SAY DESC @10098 
+
+COPY ~com_encounters/item/UFLAL5A.ITM~ ~override/UFLAL5A.ITM~        
+  SAY NAME1 @10099 
+  SAY NAME2 @10100 
+  SAY DESC @10101 
+
+COPY ~com_encounters/item/UCMGAM01.ITM~ ~override/UCMGAM01.ITM~       
+  SAY NAME1 @10102 
+  SAY NAME2 @10103 
+  SAY DESC @10104 
+
+COPY ~com_encounters/item/URING5A.ITM~ ~override/URING5A.ITM~        
+  SAY NAME1 @10105 
+  SAY NAME2 @10106 
+  SAY DESC @10107 
+
+COPY ~com_encounters/item/UCMGSW08.ITM~ ~override/UCMGSW08.ITM~       
+  SAY NAME2 @10108 
+  SAY DESC @10109 
+
+COPY ~com_encounters/item/UCMGSW09.ITM~ ~override/UCMGSW09.ITM~       
+  SAY NAME2 @10110 
+  SAY DESC @10111 
+
+COPY ~com_encounters/item/CMGCL02.ITM~ ~override/CMGCL02.ITM~        
+  SAY NAME2 @10112 
+  SAY DESC @10113 
+
+COPY ~com_encounters/item/COMA11.ITM~ ~override/COMA11.ITM~ 
+  SAY NAME1 @10070
+  SAY NAME2 @10114 
+  SAY UNIDENTIFIED_DESC @10115
+  SAY DESC @10116 
+
+COPY ~com_encounters/item/COMF01.ITM~ ~override/COMF01.ITM~         
+  SAY NAME2 @10117 
+  SAY DESC @10118 
+
+COPY ~com_encounters/item/UCMGNOT1.ITM~ ~override/UCMGNOT1.ITM~       
+  SAY NAME1 @10119 
+  SAY NAME2 @10119 
+  SAY UNIDENTIFIED_DESC @10120 
+  SAY DESC @10120 
+
+COPY ~com_encounters/item/CMS111.ITM~ ~override/CMS111.ITM~         
+  SAY NAME1 @10080 
+  SAY NAME2 @10121 
+  SAY DESC @10122 
+
+COPY ~com_encounters/item/UCMGSW10.ITM~ ~override/UCMGSW10.ITM~       
+  SAY NAME2 @10123 
+  SAY DESC @10124 
+
+COPY ~com_encounters/item/UCMGSW11.ITM~ ~override/UCMGSW11.ITM~       
+  SAY NAME2 @10125 
+  SAY DESC @10126 
+
+COPY ~com_encounters/item/CM2H07.ITM~ ~override/CM2H07.ITM~         
+  SAY NAME1 @10127 
+  SAY NAME2 @10128 
+  SAY UNIDENTIFIED_DESC @10129 
+  SAY DESC @10130 
+
+
+COPY ~com_encounters/item/CMRING05.ITM~ ~override/CMRING05.ITM~         
+  SAY NAME1 @10131 
+  SAY NAME2 @10132 
+  SAY UNIDENTIFIED_DESC @10133 
+  SAY DESC @10134 
+
+
+// Stores
+
+COPY ~com_encounters/stores/UCMGST03.STO~ ~override/UCMGST03.STO~       
+  SAY NAME2 @10135 
+
+COPY ~com_encounters/stores/UCMGST02.STO~ ~override/UCMGST02.STO~       
+  SAY NAME2 @10136 
+
+COPY ~com_encounters/stores/UCMGST01.STO~ ~override/UCMGST01.STO~       
+  SAY NAME2 @10137 
+
+// Dialogues
+
+COMPILE
+  ~com_encounters/dlg/ucmgabrl.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgcl01.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgcl02.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgcl03.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmghun1.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgmmat.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgth01.d~
+
+COMPILE
+  ~com_encounters/dlg/ucmgsmeg.d~
+
+
+// Scripts New
+
+COMPILE ~com_encounters/bafs/cmghostl.baf~
+
+COMPILE ~com_encounters/bafs/cmgmatho.baf~
+
+COMPILE ~com_encounters/bafs/ucmgmm01.baf~
+
+
+// Scripts Extensions
+
+EXTEND_BOTTOM ~ar0404.bcs~ ~com_encounters/bafs/ucmg404.baf~
+
+EXTEND_BOTTOM ~ar0700.bcs~ ~com_encounters/bafs/ucmg700.baf~
+
+EXTEND_BOTTOM ~ar0701.bcs~ ~com_encounters/bafs/ucmg701.baf~
+
+EXTEND_BOTTOM ~ar0800.bcs~ ~com_encounters/bafs/ucmg800.baf~
+
+EXTEND_BOTTOM ~ar1100.bcs~ ~com_encounters/bafs/ucmg1100.baf~
+
+EXTEND_BOTTOM ~ar1105.bcs~ ~com_encounters/bafs/ucmg1105.baf~
+
+EXTEND_BOTTOM ~ar1200.bcs~ ~com_encounters/bafs/ucmg1200.baf~
+
+EXTEND_BOTTOM ~ar2010.bcs~ ~com_encounters/bafs/ucmg2010.baf~
+
+EXTEND_BOTTOM ~ar2100.bcs~ ~com_encounters/bafs/ucmg2100.baf~
+
+EXTEND_BOTTOM ~ar2200.bcs~ ~com_encounters/bafs/ucmg2200.baf~
+
+EXTEND_BOTTOM ~ar2201.bcs~ ~com_encounters/bafs/ucmg2201.baf~
+
+EXTEND_BOTTOM ~ar2202.bcs~ ~com_encounters/bafs/ucmg2202.baf~
+
+// Improved Stuff
+
+BEGIN @10138
+
+COPY ~com_encounters/improved_druids~ ~override~
+
+BEGIN @10139
+
+COPY ~com_encounters/shagbag~ ~override~
+
+// Isaya: now displayed at the beginning of installation with README
+//AT_INTERACTIVE_EXIT ~VIEW com_encounters/readme_ce.html~

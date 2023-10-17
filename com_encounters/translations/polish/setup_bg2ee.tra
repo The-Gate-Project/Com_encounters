@@ -1,0 +1,656 @@
+@10032 = ~Ozdobny nó¿ do mas³a~
+@10033 = ~Nó¿ do mas³a Baldurana~
+@10034 = ~Wygl¹da to na ozdobny nó¿ do mas³a.
+
+PARAMETRY:
+
+Obra¿enia: 1K4
+Typ obra¿eñ: k³ute
+Waga: 1
+OpóŸnienie: 2
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3~
+@10035 = ~Nó¿ do mas³a Baldurana
+Legendy czêsto wspominaj¹ o no¿u do mas³a Baldurana. Bohater nie pozwala³, by jego wiktua³ów dotyka³y inne sztuæce. Uwa¿a siê, ¿e ten ozdobny nó¿ Balduran otrzyma³ od swojej matki w prezencie na osiemnaste urodziny.
+
+PARAMETRY:
+
+Obra¿enia: 1K4 +2
+TraK0: +2
+Typ obra¿eñ: k³ute
+Waga: 1
+OpóŸnienie: 0
+Umagicznienie: +2
+Rodzaj bieg³oœci: sztylet
+Typ broni: 1-rêczna
+Wymagana si³a: 3~
+@10036 = ~Lekka kusza "Pochodnia"~
+@10037 = ~Pochodnia zosta³a wykonana przez ob³¹kanego gnoma, który przejawia³ niezdrowe zami³owanie do ognia. Jest to jedna z niewielu rzeczy, które ocala³y z jego laboratorium po po¿arze, jaki wybuch³ w czasie testowania tej broni.
+
+PARAMETRY:
+
+Obra¿enia: 2K6 +3
+TraK0: +3
+Specjalne:
+ Nie potrzebuje amunicji
+Waga: 4
+OpóŸnienie: 2
+Umagicznienie: +3
+Rodzaj bieg³oœci: kusza
+Typ broni: 2-rêczna
+Wymagana si³a: 8~
+@10038 = ~Cep bojowy +3 "P³omienna œmieræ"~
+@10039 = ~Ten cep bojowy zosta³ umagiczniony tak, by zadawaæ obra¿enia od ognia oraz zwiêkszaæ m¹droœæ tego, kto go dzier¿y. Amaunator by³by zadowolony.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +3, +2K3 obra¿eñ od ognia
+TraK0: +3
+Specjalne:
+ +1 do M¹droœci
+Typ obra¿eñ: obuchowe
+Waga: 10
+OpóŸnienie: 4
+Umagicznienie: +3
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 13~
+@10040 = ~Zatruty cep bojowy drowów +4~
+@10041 = ~Zatruty cep bojowy drowów +4
+Cep bojowy sk³ada siê z solidnego drzewca, s³u¿¹cego za uchwyt, do którego przymocowany jest b¹dŸ gruby metalowy prêt, b¹dŸ nabijany ostrymi kawa³kami metalu lub kamieni dr¹g, lub te¿ ¿elazna kula ze szpikulcami. Te dwa elementy ³¹czono zwykle krótkim ³añcuchem lub mocnymi rzemieniami. Broñ ta wywodzi siê od cepów u¿ywanych do m³ócenia zbo¿a.
+
+PARAMETRY:
+
+Obra¿enia: 2K6+4, +5 obra¿eñ od trucizny
+TraK0: +4
+Typ obra¿eñ: obuchowe
+Waga: 15
+OpóŸnienie: 4
+Umagicznienie: +4
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 13~
+@10042 = ~Zatruty be³t drowów +2~
+@10043 = ~Zatruty be³t drowów +2
+Be³ty to amunicja wystrzeliwana przez kusze, niezale¿nie od wielkoœci broni. Ten szczególny be³t jest magiczny; lec¹c w kierunku celu sprawia wra¿enie, jakby sam nakierowywa³ siê na cel.
+Te be³ty zosta³y ulepszone przez drowi¹ czarodziejkê o imieniu Gab'Riella Maelither tak, by nie rozpada³y siê po wyniesieniu ich z Podmroku. Tylko nieliczne przedmioty zosta³y umagicznione w ten sposób na potrzeby podboju powierzchni przez Dom Maelither.
+
+PARAMETRY:
+
+Obra¿enia: 1K8+2
+TraK0: +2
+Typ obra¿eñ: pocisk (k³ute)
+Specjalne:
+ Cel otrzymuje po 3 punkty obra¿eñ od trucizny na sekundê przez 8 sekund, jeœli nie powiedzie mu siê rzut obronny przeciw truciŸnie
+Waga: 0
+Wyrzutnia: kusza~
+@10044 = ~Rêkawice dezintegracji~
+@10045 = ~Skromny wygl¹d tych skórzanych rêkawic maskuje ich prawdziw¹ moc. Raz dziennie mo¿na za ich pomoc¹ rzuciæ czar Dezintegracja.
+
+PARAMETRY:
+
+Raz dziennie pozwalaj¹ rzuciæ czar Dezintegracja
++2 do rzutów obronnych przeciw œmierci
+
+Waga: 2~
+@10046 = ~Pocisk +2 "Ogieñ kuŸni"~
+@10047 = ~Wewn¹trz tego pocisku zawarte s¹ magiczne energie co sprawia, ¿e wydaje siê on bardziej stabilny i l¿ejszy, gdy pod¹¿a w kierunku celu.
+
+PARAMETRY:
+
+Obra¿enia: 1k4 +2, +1K6 obra¿eñ od ognia
+Trak0: +2
+Typ obra¿eñ: pocisk
+Waga: 0
+Wyrzutnia: proca~
+@10048 = ~Kolczuga drowów +3
+Delikatne, aczkolwiek wytrzyma³e rzemios³o elfów pozwala im tworzyæ wiele piêknych, a mimo to u¿ytecznych przedmiotów. Wœród nich s¹ kolczugi splecione tak misternie, ¿e mo¿na nosiæ je pod zwyk³ym ubraniem nie ujawniaj¹c ich obecnoœci. To oraz ich lekkoœæ pozwala nosiæ je z³odziejom oraz wojownikom/magom z niewieloma ograniczeniami.
+Ta magiczna kolczuga drowów daje nosz¹cemu dodatkowe 5% odpornoœci na magiê i zwiêksza szybkoœæ rzucania wszystkich zaklêæ. Ponadto zosta³a ulepszona przez drowi¹ czarodziejkê o imieniu Gab'Riella Maelither tak, by nie rozpad³a siê po wyniesieniu jej z Podmroku. Tylko nieliczne przedmioty zosta³y umagicznione w ten sposób na potrzeby podboju powierzchni przez Dom Maelither.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Specjalne:
+ +5% do odpornoœci na magiê
+  Zmniejsza szybkoœæ rzucania zaklêæ o 1
+Waga: 12
+Wymagana si³a: 5~
+@10049 = ~Adamantynowa kolczuga drowów +5
+Delikatne, aczkolwiek wytrzyma³e rzemios³o elfów pozwala im tworzyæ wiele piêknych, a mimo to u¿ytecznych przedmiotów. Wœród nich s¹ kolczugi splecione tak misternie, ¿e mo¿na nosiæ je pod zwyk³ym ubraniem nie ujawniaj¹c ich obecnoœci. To oraz ich lekkoœæ pozwala nosiæ je z³odziejom oraz wojownikom/magom z niewieloma ograniczeniami.
+Ta magiczna kolczuga zosta³a ulepszona przez drowi¹ czarodziejkê o imieniu Gab'Riella Maelither tak, by nie rozpad³a siê po wyniesieniu jej z Podmroku. Tylko nieliczne przedmioty zosta³y umagicznione w ten sposób na potrzeby podboju powierzchni przez Dom Maelither.
+
+PARAMETRY:
+
+Klasa Pancerza: 0
+Specjalne:
+ +20% do odpornoœci na magiê
+Waga: 10
+Wymagana si³a: 5~
+@10050 = ~P³aszcz Piwafwi Domu Maelither~
+@10051 = ~Ten p³aszcz mo¿na skroiæ w ka¿dy z mo¿liwych kszta³tów i z prawie ka¿dego materia³u. Najczêstsz¹ form¹ jest okr¹g³y kawa³ materia³u z otworem w œrodku na g³owê, udrapowany na karku, po³¹czony ³añcuchem, brosz¹ albo spink¹.
+
+PARAMETRY:
+
+Specjalne:
+ +1 do Klasy Pancerza
+ +75% do Krycia siê
+ +75% do Cichego chodzenia
+ +6 do rzutów obronnych przeciw zioniêciom
+Waga: 3~
+@10052 = ~P³aszcz kniei~
+@10053 = ~P³aszcz kniei to najlepszy ubiór dla wêdrownych druidów oraz ³owców.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Specjalne:
+ +50% do Krycia siê
+ +5 do Klasy Pancerza przeciwko broni strzeleckiej
+Waga: 3~
+@10054 = ~Halabarda drowów +3
+
+Halabarda, najstarsza i najczêœciej u¿ywana broñ drzewcowa, sk³ada siê z ostrza podobnego do ostrza tasaka zaczepionego na koñcu drzewca o d³ugoœci oko³o dwóch metrów. Ostrze topora równowa¿one jest z drugiej strony przez zadzior, a na szczycie znajduje siê ostry kolec, przewa¿nie o przekroju kwadratowym. Czasami zadzior zastêpowany jest przez hak, którego u¿ywa siê do zsadzania z koni kawalerzystów. Halabardê mo¿na najlepiej opisaæ jako skrzy¿owanie w³óczni z toporem.
+Ta broñ zosta³a ulepszona przez drowi¹ czarodziejkê o imieniu Gab'Riella Maelither tak, by nie rozpad³a siê po wyniesieniu jej z Podmroku. Tylko nieliczne przedmioty zosta³y umagicznione w ten sposób na potrzeby podboju powierzchni przez Dom Maelither.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +3, +1K2 obra¿eñ od elektrycznoœci
+Trak0: +3
+Typ obra¿eñ: k³ute
+Waga: 15
+OpóŸnienie: 6
+Umagicznienie: +3
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13~
+@10055 = ~Leœna zbroja +6~
+@10056 = ~Pierwszym w³aœcicielem tej zbroi by³ Malenious Strider. Plotka g³osi, ¿e jego walecznoœæ i zwinnoœæ zosta³y na zawsze uwiêzione w tym pancerzu. Zbroja oprócz wzmocnionej ochrony otrzyma³a równie¿ inne magiczne moce. W lasach oraz w zacienionych miejskich zau³kach wydaje siê pomagaæ nosz¹cemu ukrywaæ siê w cieniu.
+
+PARAMETRY:
+
+Klasa Pancerza: 1
+Specjalne:
+ +1 do Zrêcznoœci
+ +20% do Krycia siê
+Waga: 25
+Wymagana si³a: 6~
+@10057 = ~Œrednia tarcza +3~
+@10058 = ~Jest to masywna, metalowa lub drewniana tarcza, siêgaj¹ca od ziemi a¿ do podbródka wojownika. Musi byæ solidnie przymocowana do przedramienia i ca³y czas przytrzymywana, co oznacza, ¿e w rêce, na której opiera siê tarcza nie mo¿na trzymaæ niczego innego.
+
+PARAMETRY:
+
+Klasa pancerza: +4
+Specjalne:
+ +3 do Klasy Pancerza przeciwko broni strzeleckiej 
+Waga: 4
+Wymaga si³a: 12~
+@10059 = ~Tarcza drowów +3
+Œredni¹ tarczê nosi siê w ten sam sposób jak ma³¹. Jednak¿e w przeciwieñstwie do tej drugiej, jej waga uniemo¿liwia postaci u¿ywanie d³oni, w której jest trzymana, do czegokolwiek innego ni¿ noszenie tarczy. S¹ one przewa¿nie wykonane z metalu, ich œrednice wahaj¹ siê od 1 do 1,3 m, a kszta³ty maj¹ przeró¿ne - od okr¹g³ych przez kwadratowe a¿ do rozpostartych skrzyde³ smoka. Typowa œredniowieczna tarcza przypomina trójk¹t, którego jeden z wierzcho³ków celuje w dó³.
+
+PARAMETRY:
+
+Klasa pancerza: +4 
+Waga: 6
+Wymagana si³a: 12~
+@10060 = ~Sejmitar +3 "Furia Andarousa"~
+@10061 = ~Sejmitar +3 "Furia Andarousa"
+
+Andarous by³ ³owc¹, który utraci³ swój las na rzecz orków. Wyciêli oni drzewa pod budowê fortu. Mielikki odpowiedzia³a na mod³y zrozpaczonego ³owcy i obdarzy³a go tym orê¿em, dziêki któremu móg³by dokonaæ zemsty w imieniu natury. Andarous w pojedynkê zaatakowa³ obóz orków i wytêpi³ ich co do jednego.
+
+PARAMETRY:
+
+Obra¿enia: 1K8+3, +2K4 obra¿eñ od elektrycznoœci
+TraK0: +3
+Typ obra¿eñ: sieczne
+Specjalne:
+ +2 do Klasy Pancerza
+ Cel zostaje og³uszony, jeœli nie powiedzie mu siê rzut obronny przeciw czarom.
+Waga: 3
+OpóŸnienie: 2
+Umagicznienie: +5
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 8~
+@10062 = ~Katana +3 "El Tel'lerian"~
+@10063 = ~Tel'lerian by³ wielkim wojownikiem z Kara-Tur. Jako najemnik podró¿owa³ przez Krainy poszukuj¹c pracy i walcz¹c ze z³em. Ta katana nale¿a³a do jego ulubionych broni. Tel'lerian straci³ j¹ wraz z ¿yciem, gdy pad³ ofiar¹ zasadzki na drodze do Candlekeep.
+
+PARAMETRY:
+
+Obra¿enia: 1K10+3
+TraK0: +3
+Typ obra¿eñ: sieczne
+Specjalne:
+ Przy ka¿dym trafieniu istnieje 10% szansa na petryfikacjê ofiary, jeœli nie powiedzie siê jej rzut obronny przeciw petryfikacji
+Waga: 3
+OpóŸnienie: 3
+Umagicznienie: +3
+Rodzaj bieg³oœci: katana
+Typ broni: 1-rêczna
+Wymagana si³a: 6~
+@10064 = ~Miecz oburêczny +3 "Œmieræ Khazida"~
+@10065 = ~Miecz "Œmieræ Khazida" zosta³ wykuty przez krasnoludzkiego mistrza kowalstwa o imieniu Khazid El Dum. Krótko po tym, jak stworzy³ tê broñ grupa z³odziei w³ama³a siê do jego kuŸni i zabi³a go tym w³aœnie mieczem. Czêœæ esencji duchowej Khazida zosta³a uwiêziona w tej broni w chwili jego œmierci.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +3
+TraK0: +3
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1 do Si³y
+ +1 do Kondycji
+Waga: 9
+OpóŸnienie: 8
+Umagicznienie: +2
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni: 2-rêczna
+Wymagana si³a: 14~
+@10066 = ~Katana +4 "Toran El Desiade" ~
+@10067 = ~Niewiele wiadomo o pochodzeniu i historii tej katany. Staro¿ytne runy wyryte na jej rêkojeœci s¹ przypuszczalnie Ÿród³em jej magicznych w³aœciwoœci.
+
+PARAMETRY:
+
+Obra¿enia: 1K10+4, +2K4 obra¿eñ od zimna
+TraK0: +4
+Typ obra¿eñ: sieczne
+Specjalne:
+ +1 do Klasy Pancerza
+ +1 do Zrêcznoœci
+ 10% szansa na rzucenie Grozy na ofiarê
+Waga: 2
+OpóŸnienie: 2
+Umagicznienie: +4
+Rodzaj bieg³oœci: katana
+Typ broni: 1-rêczna
+Wymagana si³a: 8~
+@10068 = ~Sejmitar drowów +3 "Lodowata mg³a"~
+@10069 = ~Sejmitar drowów +3 "Lodowata mg³a"
+D³ugie, zakrzywione ostrze charakterystyczne jest zarówno dla szabli, jak i dla sejmitara, choæ Ÿród³a tych broni znajduj¹ siê w ró¿nych miejscach Faerunu.
+Ta broñ zosta³a ulepszona przez drowi¹ czarodziejkê o imieniu Gab'Riella Maelither tak, by nie rozpad³a siê po wyniesieniu jej z Podmroku. Tylko nieliczne przedmioty zosta³y umagicznione w ten sposób na potrzeby podboju powierzchni przez Dom Maelither.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +4, +2K4 obra¿eñ od zimna
+TraK0: +4
+Typ obra¿eñ: sieczne
+Waga: 3
+OpóŸnienie: 2
+Umagicznienie: +4
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 10~
+@10070 = ~Zbroja p³ytowa~
+@10071 = ~Zbroja Króla Zimy~
+@10072 = ~Zbroja p³ytowa to po³¹czenie kolczugi z mocnymi blachami, które chroni¹ ¿ywotnie wa¿ne czêœci cia³a - klatkê piersiow¹, brzuch i krocze. Jej ciê¿ar jest równo roz³o¿ony na ca³e cia³o, zaœ ca³oœæ po³¹czona metalowymi spinkami i rzemieniami.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Waga: 50
+Wymagana si³a: 12~
+@10073 = ~Zbroja ta zosta³a wykonana ze skóry najpotê¿niejszego polarnego robaka ¿yj¹cego w Dolinie Lodowego Wichru, zwanego przez miejscowych "Królem Zimy". Skóra tego zwierzêcia jest wyj¹tkowo gruba i twarda, ale te¿ zaskakuj¹co lekka. Pancerz ma doœæ niecodzienny wygl¹d; zabarwiono go na bia³o i niebiesko.
+
+PARAMETRY:
+
+Klasa Pancerza: 3
+Specjalne:
+ +25% do odpornoœci na ogieñ i zimno
+Waga: 25
+Wymagana si³a: 12~
+@10074 = ~He³m~
+@10075 = ~He³m patrioty~
+@10076 = ~Dziwnie wygl¹daj¹cy he³m.~
+@10077 = ~He³mu tego u¿ywa³ krasnoludzki wojownik Danel SrebrzystomroŸny, król i mêczennik zaginionego miasta-pañstwa krasnoludów - Srebrna Ska³a. Czyny Danela nie s¹ tak dobrze znane jak przygody innych krasnoludzkich bohaterów, ale sta³o siê tak zapewne dlatego, ¿e jego królestwo zginê³o razem z nim. Jego lud poniós³ ciê¿kie straty, kiedy ponad tysi¹c lat temu zosta³ zaatakowany przez trolle i olbrzymów w niemal ju¿ zapomnianej "Wojnie Krzepn¹cej Krwi". Wojna pomiêdzy plemionami potworów a królestwem Srebrnej Ska³y trwa³a ponad piêtnaœcie lat. Danel nigdy nie próbowa³ uciec ze swego królestwa, szukaæ pomocy u s¹siadów czy porzuciæ swój lud. I choæ wielu jego poddanych uciek³o, Danel pozosta³ w Srebrnej Skale do samego koñca. Przed ostateczn¹ bitw¹ tej straszliwej wojny Danel rzek³ do swojego ludu: "Kiedy zobaczycie, ¿e pióropusz mojego he³mu upada, dopilnujcie, by nasz lud nie zgi¹³ siê jak z³oto, ale z³ama³ jak ¿elazo."
+
+Kiedy tylko obie armie star³y siê w walce, Danel zaatakowa³ wroga stoj¹c w pierwszej linii i wskoczy³ pomiêdzy szpony tuzina trolli. W chwili kiedy pióropusz na jego he³mie przesta³ byæ widoczny, wszyscy mê¿czyŸni, kobiety i dzieci, jacy pozostali w Srebrnej Skale wypadli z ufortyfikowanych jaskiñ wabi¹c za sob¹ tyle trolli i olbrzymów, ile tylko siê da³o. Beczu³ki p³on¹cej oliwy rozlane nastêpnie w pa³acu Danela oraz innych czêœciach miasta poch³onê³y tyle samo krasnoludów, co trolli i lodowych olbrzymów. Potwory odnios³y w koñcu pyrrusowe zwyciêstwo. Krasnoludzkie miasto sta³o siê dymi¹cymi ruinami, w których nie da³o siê znaleŸæ ani niewolników, ani skarbów czy ¿ywnoœci. Wiele trolli wyginê³o z g³odu tamtej zimy, a kiedy w koñcu zwróci³y siê przeciwko swoim olbrzymim sprzymierzeñcom by zdobyæ ¿ywnoœæ, ca³a armia posz³a w rozsypkê.
+
+PARAMETRY:
+
+Klasa Pancerza: +2
+Waga: 4~
+@10078 = ~Srebrne rêkawice Kedla~
+@10079 = ~Mag, od którego imienia nazwano te rêkawice, zamieszkiwa³ we Phlan i naprawdê nazywa³ siê Kedl "Trzy Pierœcienie", poniewa¿ do perfekcji opanowa³ sztukê noszenia jednoczeœnie trzech magicznych pierœcieni. Ten znakomity zaklinacz przedmiotów znany by³ równie¿ z zami³owania do wykwintnych ubrañ, bi¿uterii oraz innych dodatków. Te wypolerowane srebrne rêkawice stanowi³y sta³y element jego garderoby. Keld sprzeda³ je w koñcu, gdy potrzebowa³ pieniêdzy na pewne silnie umagicznione pierœcienie. Niestety Kedl zgin¹³ kilka lat póŸniej podczas ataku orków na Phlan.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+Waga: 2~
+@10080 = ~Krótki miecz~
+@10081 = ~Zakrwawione ¿elazo~
+@10082 = ~Pierwszymi mieczami jakie pojawi³y siê by³y w³aœnie krótkie miecze. Najproœciej rzecz bior¹c, jest to sztylet o ostrzu tak d³ugim, ¿e nie mo¿e byæ d³u¿ej traktowany jak sztylet. Termin "krótki miecz" nie istnieje w ¿adnych klasyfikacjach mieczy. Tutaj oznacza on dwusieczne ostrze o d³ugoœci oko³o 60 centymetrów. Jego czubek jest zazwyczaj ostry, co sprawia, ¿e doskonale s³u¿y do zadawania ran k³utych.
+
+PARAMETRY:
+
+Obra¿enia: 1K6
+Typ obra¿eñ: k³ute
+Waga: 3
+OpóŸnienie: 3
+Rodzaj bieg³oœci: krótki miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 5~
+@10083 = ~Miecz "Zakrwawione ¿elazo" zosta³ wykuty przez nikczemnego barbarzyñskiego szamana Hekeddera i okry³ siê z³¹ s³aw¹ na skutej lodem pó³nocy. Hekedder da³ ten orê¿ w podarunku swemu kuzynowi, jednak wraz z up³ywem lat miecz wiele razy wêdrowa³ z r¹k do r¹k. Ka¿dy kolejny w³aœciciel w koñcu pada³ ofiar¹ nienawiœci wywo³anej posiadaniem tej broni. Ska¿enie przedmiotu nekromacj¹ jest tak silnie potêpiane przez plemiona pó³nocy, ¿e z czasem przeklêta nazwa "Zakrwawione ¿elazo" sta³a siê poœród nich powszechnie znana. Po dziœ dzieñ barbarzyñcy nie chc¹ dotykaæ tej broni ani nawet o niej mówiæ. Miecz zosta³ wykuty z surowego, niedbale obrobionego ¿elaza, zaœ na jego ostrzu widniej¹ œlady nieumiejêtnych uderzeñ m³otem kowalskim. Rêkojeœæ zosta³a owiniêta paskami czerwonej skóry.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +4
+TraK0: +4
+Typ obra¿eñ: k³ute
+Specjalne:
+ Ka¿de trafienie przywraca w³aœcicielowi 3 punkty ¿ycia.
+Waga: 3
+OpóŸnienie: 1
+Umagicznienie: +4
+Rodzaj bieg³oœci: krótki miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 5~
+@10084 = ~D³ugi miecz~
+@10085 = ~Cynizm~
+@10086 = ~Do tej kategorii zaliczaj¹ siê obusieczne miecze, miecze wojenne i wojskowe. Bardzo czêsto miecze d³ugie s¹ jednosieczne. Nie istnieje jedna wersja broni tego typu; sposób wykonania i d³ugoœæ zale¿y od kultury, a nawet miejsca w obrêbie jednego narodu, w którym wykuto ostrze. Ich najczêœciej wystêpuj¹c¹ wspóln¹ cech¹ jest d³ugoœæ, wahaj¹ca siê od 90 do 110 cm. Wiêkszoœæ mieczy d³ugich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego koñca, miecze te s³u¿¹ do zadawania ran siecznych, a nie k³utych.
+
+PARAMETRY:
+
+Obra¿enia: 1K8
+Typ obra¿eñ: sieczne
+Waga: 4
+OpóŸnienie: 5
+Rodzaj bieg³oœci: d³ugi miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 6~
+@10087 = ~W roku 834 DR mag Legedain Roztropny schwyta³ os³awionego z³odzieja, który próbowa³ w³amaæ siê do jego wie¿y. Z³odziejem tym by³ cyniczny w³amywacz o imieniu Ilfain Czarne Pióro. Legedain by³ ju¿ stary, a jego cia³o stawa³o siê s³abe. Duszê Ilfaina uwiêzi³ w klejnocie, zaœ w³asn¹ umieœci³ w ciele m³odego elfa. Klejnot z dusz¹ Ilfaina sto lat le¿a³ nietkniêty na pó³ce, zanim Legedain postanowi³ zrobiæ z niego u¿ytek. Dla swojego pacho³ka Gundaka wykona³ miecz i przeniós³ weñ duszê z klejnotu. Ilfain, za ¿ycia krytycznie nastawiony do wszystkiego, zacz¹³ telepatycznie docinaæ Grundakowi w czasie walki. Poirytowany Grundak po dwóch tygodniach wyrzuci³ miecz na ulicê. Wielu wojowników podnosi³o i porzuca³o tê broñ po nied³ugim czasie jej u¿ywania. Z up³ywam lat miecz ten sta³ siê znany pod nazw¹ "Cynizm".
+
+PARAMETRY:
+
+Obra¿enia: 2K4 +4
+TraK0: +4
+Typ obra¿eñ: sieczne
+Specjalne:
+ Szukanie pu³apek raz dziennie
+ Otwarcie raz dziennie
+Waga: 4
+OpóŸnienie: 5
+Umagicznienie: +4
+Rodzaj bieg³oœci: d³ugi miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 6~
+@10088 = ~Miecz pó³torarêczny~
+@10089 = ~Zaka¿ony miecz pó³torarêczny +4~
+@10090 = ~Oprócz tego, ¿e orê¿ ten zosta³ wykonany z najwy¿szym kunsztem, to ca³¹ jego powierzchniê pokrywaj¹ niewielkie runy rozb³yskuj¹ce ledwie widocznym, jasnoniebieskim blaskiem. Oczywistym jest, ¿e stworzenie tego miecza poch³onê³o wiele czasu i wysi³ku.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +4
+TraK0: +4
+Typ obra¿eñ: sieczne
+Specjalne:
+ 15% szansa na zara¿enie celu Chorob¹
+Waga: 10
+OpóŸnienie: 8
+Umagicznienie: +4
+Rodzaj bieg³oœci: miecz pó³torarêczny
+Typ broni: 1-rêczna
+Wymagana si³a: 11~
+@10091 = ~M³ot bojowy~
+@10092 = ~M³ot bojowy +4: Obroñca~
+@10093 = ~Tak jak inne m³oty bojowe, ten te¿ zosta³ wykonany ca³kowicie ze stali, z krusz¹cym koœci m³otem osadzonym na prawie pó³metrowym trzonku. Zosta³ on te¿ obdarzony pewnymi w³aœciwoœciami magicznymi, przez co jeszcze lepiej sprawuje siê w walce.
+
+PARAMETRY:
+
+Obra¿enia: 1K4 +5
+TraK0: +4
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +3 do rzutów obronnych przeciw czarom
+ +15% do odpornoœci na obra¿enia k³ute
+ +15% do odpornoœci na obra¿enia sieczne
+ +15% do odpornoœci na obra¿enia obuchowe
+ +15% do odpornoœci na magiê
+Waga: 6
+OpóŸnienie: 3
+Umagicznienie: +4
+Rodzaj bieg³oœci: m³ot bojowy
+Typ broni: 1-rêczna
+Wymagana si³a: 9~
+@10094 = ~Morgensztern~
+@10095 = ~Morgensztern Bogów~
+@10096 = ~Morgensztern to drewniany trzonek, zakoñczony metalowym okuciem z licznymi szpiczastymi æwiekami. Broñ ta ma oko³o 1,20 do 1,30 metra d³ugoœci. Ten szczególny egzemplarz posiada z³ot¹ g³owicê, która jest magiczna, co sprawia, ¿e jest szybszy w u¿yciu i wytrzymalszy ni¿ zwyk³e z³oto.
+
+PARAMETRY:
+
+Obra¿enia: 2K4 +3
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +1 do M¹droœci
+ Pozwala zapamiêtaæ 2 dodatkowe zaklêcia kap³añskie 1. poziomu.
+ Pozwala zapamiêtaæ 1 dodatkowe zaklêcie kap³añskie 2. poziomu.
+Waga: 10
+OpóŸnienie: 6
+Umagicznienie: +3
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 11~
+@10097 = ~Morgensztern +4: Obroñca~
+@10098 = ~Morgensztern to drewniany trzonek, zakoñczony metalowym okuciem z licznymi szpiczastymi æwiekami. Broñ ta ma oko³o 1,20 do 1,30 metra d³ugoœci. Ten szczególny egzemplarz posiada z³ot¹ g³owicê, która jest magiczna, co sprawia, ¿e jest szybszy w u¿yciu i wytrzymalszy ni¿ zwyk³e z³oto.
+
+PARAMETRY:
+
+Obra¿enia: 2K4 +4
+TraK0: +4
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +2 do Klasy Pancerza
+ +20% do odpornoœci na obra¿enia k³ute
+ +20% do odpornoœci na obra¿enia sieczne
+ +15% do odpornoœci na magiê
+Waga: 10
+OpóŸnienie: 6
+Umagicznienie: +4
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 11~
+@10099 = ~Cep bojowy~
+@10100 = ~Cep bojowy pora¿ania +4~
+@10101 = ~Cep bojowy sk³ada siê z solidnego drzewca, s³u¿¹cego za uchwyt, do którego przymocowany jest b¹dŸ gruby metalowy prêt, b¹dŸ nabijany ostrymi kawa³kami metalu lub kamieni dr¹g, lub te¿ ¿elazna kula ze szpikulcami. Te dwa elementy ³¹czono zwykle krótkim ³añcuchem lub mocnymi rzemieniami. Broñ ta wywodzi siê od cepów u¿ywanych do m³ócenia zbo¿a. Ten cep zosta³ umagiczniony. Widaæ, jak pob³yskuj¹ na jego powierzchni liczne runy.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 +5
+TraK0: +4
+Typ obra¿eñ: obuchowe
+Specjalne:
+ +1 do Klasy Pancerza
+ 50% szansa na zadanie 2K3 obra¿eñ od elektrycznoœci
+ 20% szansa na og³uszenie celu
+Waga: 15
+OpóŸnienie: 7
+Umagicznienie: +4
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 11~
+@10102 = ~Amulet~
+@10103 = ~Krew Kossutha~
+@10104 = ~Bóg ognia, Kossuth, rzadko przybiera fizyczn¹ postaæ. Jednak¿e nawet w tych nieczêstych sytuacjach œlady jego przejœcia naznaczone s¹ zniszczeniem. W roku 801 DR zosta³ przyzwany przez liczne zgromadzenie oddanych mu wyznawców, którzy twierdzili, ¿e potrzebuj¹ pomocy swego boga, by pokonaæ gigantyczn¹ oœmiornicê zagra¿aj¹c¹ nadbrze¿nej œwi¹tyni. Kossuth objawi³ siê w ogromnym palenisku i rozpocz¹³ bitwê z nienaturalnie olbrzymi¹ besti¹. Wcielenie boga wygra³o walkê ze stworem, któremu jednak uda³o siê naruszyæ esencjê Kossutha. Boski ogieñ przebieg³ cielsko potwora i usadowi³ siê w jednym z jego œlepi szybko zmieniaj¹c je w dziwaczn¹ czarn¹ kulê rozœwietlon¹ wewnêtrznym p³omieniem.
+
+PARAMETRY:
+
+Poprawia prêdkoœæ rzucania zaklêæ o 2.
+Zwiêksza obra¿enia od ognia zadane przez postaæ o 20%.~
+@10105 = ~Pierœcieñ~
+@10106 = ~Pierœcieñ wiekszej odpornoœci~
+@10107 = ~Pierœcieñ to ma³a obrêcz wykonana z drogocennego metalu, s³u¿¹ca jako bi¿uteria.  Niektóre pierœcienie s¹ umagicznione, co zapewnia im specjalne w³aœciwoœci.  Pierœcienie takie s¹ szczególnie po¿¹dane, zw³aszcza wœród poszukiwaczy przygód. Bez widocznego powodu ten pierœcieñ jest ciep³y w dotyku.
+
+PARAMETRY:
+
++2 do Klasy Pancerza
++3 do rzutów obronnych przeciw czarom
++25% do odpornoœci na obra¿enia obuchowe~
+@10108 = ~Wakizashi +2~
+@10109 = ~Wakizashi
+Wakizashi, czyli miecz pomocniczy, jest niezwykle wa¿ny dla samuraja. Nosi siê go przez ca³y czas, nawet w mieszkaniu, spoczywa blisko samuraja, gdy ten œpi. Wykonany z równ¹ pieczo³owitoœci¹ co katana, krótszy miecz, d³ugoœci 35-60 cm jest niebezpieczn¹ broni¹ w rêkach wyszkolonego szermierza.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2
+TraK0: +2
+Typ obra¿eñ: k³ute
+Waga: 2
+OpóŸnienie: 2
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 5~
+@10110 = ~Ninja-To +2~
+@10111 = ~Miecz ninja, Ninja-To, jest gorszej jakoœci ni¿ inne klingi z Kara-Tur, takie jak katana. Ninja-To jest krótki i ma proste ostrze, co sprawia, ¿e jest idealnym narzêdziem podstêpnych ninja. Ninja-to jest te¿ lepszy do walki w zamkniêtych przestrzeniach, daj¹c czasem ninja przewagê nad samurajami uzbrojonymi w d³u¿sz¹ broñ.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2
+TraK0: +2
+Typ obra¿eñ: sieczne
+Waga: 4
+OpóŸnienie: 3
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 6~
+@10112 = ~Szata Wielkiego Czarodzieja~
+@10113 = ~Ta potê¿na magiczna szata zapewnia ochronê przed wszelkimi atakami fizycznymi zwiêkszaj¹c jednoczeœnie odpornoœæ na magiê oraz rzuty obronne nosz¹cego. Ze zwglêdu na naturê jej umagicznienia mo¿e byæ noszona wy³¹cznie przez magów o z³ym charakterze.
+
+PARAMETRY:
+
+Klasa Pancerza: +2
+Specjalne:
+ +25% do odpornoœci na magiê
+ +3 do rzutów obronnych
+Waga: 6~
+@10114 = ~Zbroja Zielonego Smoka~
+@10115 = ~Ta dziwna zielona zbroja emanuje wielk¹ magiczn¹ moc¹.~
+@10116 = ~Zbroja ta pochodzi z Dalekiego Wschodu, gdzie nale¿a³a do w³adcy znanego jako Zielony Smok. Rz¹dzi³ on swoim krajem ¿elazn¹ rêk¹, a¿ w koñcu spotka³a go œmieræ z rêki pewnej buntowniczki.
+
+PARAMETRY:
+
+Klasa Pancerza: -4
+Specjalne:
+ +1 do Zrêcznoœci
+ +3 do rzutów obronnych przeciw œmierci
+ Ochrona przed negatywn¹ energi¹
+ Regeneruje 2 punkty ¿ycia na rundê
+ Pozwala raz dziennie przywo³aæ nieumar³ego stra¿nika (koœciany golem)
+ Pozwala rzuciæ Regeneracjê 2 razy dziennie.
+ Pozwala rzuciæ Eterycznoœæ raz dziennie
+Waga: 50
+Wymagana si³a: 14~
+@10117 = ~Cep bojowy jadu~
+@10118 = ~Ka¿dy szpikulec tego cepu bojowego zosta³ zanurzony w magicznej truciŸnie, która nigdy nie wyparuje z powierzchni broni. Ten, kto pos³uguje siê tym orê¿em winien zachowaæ szczególn¹ ostro¿noœæ, poniewa¿ zdaje siê on mieæ swoje w³asne myœli i zamiary.
+
+PARAMETRY:
+
+Obra¿enia: 2K4 +3
+TraK0: +3
+Typ obra¿eñ: obuchowe
+Specjalne:
+ Trafiony przeciwnik musi wykonaæ udany rzut obronny przeciw truciŸnie albo otrzyma 10 punktów obra¿eñ od trucizny
+ 10% szansa na zatrucie w³aœciciela, jeœli nie powiedzie mu siê rzut obronny przeciw truciŸnie
+Waga: 9
+OpóŸnienie: 5
+Umagicznienie: +2
+Rodzaj bieg³oœci: cep bojowy/morgensztern
+Typ broni: 1-rêczna
+Wymagana si³a: 11~
+@10119 = ~Zwój~
+@10120 = ~Z Komnaty Cudów we Wrotach Baldura skradziono przedmioty o wielkiej wartoœci. Personalia w³amywacza b¹dŸ w³amywaczy pozostaj¹ w dalszym ci¹gu nieznane. W przypadku posiadania jakichkolwiek informacji na temat tego zdarzenia nale¿y niezw³ocznie powiadomiæ P³omienn¹ Piêœæ.~
+@10121 = ~Bertoxxulous~
+@10122 = ~Bertoxxulous - Siewca zarazy
+
+"Ka¿dy umiera - tylko to jest prawd¹." napisano w jêzyku demonów na ostrzu przy samej rêkojeœci. Dzier¿¹c ten miecz w rêku jego w³aœciciel postrzega rozk³ad cia³a jako najwy¿sze piêkno. Delikatny fiolet siniaków czy opalizuj¹cy na ¿ó³to-zielono chorobliwy wrzód to tylko niektóre z widoków, które wprawiaj¹ w zachwyt w³aœciciela tego miecza.
+Ostrze okrywa siê czerni¹, kiedy ktoœ przy u¿yciu magii próbuje odkryæ jego naturê. Z³o, maj¹ce swe Ÿród³o w nekromancji, przenika ka¿d¹ czêœæ tej broni. Dla tych, którzy siê ni¹ pos³uguj¹ nie ma niczego bardziej przyjemnego ni¿ przebywanie wœród istot w stanie rozk³adu i gnicia.
+Niewiele wiadomo o rodowodzie miecza za wyj¹tkiem tego, ¿e pochodzi z Dziewiêciu Piekie³.
+
+PARAMETRY:
+
+Obra¿enia: 1K6+6
+TraK0: +6
+Typ obra¿eñ: k³ute
+Specjalne:
+ Ka¿de trafienie obni¿a szybkoœæ przeciwnika o 3 na 60 sekund, jeœli nie powiedzie mu siê rzut obronny przeciw ró¿d¿kom.
+ Ka¿de trafienie obni¿a Zrêcznoœæ przeciwnika o 2 na 30 sekund (bez rzutu obronnego).
+ Trafiony przeciwnik otrzymuje 5 punktów obra¿eñ od trucizny przez 2 sekundy, je¿eli nie powiedzie mu siê rzut obronny przeciw truciznom.
+ -1 do Kondycji
+ Przedmiot przeklêty
+Waga: 2
+OpóŸnienie: 1
+Umagicznienie: +6
+Rodzaj bieg³oœci: krótki miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 5~
+@10123 = ~Wakizashi +4 "Boski wicher"~
+@10124 = ~Wakizashi +4 "Boski wicher"
+To ostrze nale¿a³o do szlachetnego wojownika o imieniu Shikintu. Porusza³ siê on tak szybko, ¿e jego ciosy potrafi³y og³uszyæ przeciwnika. Powiadaj¹, ¿e kiedy Shikintu umar³, jego dusza zosta³a nierozerwalnie po³¹czona z mieczem.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +4
+TraK0: +4
+Typ obra¿eñ: k³ute
+Specjalne:
+ +1 do Klasy Pancerza
+ 30% szansa na og³uszenie przeciwnika
+Waga: 1
+OpóŸnienie: 0
+Umagicznienie: +4
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 5~
+@10125 = ~Katana +4 "Œmieræ Bane'a"~
+@10126 = ~Ostrze wykonane zosta³o przez Fenrisa Nekromantê ze wschodu. Niewiele wiadomo o tej broni ani o jej twórcy, jednak¿e istnieje ponoæ ksiêga, której przeczytanie mog³oby ods³oniæ ich przesz³oœæ.
+
+PARAMETRY:
+
+Obra¿enia: 1k10 +4, +2 obra¿eñ od ognia
+TraK0: +4
+Typ obra¿eñ: sieczne
+Specjalne:
+ +10% do odpornoœci na magiê
+ U¿ytkownik znajduje siê pod dzia³aniem czaru Os³ona przed œmierci¹
+ Trafiony nieumar³y musi wykonaæ udany rzut obronny przeciw œmierci inaczej zostanie zniszczony
+Waga: 2
+OpóŸnienie: 0
+Umagicznienie: +4
+Rodzaj bieg³oœci: katana
+Typ broni: 1-rêczna
+Wymagana si³a: 6~
+@10127 = ~Miecz oburêczny~
+@10128 = ~Miecz Zielonego Smoka +4~
+@10129 = ~Miecz oburêczny pochodzi od miecza d³ugiego. P³atnerze zawsze próbowali ulepszaæ istniej¹ce odmiany orê¿a, dlatego w czasie prób nad udoskonaleniem miecza d³ugiego wyd³u¿ono jego ostrze. To samo zrobiono z rêkojeœci¹, gdy¿ do w³aœciwego u¿ycia tej broni by³y niezbêdne obie rêce. Miecze oburêczne s³u¿y³y zazwyczaj do atakowania rycerzy na koniach i do prze³amywania formacji z pik.
+
+PARAMETRY:
+
+Obra¿enia: 1K10
+Typ obra¿eñ: sieczne
+Waga: 15
+OpóŸnienie: 10
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni: 2-rêczna
+Wymagana si³a: 14~
+@10130 = ~Ulubione ostrze okrutnego Zielonego Smoka. Gdyby mia³ on osobiœcie wykonaæ egzekucjê - czy to na wrogu, czy na cz³onku rodziny - uczyni³by to tym mieczem. Broñ ta zosta³a z³o¿ona do jego grobu razem z innymi magicznymi przedmiotami.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +4
+TraK0: +4
+Typ obra¿eñ: sieczne
+Specjalne:
+ 15% szansa na zdezintegrowanie celu.
+ Zadaje podwójne obra¿enia nieumar³ym oraz demonom.
+ Rozprasza magiê przy ka¿dym trafieniu przeciwnika.
+ Pozwala rzuciæ Promieñ s³oñca 2 razy dziennie.
+Waga: 10
+OpóŸnienie: 5
+Umagicznienie: +6
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni: 2-rêczna
+Wymagana si³a: 14~
+@10131 = ~Dziwny pierœcieñ~
+@10132 = ~Bardzo dziwny pierœcieñ~
+@10133 = ~Kusi ciê, by na³o¿yæ ten pierœcieñ. Spróbuj to zrobiæ i przekonaj siê, jakie to uczucie mieæ go na palcu.~
+@10134 = ~Gdy trzymasz w rêku ten pierœcieñ ogarnia ciê dziwne uczucie. Wydaje siê, ¿e najlepiej by³oby go nie zak³adaæ i po prostu zwróciæ Smeagolowi.~
