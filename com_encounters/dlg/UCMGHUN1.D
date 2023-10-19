@@ -21,7 +21,11 @@ SAY @406
 END
 
 IF ~~ dieplease
-SAY @408 IF ~~ THEN DO ~SetGlobal("UcmgHuntHostile","GLOBAL",1) Enemy()
+SAY @408 IF ~~ THEN DO ~SetGlobal("UcmgHuntHostile","GLOBAL",1)
+ActionOverride("UCMGHUN2",Enemy())
+ActionOverride("UCMGHUN3",Enemy())
+ActionOverride("UCMGHUN4",Enemy())
+Enemy()
 ~ EXIT
 END
 

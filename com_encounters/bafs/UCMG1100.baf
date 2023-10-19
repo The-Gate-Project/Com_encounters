@@ -1,5 +1,5 @@
 IF
-	Global("UcmgOrcs","GLOBAL",0)
+	Global("UcmgOrcs","GLOBAL",1)
 THEN
 	RESPONSE #100
 		CreateCreature("UCMGORL",[1670.1558],10) 
@@ -13,13 +13,13 @@ THEN
 		CreateCreature("UCMGORC1",[1780.1427],3)
 		CreateCreature("UCMGORC1",[1830.1494],3)
 		CreateCreature("UCMGORC2",[1610.1443],4)
-		SetGlobal("UcmgOrcs","GLOBAL",1)
+		SetGlobal("UcmgOrcs","GLOBAL",2)
 END
 
 IF
-	Global("AlexExists","AR1100",0)
+	Global("COMAlexExists","AR1100",0)
 THEN
 	RESPONSE #100
-		SetGlobal("AlexExists","AR1100",1)
+		SetGlobal("COMAlexExists","AR1100",1)
 		CreateCreature("UCMGCL01",[3500.3076],3) 
 END

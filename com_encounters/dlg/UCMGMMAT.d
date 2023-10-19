@@ -13,6 +13,13 @@ END
 
 IF ~~ THEN BEGIN 2
   SAY @504 IF ~~ THEN DO ~SetGlobal("UcmgMatronHostile","GLOBAL",1)
+ActionOverride("UCMGDP02",Enemy())
+ActionOverride("UCMGMA01",Enemy())
+ActionOverride("UCMGMA02",Enemy())
+ActionOverride("UCMGWA03",Enemy())
+ActionOverride("UCMGWA04",Enemy())
+ActionOverride("UCMGWA05",Enemy())
+ActionOverride("UCMGDW03",Enemy())
 Enemy()
 ~ EXIT
 END

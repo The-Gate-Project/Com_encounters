@@ -18,6 +18,12 @@ END
 
 IF ~~ THEN BEGIN 3
   SAY @7 IF ~~ THEN DO ~SetGlobal("UCMGABEHOSTILE","GLOBAL",1)
+ActionOverride("UCMGDP01",Enemy())
+ActionOverride("UCMGMA03",Enemy())
+ActionOverride("UCMGWA01",Enemy())
+ActionOverride("UCMGWA02",Enemy())
+ActionOverride("UCMGDW01",Enemy())
+ActionOverride("UCMGDW02",Enemy())
 Enemy()
 ~ EXIT
 END
@@ -39,6 +45,12 @@ END
 
 IF ~~ THEN BEGIN 7
   SAY @14 IF ~~ THEN DO ~SetGlobal("UCMGABEHOSTILE","GLOBAL",1)
+ActionOverride("UCMGDP01",Enemy())
+ActionOverride("UCMGMA03",Enemy())
+ActionOverride("UCMGWA01",Enemy())
+ActionOverride("UCMGWA02",Enemy())
+ActionOverride("UCMGDW01",Enemy())
+ActionOverride("UCMGDW02",Enemy())
 Enemy()
 ~ EXIT
 END

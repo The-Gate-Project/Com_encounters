@@ -8,8 +8,8 @@ END
 
 IF ~~ THEN BEGIN 1
   SAY @603
-IF ~~ THEN REPLY @604 EXIT
-IF ~~ THEN REPLY @602  DO ~SetNumTimesTalkedTo(0)~ EXIT
+IF ~~ THEN REPLY @604 DO ~SetGlobal("UcmgOrcs","GLOBAL",1)~ EXIT
+IF ~~ THEN REPLY @602 DO ~SetNumTimesTalkedTo(0)~ EXIT
 END
 
 IF ~NumTimesTalkedToGT(0)

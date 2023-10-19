@@ -1,0 +1,600 @@
+@10032 = ~Cuchillo ornamentado para mantequilla~
+@10033 = ~Cuchillo de mantequilla de Balduran~
+@10034 = ~Esto parece ser un cuchillo de mantequilla adornado.
+
+ESTADÍSTICAS:
+
+Daño: 1D4 
+Tipo de daño: perforante
+Peso: 1
+Factor de velocidad: 2 
+Tipo de competencia: Daga
+Tipo: Daga 1 mano
+Requiere 3 Fuerza
+~
+@10035 = ~Cuchillo de mantequilla de Balduran:
+Las leyendas hablan a menudo del Cuchillo de Mantequilla de Balduran. El héroe no permitía que ningún otro utensilio tocara sus condimentos. Se cree que su madre le regaló el ornamentado cuchillo de mantequilla por su decimoctavo cumpleaños.
+
+ESTADÍSTICAS:
+
+Daño: 1D4 +2
+THACO: +2 bonus
+Peso: 1
+Factor de velocidad: 0
+Tipo de competencia: Daga
+Tipo: Daga 1 mano
+Requiere 3 Fuerza
+~
+@10036 = ~Ballesta Ligera "La Antorcha"~
+@10037 = ~La Antorcha fue fabricada por un gnomo loco al que le gustaba el fuego. Esta fue una de las pocas cosas que sobrevivieron de su laboratorio después de que se incendiara por esta arma cuando la estaba probando.
+
+ESTADÍSTICAS:
+
+Daño: 2D6
+THACO: +3 bonus
+Especial: No necesita munición
+Factor de velocidad 3
+Tipo de competencia: Ballesta
+Tipo 2-handed~
+@10038 = ~Mayal +3 "Muerte Flamígera"~
+@10039 = ~Este mayal está encantado para hacer daño de fuego y aumentar tu sabiduría. Amuanator estaría encantado.
+
+ESTADÍSTICAS:
+
+Daño: 1D8 +3
+THACO: +3
+Sabiduría +1 bonus
+Especial: Ataques aumentados
+Especial: 2D3 +1 daño de fuego
+Tipo de daño: Contundente
+Peso: 8
+Factor de velocidad 3
+Tipo de competencia: Mayal/Lucero de alba
+Tipo: Arma 1 mano
+~
+@10040 = ~Mayal Drow de veneno +4~
+@10041 = ~Mayal Drow de veneno +4
+El mayal es un robusto mango de madera unido a una barra de hierro, una barra de madera con pinchos o una bola de hierro con pinchos. Entre el mango y la herramienta hay una bisagra o una cadena. Esta arma se utilizaba originalmente para trillar el grano.  
+ 
+
+ESTADÍSTICAS:
+
++5 Daño de Veneno
+THAC0: +4 bonus
+Daño 1D6 +4 
+Tipo de daño: Contundente
+Peso: 15
+Factor de velocidad 4
+Tipo de competencia: Mayal/Lucero de alba
+Tipo: Mayal 1 mano
+Requiere: 13 Fuerza ~
+@10042 = ~Virote Drow con punta de veneno +2~
+@10043 = ~Virote Drow con punta de veneno +2
+Las saetas o virotes son la munición que disparan las ballestas, independientemente del tamaño del arma. Sin embargo, esta saeta ha sido imbuida con una pequeña cantidad de propiedades mágicas que mejoran su rendimiento en vuelo, casi como si la saeta fuera guiada hacia su objetivo.
+La maga drow Gab'Riella Maelither lo ha mejorado para que no se descomponga en la superficie. Sólo se fabricaron unos pocos objetos de este tipo para la conquista permanente de la Casa Maelither en la superficie.
+
+ESTADÍSTICAS:
+
+Daño de veneno 3 puntos por segundo si falla la salvación vs Veneno
+Daño 1D8 +2
+THACO: +2
+Tipo de daño: misil (perforante)
+Peso: 0
+Lanzador: Ballesta~
+@10044 = ~Brazaletes de Desintegración~
+@10045 = ~La simple apariencia de estos guantes de cuero oculta su poder. Una vez al día el hechizo desintegrar puede ser lanzado por el portador. 
+
+ESTADÍSTICAS
+
+Lanza el hechizo desintegración una vez al día
++2 Salvación vs Muerte~
+@10046 = ~Balas +2 "Fuego de Forja"~
+@10047 = ~Corrientes mágicas se incrustan dentro de esta bala para que parezca un poco más equilibrada y ligera mientras salta hacia un oponente. 
+
+ESTADÍSTICAS:
+
+Daño: 1D4 +3
+THACO: +2
+Especial: 1D6 daño de fuego
+Tipo de daño: misil (perforante)
+Peso: 0
+Lanzador: Honda~
+@10048 = ~Malla Drow +3
+La delicada y robusta artesanía de las razas élficas les permite diseñar muchos objetos bellos y utilitarios. Entre ellos se encuentra la cota de malla élfica, tan finamente labrada que puede llevarse bajo la ropa normal sin revelar su presencia. Esto y su ligereza permiten que sea llevada por ladrones y luchadores/magos con pocas restricciones.
+Esta cota de malla mágica drow otorga al portador una bonificación del 5% a la resistencia mágica y resta 1 al factor de velocidad de todos los hechizos lanzados por el portador de la armadura. Esta armadura ha sido mejorada por la maga drow Gab'Riella Maelither para que no se deteriore en la superficie. Sólo se fabricaron unos pocos objetos de este tipo para la conquista permanente de la Casa Maelither a la superficie.
+
+ESTADÍSTICAS:
+
+Habilidades: +5 Resistencia Mágica
+           -1 al tiempo de lanzamiento de todos los hechizos
+Clase de Armadura 2
+Peso: 12
+Requiere: 5 Fuerza~
+@10049 = ~Malla de Admantina Drow +5
+
+La robusta artesanía de las drow les permite diseñar muchos objetos bellos y utilitarios. Entre ellos se encuentra la cota de malla drow, tan finamente forjada que puede llevarse bajo la ropa normal sin que se note su presencia. Esto y su ligereza permiten que la lleven ladrones y luchadores/magos con pocas restricciones.
+Esta armadura ha sido mejorada por la maga drow Gab'Riella Maelither para que no se deteriore en la superficie. Sólo se fabricaron unos pocos objetos de este tipo para la conquista permanente de la Casa Maelither a la superficie.
+
+ESTADÍSTICAS:
+
+20% Resistencia Mágica
+Clase de Armadura: 0
+Peso: 12
+Requiere: 5 Fuerza~
+@10050 = ~Capa Piwafwi de la Casa Maelither~
+@10051 = ~La capa se puede hacer de todas las formas posibles con casi cualquier tipo de tela. Las formas más comunes son una pieza circular de tela con un agujero en el centro para la cabeza, y tela drapeada desde el cuello, unida por una cadena, broche, cordón o alfileres.  
+
+ESTADÍSTICAS
+
+Bonificación CA: +1
+Esconderse en las sombras +75%
+Sigilo + 75%
+Tiro de Salvación vs. Aliento: +6~
+@10052 = ~Capa del Bosque~
+@10053 = ~La Capa del Bosque es el mejor tipo de ropa para los aventureros druidas y guardabosques del bosque.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 2
+Especial +50% Esconderse en las sombras
+Especial: +5 +5 vs. Armas de proyectiles
+Peso: 4~
+@10054 = ~Alabarda Drow +3
+La alabarda es, con diferencia, el arma de asta más antigua y utilizada. Consiste en un hacha en forma de cuchilla montada sobre un bastón de unos dos metros de longitud. La hoja del hacha está equilibrada en la parte trasera con una aleta y rematada por una afilada púa, normalmente de diseño cuadrangular. A veces se sustituye por un gancho para desmontar a la caballería. Una alabarda puede describirse como un cruce entre una lanza y un hacha.
+Esta arma ha sido mejorada por la maga drow Gab'Riella Maelither para que no se descomponga en el mundo de la superficie. Sólo se fabricaron unos pocos objetos de este tipo para la conquista permanente de la Casa Maelither a la superficie.
+
+
+ESTADÍSTICAS:
+
+1D2 Daño eléctrico
+THAC0: bonificación de +3
+Daño 1D10 +3
+Tipo de daño: perforante
+Peso: 15
+Factor de velocidad: 6
+Tipo de competencia: Alabarda
+Tipo: Alabarda 2 manos
+Requiere 13 Fuerza~
+@10055 = ~Armadura del bosque +6~
+@10056 = ~Esta es la armadura de Malenious Strider. Se rumorea que su destreza en la batalla se debe a esta armadura. Se le han otorgado muchos poderes mágicos más allá de los de una armadura normal. Cuando te la pones, no solo pareces tener mejor protección, sino que pareces tener una ventaja extra. En los bosques y en las zonas sombrías de las ciudades, esta armadura se presta a la ocultación y al movimiento silencioso.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 1
+Especial: +1 destreza y +20% ocultarse en las sombras.
+Peso: 25~
+@10057 = ~Escudo mediano +3~
+@10058 = ~El escudo corporal, también conocido como escudo cometa o escudo torre, es un enorme escudo de metal o madera que llega casi desde la barbilla hasta la punta de los pies del usuario.  Debe estar firmemente sujeto al antebrazo y la mano del escudo debe agarrarlo firmemente en todo momento.  Naturalmente, esto impide el uso de la mano del escudo para otra cosa que no sea sujetar el escudo del cuerpo en su sitio.
+
+ESTADÍSTICAS:
+
+Bonificación por clase de armadura: 3
+Especial +3 vs. Armas de proyectiles
+Peso: 15~
+@10059 = ~Escudo Drow +3
+Un escudo mediano se lleva de la misma manera que un escudo pequeño. Sin embargo, a diferencia del escudo pequeño, su peso impide al personaje usar su mano escudera para otra cosa que no sea llevar el escudo mediano. Los escudos medianos suelen ser de metal, miden entre 3 y 4 pies de diámetro y pueden tener cualquier forma, desde redondos a cuadrados, pasando por las alas desplegadas de un dragón. Un escudo medieval típico se asemeja a un triángulo con una punta hacia abajo. 
+
+ESTADÍSTICAS:
+
+Bonificación de clase de armadura: 4
+Peso: 7
+Requiere 12 Fuerza~
+@10060 = ~Cimitarra +3, "Furia de Andarous"~
+@10061 = ~Cimitarra +3, "Furia de Andarous"
+
+Andarous era un explorador que perdió su bosque a manos de los orcos, que lo talaron y utilizaron la madera para construir un fuerte. Mielikki respondió a sus plegarias dándole esta espada para vengarse en nombre de la naturaleza. Él solo destruyó a todos los orcos del campamento.
+
+ESTADÍSTICAS:
+
+THACO: +3 bonus
+Daño: 1D8 +3
++2D4 Daño Eléctrico
+Clase de Armadura: +2 Bonificación
+Especial: Aturde al objetivo a menos que haya salvación vs. Hechizo
+Tipo de daño: cortante
+Peso: 3
+Factor de velocidad: 2
+Tipo de competencia: Cimitarra
+Tipo: Cimitarra 1 mano~
+@10062 = ~Katana +3, "El Tel'lerian"~
+@10063 = ~Tel'lerian era un gran luchador de Kara-Tur. Era un mercenario que viajaba por los reinos buscando trabajo y luchando contra el mal. Esta katana era una de sus armas favoritas. Perdió esta espada y su vida cuando fue emboscado en su camino a Candelero. 
+
+ESTADÍSTICAS:
+
+Especial: 10% de probabilidad de petrificación al golpear con éxito si falla la salvación vs petrificación
+
+Daño: 2D4 +3
+THACO: +3 bonus
+Tipo de daño: Cortante
+Peso: 10
+Tipo de competencia: Katana
+Factor de velocidad 3
+Tipo: Katana 1 mano~
+@10064 = ~Espada +3 "Muerte de Khazid"~
+@10065 = ~La Muerte de Khazid fue creada por un maestro de armas enano, Khazid El Dum. Acababa de crear esta espada cuando un grupo de ladrones entró y lo mató con ella. Parte de su esencia espiritual se unió a esta arma en el momento de su muerte. 
+
+ESTADÍSTICAS:
+
+Daño: 1D10 +3
+Especial: +1 Fuerza y Constitución
+THACO: +3 bonus
+Tipo de daño: cortante
+Peso: 12
+Factor de velocidad: 9
+Tipo de competencia: Espada a dos manos
+Tipo: Espada  2 manos~
+@10066 = ~Katana +4 "Toran El Desiade" ~
+@10067 = ~Poco se sabe de la historia de esta gran katana. Tiene runas antiguas grabadas en la empuñadura que quizá le confieran habilidades mágicas. Cualquiera que sea malvado no puede cogerla por lo que puede ser una katana para el bien. 
+
+ESTADÍSTICAS:
+
+Daño: 1D10 +4 
++2D4 Daño por frío
+THACO: +4 bonus
+Especial: +1 Bonificador de Clase de Armadura
+               +1 Destreza
+               10% Probabilidad Lanzamiento de Horror sobre el objetivo
+Tipo de daño: Cortante
+Peso: 2
+Tipo de competencia: Katana
+Factor de velocidad: 2
+Tipo: Katana 1 mano~
+@10068 = ~Cimitarra Drow +3 "Niebla Fría"~
+@10069 = ~Cimitarra Drow +3
+La hoja larga, curva y de un solo filo es característica tanto del sable como de la cimitarra, aunque sus orígenes se sitúen en distintas partes de Faerûn. 
+Esta arma ha sido mejorada por la maga drow Gab'Riella Maelither para que no se descomponga en el mundo de la superficie. Sólo se fabricaron unos pocos objetos de este tipo para la conquista permanente de la Casa Maelither a la superficie.
+
+ESTADÍSTICAS
+
+2D4 Daño por frío
+
+Daño 1D8 +4
+THAC0: +4
+Tipo de daño: cortante
+Peso: 3
+Factor de velocidad: 2
+Tipo de competencia: Cimitarra/Wakizashi/Ninja-To
+Tipo: Cimitarra 1 mano
+Requiere: 10 Fuerza~
+@10070 = ~Armadura de placas~
+@10071 = ~Placa del Rey de Invierno~
+@10072 = ~La cota de malla es una combinación de armadura de cadenas con placas metálicas que cubren las zonas vitales, como el pecho, el abdomen y la ingle.  De construcción similar a la cota de malla de bronce, la cota de malla verdadera se compone de cadenas y cuero.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 3
+Peso: 50
+Requiere: 12 Fuerza~
+@10073 = ~Esta armadura se fabricó con la piel del gusano polar más poderoso del Valle del viento helado, conocido por los nativos como el "Rey del Invierno".  La piel de la criatura es extremadamente gruesa y resistente, pero sorprendentemente ligera. Su aspecto es muy inusual, de color blanco con toques azules.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 3
+Especial:  +25% Resistencia al frío y al fuego
+Peso: 25~
+@10074 = ~Yelmo~
+@10075 = ~Yelmo del Patriota~
+@10076 = ~Un yelmo de aspecto extraño.~
+@10077 = ~Este yelmo lo llevaba el guerrero enano Danel Escarchaplateada, rey y mártir de la ciudad-estado enana perdida de Rocaplateada. Las hazañas de Danel no son tan conocidas como las de muchos otros enanos heroicos, pero eso se debe quizá a que su reino murió con él. Su nación sufrió grandes pérdidas cuando trolls y gigantes la atacaron hace más de mil años en la casi olvidada "Guerra de la Sangre Cuajada". La guerra entre las tribus de monstruos y el reino de Rocaplateada se libró durante quince años. Danel nunca intentó huir de su reino, buscar la ayuda de los países vecinos ni abandonar a su pueblo. A pesar de que muchos de sus súbditos huyeron, Danel permaneció en Rocaplateada hasta el final.  Antes de la última batalla de la terrible guerra, Danel dijo a su pueblo: "Cuando veáis caer este penacho sobre mi cabeza, quiero que os aseguréis de que nuestro pueblo no se doblegue, como el oro, sino que se quiebre, como el hierro."
+
+Casi tan pronto como se inició la batalla, Danel cargó al frente de la refriega y saltó a las garras de una docena de trolls. En el momento en que su pluma desapareció de la vista, todos los hombres, mujeres y niños que quedaban en Silverrock salieron de las cavernas fortificadas y arrastraron a tantos trolls y gigantes como pudieron.  Barriles de aceite llameante fueron arrojados por todo el palacio de Danel y las zonas comunes de la ciudad, consumiendo a tantos enanos como trolls y terribles gigantes de escarcha. Al final, los monstruos habían logrado una victoria pírrica. La ciudad enana era una ruina humeante de la que apenas pudieron sacar tesoros, esclavos ni alimentos. Muchos trolls murieron de inanición aquel invierno, y cuando se volvieron contra sus gigantes aliados en busca de sustento, todo el ejército se desorganizó para siempre.
+
+ESTADÍSTICAS:
+
+Bonificación de clase de armadura: 2
+Peso: 4~
+@10078 = ~Brazales de plata de Kedl~
+@10079 = ~Este mago, que tenía su hogar en Phlan, era conocido como "Kedl de los tres anillos", pues se decía que había perfeccionado una técnica que le permitía llevar tres anillos mágicos simultáneamente. Encantador de objetos, era conocido por su gusto exquisito en ropa, joyas y otros accesorios.  Sus brazaletes de plata pulida formaban parte de su vestuario. Kedl acabó vendiendo sus brazaletes cuando necesitó el dinero para comprar unos poderosos anillos.  Desgraciadamente, Kedl murió en un ataque orco a Phlan varios años después.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 2
+Peso: 2
+No utilizable por:~
+@10080 = ~Espada Corta~
+@10081 = ~Hierro de sangre~
+@10082 = ~La espada corta es el primer tipo de espada que surgió.  En los términos más sencillos, una espada corta puede considerarse una daga con una hoja tan larga que ya no puede llamarse daga.  El término espada corta no existe en las clasificaciones de espadas.  Sin embargo, se ha llegado a utilizar para describir una hoja de doble filo de unos dos pies de longitud.  La punta de la espada suele ser puntiaguda, ideal para asestar estocadas.  
+
+ESTADÍSTICAS:
+
+Daño: 1D6
+Tipo de daño: perforante
+Peso: 3
+Factor de velocidad: 3
+Tipo de competencia: Espada corta
+Tipo: Espada corta 1 mano
+Requiere: 5 Fuerza~
+@10083 = ~Arma de sombría reputación en el helado norte, Hierro Sangriento fue fabricada por un malvado chamán bárbaro llamado Hekedder. Se la regaló a un primo. Con el paso de los años, el arma pasó por las manos de varios bárbaros. Con el tiempo, todos sus propietarios acabaron siendo odiados por tener el arma en su poder. La mancha de la nigromancia es tan deplorada por las tribus del norte que el nombre maldito de Hierro Sangriento se hizo común entre ellos. Hasta el día de hoy, los bárbaros no tocan el arma maldita y ni siquiera les gusta hablar de ella. Está hecha de hierro tosco y mal trabajado, y la superficie de la hoja está cubierta de marcas de gubia y la huella de golpes de martillo mal dados. La empuñadura es de cuero rojo brillante.
+
+ESTADÍSTICAS:
+Daño: 1D6 +4
+THACO: +4
+Tipo de Daño: Perforante
+Especial: Cada impacto cura 3 puntos de golpe del portador
+Peso: 3
+Factor de velocidad: 1
+Tipo de competencia: Espada pequeña
+Tipo: Espada pequeña 1 mano~
+@10084 = ~Espada Larga~
+@10085 = ~Cinismo~
+@10086 = ~Estas espadas suelen denominarse espadas de doble filo, espadas de guerra o espadas militares. En muchos casos, el sable largo tiene una hoja de un solo filo. No existe una única versión del sable largo; el diseño y la longitud varían de una cultura a otra, y pueden variar dentro de la misma cultura dependiendo de la época.  Una de las características más comunes de todas las espadas largas es su longitud, que oscila entre 35 y 47 pulgadas.  En este último caso, se sabe que la hoja ocupa 40 pulgadas de la longitud total.  La mayoría de las espadas largas tienen una hoja de doble filo y una punta afilada en la punta.  A pesar de la punta, la espada larga está diseñada para acuchillar, no para empujar.
+
+ESTADÍSTICAS:
+
+Daño: 1D8
+Tipo de daño: cortante
+Peso: 4
+Factor de velocidad: 5
+Tipo de competencia: Espada larga
+Tipo: Espada larga 1 mano
+Requiere: 6 Fuerza~
+@10087 = ~En 834 DR, un mago llamado Legedain el Sabio sorprendió a un ladrón de renombre entrando en su torre. El ladrón era un cínico ladrón llamado Ilfain Pluma Negra. Legedain estaba envejeciendo y cansándose de su frágil cuerpo. Para remediar la situación, invocó a Tarro Mágico y forzó al espíritu de Ilfain a entrar en una gema huésped. Legedain transfirió entonces su alma al cuerpo del joven elfo y dejó la gema en un estante cercano. Cien años después, Legedain decidió hacer algo con ella. Creó una espada para su arrogante guardaespaldas, Gundak, y transfirió el espíritu de Ilfain de la gema huésped a la espada. Ilfain, siempre muy crítico en la vida, empezó a criticar telepáticamente a Gundak en combate. Gundak se enfadó con la espada al cabo de dos semanas y la tiró a la calle. Una serie de guerreros la recogieron y la desecharon tras breves periodos de tenencia.  Con el tiempo, el arma ha pasado a conocerse simplemente por su nombre actual.
+
+ESTADÍSTICAS:
+
+Daño: 2D4 +4
+THACO: +4
+Tipo de daño: Cortante
+Especial: Encontrar Trampas 1/Día, Golpear 1/Día
+Peso: 4
+Factor de Velocidad: 5
+Tipo de competencia: Espada Larga
+Tipo: Espada larga 1 mano~
+@10088 = ~Espada Bastarda~
+@10089 = ~Espada Bastarda Cancerosa +4~
+@10090 = ~Además de su magnífica artesanía, se pueden ver pequeñas runas de poder grabadas por toda la superficie. Es evidente que se invirtió mucho tiempo y esfuerzo en su creación y, aunque no se aprecia a primera vista, de las runas emana un ligero resplandor azul.
+
+ESTADÍSTICAS:
+
+Daño: 2D4 +4
+THAC0: +4
+Tipo de daño: Cortante
+Especial: 15% de probabilidad de que el objetivo se infecte de Enfermedad
+Peso: 10
+Factor de velocidad: 8
+Tipo de competencia: Espada Bastarda
+Tipo: Espadas 1 mano~
+@10091 = ~Martillo de guerra~
+@10092 = ~Martillo de guerra del defensor +4:~
+@10093 = ~Como otros de su tipo, este martillo de guerra es totalmente de acero, con un martillo rompehuesos montado sobre un asta de 18". Sin embargo, también ha sido dotado de un pequeño número de propiedades mágicas, lo que lo hace más eficaz en combate.  
+
+ESTADÍSTICAS:
+
+Daño: 1D4 +5
+THAC0: +4
+Tipo de daño: Contundente
+Bonificación de clase de armadura: 2
+Bonificación de Resistencia:
+  +15% Resistencia perforación
+  +15% Resistencia Cortante
+  +15% Resistencia Contundente
+  +15% Resistencia Mágica
+  +3 Salvación vs. Hechizos
+Peso: 6
+Factor de Velocidad 3
+Tipo de competencia: Martillo
+Tipo: Martillo 1 mano~
+@10094 = ~Lucero de alba~
+@10095 = ~Lucero de alba de los dioses~
+@10096 = ~El lucero del alba es un asta de madera rematada con una cabeza de metal formada por una vaina de hierro con pinchos. El Lucero de alba tienen una longitud total de unos cuatro pies. Esta en concreto lleva una cabeza dorada que ha sido mejorada mágicamente para aumentar su rendimiento y evitar la maleabilidad del oro.  
+
+ESTADÍSTICAS:
+
+Daño: 2D4 +3
+THAC0: +3
+Tipo de daño: Contundente
+Bonificación de clase de armadura: 1
+Sabiduría +1 bonus
+Memoriza 2 hechizos adicionales de Sacerdote de 1er nivel
+Memoriza 1 hechizo adicional de Sacerdote de 2º nivel
+Peso: 10
+Factor de velocidad: 6
+Tipo de competencia: Maza
+Tipo: Maza 1 mano~
+@10097 = ~Lucero de alba +4: Defensor~
+@10098 = ~El lucero del alba es un asta de madera rematada con una cabeza de metal formada por una vaina de hierro con pinchos. Los luceros de alba tienen una longitud total de unos cuatro pies. Esta en concreto lleva una cabeza dorada que ha sido mejorada mágicamente para aumentar su rendimiento y evitar la maleabilidad del oro.
+
+ESTADÍSTICAS:
+
+Daño: 2D4 +4
+THAC0: +4
+Tipo de daño: Contundente
+Bonificación de clase de armadura: 2
+Bonificación de Resistencia: 
+  +15% Resistencia Mágica
+  +20% Resistencia Cortante
+  +20% Resistencia Perforación
+Peso: 10
+Factor de velocidad: 6
+Tipo de competencia: Maza
+Tipo: Maza 1 mano~
+@10099 = ~Mayal~
+@10100 = ~Mayal del Azotador +4~
+@10101 = ~El mayal es un robusto mango de madera unido a una barra de hierro, una barra de madera con pinchos o una bola de hierro con pinchos. Entre el mango y la herramienta hay una bisagra o una cadena. El arma se utilizaba originalmente como herramienta para trillar el grano. Este mayal ha sido mejorado mágicamente. Las runas brillan en todas las superficies.
+
+ESTADÍSTICAS:
+
+Daño: 1D6 +3
+THAC0: +4
+Tipo de daño: Contundente
+Bonificación de clase de armadura: 1
+Especial 
+  50% probabilidad +2D3 daño eléctrico
+  10% de probabilidad de aturdir al objetivo
+Peso: 15
+Factor de velocidad: 7
+Tipo de competencia: Azotes
+Tipo: Mayal 1 mano~
+@10102 = ~Amuleto~
+@10103 = ~Sangre de Kossuth~
+@10104 = ~El dios del fuego, Kossuth, rara vez toma forma física en los Reinos Olvidados. Sin embargo, en las raras ocasiones en las que lo hace, la destrucción acecha a su paso. Fue invocado en 801 DR por un gran grupo de fieles seguidores que suplicaron que necesitaban la ayuda de su dios para derrotar a un pulpo colosal que amenazaba un templo de la costa. Kossuth apareció en una gigantesca hoguera y se enfrentó a la enorme bestia sobrenatural. El avatar del dios triunfó sobre el pulpo, pero el monstruo consiguió dañar la esencia de Kossuth. El fuego divino corrió por el cuerpo de la criatura y se alojó en uno de sus ojos, transformándolo rápidamente en una extraña esfera negra iluminada por la llama de su interior.
+
+ESTADÍSTICAS:
+
+Todos los tiempos de lanzamiento se reducen en 2.
+Todo el daño de fuego infligido por el personaje aumenta un 20%.
+No utilizable por:~
+@10105 = ~Anillo~
+@10106 = ~Anillo de Resistencia Mayor~
+@10107 = ~Un anillo es una pequeña banda de metal precioso que se utiliza como joya. Algunos anillos raros tienen encantamientos que les confieren diversas habilidades mágicas. Estos anillos son muy codiciados, sobre todo por los aventureros. Sin razón aparente, este anillo se siente caliente al tacto.
+
+ESTADÍSTICAS:
+
+Bonificación de clase de armadura: 2
+Bonificación de resistencia: 
+ +25% Resistencia al daño contundente
+ +3 Salvación vs. Hechizos~
+@10108 = ~Wakizashi +2~
+@10109 = ~Wakizashi
+El wakizashi, o espada de compañía, es extremadamente importante para los samuráis. Se lleva en todo momento, incluso en interiores, y está cerca del samurái cuando duerme por la noche. Tan finamente fabricada como la katana, la wakizashi, una espada más corta con una longitud de entre 12 y 24 pulgadas, es un arma peligrosa en manos de un usuario experto.
+
+ESTADÍSTICAS
+
+Daño 1D8 +2
+THAC0: +2
+Tipo de daño: perforante
+Peso: 3
+Factor de velocidad: 3
+Tipo de competencia: Cimitarra/Wakizashi/Ninja-To
+Tipo: Cimitarra 1 mano
+Requiere 5 Fuerza~
+@10110 = ~Ninja-To +2~
+@10111 = ~Ninja-To
+La espada del ninja, el ninja-to, es de menor calidad que otras espadas del Kara-Tur, como la katana. El ninja-to es corto y de hoja recta, lo que lo hace ideal para el subterfugio del ninja. El ninja-to también es más adecuado para luchar en lugares cerrados, lo que a veces le da ventaja sobre las espadas más largas que usaban los samuráis.
+
+ESTADÍSTICAS
+
+Daño 1D8 +2
+THAC0: +2
+Tipo de daño: cortante
+Peso: 5
+Factor de velocidad 4
+Tipo de competencia: Cimitarra/Wakizashi/Ninja-To
+Tipo: Cimitarra 1 mano
+Requiere 6 Fuerza~
+@10112 = ~Túnica del Gran Mago~
+@10113 = ~Esta poderosa Túnica de Mago ofrece protección contra todo tipo de ataques físicos y, al mismo tiempo, aumenta la resistencia mágica y las tiradas de salvación. Debido a la naturaleza de su encantamiento, sólo puede ser usada por magos de alineamiento maligno.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: +2 Bonificación
+Resistencia Mágica: 25%
+Tirada de salvación: +3 bonus
+Peso: 6~
+@10114 = ~Placa del Dragón Verde~
+@10115 = ~Esta extraña armadura verde tiene una sensación mágica muy poderosa.~
+@10116 = ~Esta armadura procede del Lejano Oriente y perteneció a un emperador conocido como el Dragón Verde. Gobernó su país con puño de hierro hasta que murió a manos de una caudilla de la guerra.
+
+Estadísticas:
+AC -4
+Dex +1
+Protección del plano negativo
+Regeneración de 2 puntos de golpe por asalto
+
+Especial:
+Invoca 1 guardián no muerto 1 vez al día (Gólem de hueso)
+Lanzar Regeneración 1 vez al día
+Lanzar Etéreo 1 vez al día~
+@10117 = ~Mayal de Veneno~
+@10118 = ~Cada cabeza de este mayal ha sido sumergida en un veneno mágico que nunca desaparecerá de esta arma de destrucción. Incluso quien lo sostenga debe tener cuidado. A veces, las cabezas de este mayal parecen tener mente propia. 
+
+ESTADÍSTICAS
+
+Habilidades de combate: Las víctimas deben realizar una tirada de salvación vs veneno o recibir 10 puntos de daño por veneno.
+
+10% de probabilidad de que el portador sea veneno si falla la tirada de salvación vs veneno.
+
+THACO: +3
+Daño: 2D4 +3
+Tipo de daño: Contundente
+Peso: 9
+Factor de velocidad 5
+Tipo de competencia: Mayal/Lucero de alba
+Tipo: Mayal 1 mano
+Requiere 11 Fuerza~
+@10119 = ~Pergamino~
+@10120 = ~Han robado objetos de valor en el Salón de las Maravillas de la Puerta de Baldur. El ladrón o ladrones no se conoce, pero si tienes alguna información por favor póngase en contacto con el Puño Llameante.~
+@10121 = ~Bertoxxulous~
+@10122 = ~Bertoxxulous, El portador de la peste
+
+"La única verdad es que todo el mundo muere", está impreso en la hoja, cerca de la empuñadura, en una lengua demoníaca. Mientras empuña esta espada, el portador ve la descomposición de la carne como algo de una belleza suprema. Los sutiles púrpuras de un moratón fresco, el verde amarillo casi iridiscente de una pústula infestada, son sólo algunas de las cosas que el portador empieza a saborear.
+La espada brilla con un icor negro cuando se usa la magia para revelar su naturaleza.  El mal de la nigromancia infesta cada parte del arma. Aquellos que usarían una espada tan repugnante, para ellos no hay nada más deseable que estar rodeado de seres que, incluso en la no-vida, continúan pudriéndose y descomponiéndose.
+No se sabe mucho más sobre esta espada, aparte de que su origen se remonta a los Nueve Infiernos.
+
+ESTADÍSTICAS:
+
+Habilidad 1: El objetivo golpeado sufre un -3 a su movimiento durante 60 segundos si no realiza una salvación vs. varita mágica.
+
+Habilidad 2: El objetivo golpeado sufre un -2 a su destreza durante 30 segundos sin tirada de salvación.
+
+Habilidad 3: El objetivo golpeado sufre 5 puntos de daño por veneno durante 2 segundos a menos que realice una salvación vs. magia de veneno/muerte.
+
+Penalización 1: -1 Constitución.
+
+Penalización 2: Maldito.
+
+THAC0: +6
+Daño 1D6 +6
+Tipo de daño: perforante
+Peso: 2
+Factor de velocidad: 1
+Tipo de competencia: Espada corta
+Tipo: Espada corta 1 mano~
+@10123 = ~Wakizashi +4 "Viento divino"~
+@10124 = ~Wakizashi +4 "Viento divino":
+Esta espada pertenecía a un noble guerrero llamado Shikintu. Sus reflejos eran tan rápidos que al impactar la persona quedaba aturdida por sus poderosos y rápidos golpes. Se rumorea que cuando murió, su espíritu se fundió con su espada.
+
+ESTADÍSTICAS
+
+20% de probabilidad de aturdir al objetivo 
+Daño 1D8 +4
+THAC0: +4
+Tipo de daño: perforante
+Peso: 3
+Factor de velocidad: 3
+Tipo de competencia: Cimitarra/Wakizashi/Ninja-To
+Tipo: Cimitarra 1 mano
+Requiere 5 Fuerza~
+@10125 = ~Katana +4 Perdición de la Muerte~
+@10126 = ~Una espada fabricada por Fenris, el Nigromante del Este. Nada más se sabe de esta arma o de su creador. Tal vez si buscas lo suficiente un libro puede revelar su pasado.
+
+ESTADÍSTICAS:
+
+Mata muertos vivientes
+Daño 1D10 +4
++2 daño de fuego
+THAC0: +4
+Tipo de daño: cortante
+Peso: 6
+Factor de velocidad 4
+Tipo de competencia: Katana
+Tipo: Katana 1 mano
+Requiere 6 Fuerza~
+@10127 = ~Mandoble~
+@10128 = ~Mandoble del Dragón Verde +4~
+@10129 = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar el sable largo, se alargó la hoja. Con el tiempo, la empuñadura tuvo que alargarse y se hicieron necesarias las dos manos para blandir correctamente la espada. La función principal de las espadas a dos manos es atravesar a los caballeros montados y romper las formaciones de picas.
+
+ESTADÍSTICAS:
+
+Daño: 1D10
+Tipo de daño: cortante
+Peso: 15
+Factor de velocidad: 10
+Tipo de competencia: Espada a dos manos
+Tipo: Espada 2 manos
+Requiere 14 Fuerza~
+@10130 = ~La espada favorita del brutal Dragón Verde. Con ella ejecutaba personalmente a sus enemigos, incluso a su familia. Esta arma fue enterrada con él junto con algunos otros objetos mágicos preciados.
+
+Estadísticas:
+1D10 +4
+THAC0 +4
+5% El objetivo se desintegrará.
+Hace el doble de daño a muertos vivientes y demoníacos. 
+Disipa la magia lanzada en cada golpe
+
+Especial:
+Lanzar: Rayo de Sol 2 veces al día a 20º nivel.~
+@10131 = ~Un anillo extraño~
+@10132 = ~Un anillo muy extraño~
+@10133 = ~Te tienta ponerte este anillo. Pruébalo y deslumbrate.~
+@10134 = ~Sostener este anillo produce una sensación espeluznante. Te convendría no ponértelo y devolvérselo a Smeagol. Realmente no te lo pusiste, ¿verdad?~

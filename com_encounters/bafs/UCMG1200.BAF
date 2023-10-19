@@ -2,10 +2,10 @@ IF
 	Global("UcmgHunter","AR1200",0)
 THEN
 	RESPONSE #100
-		CreateCreature("UCMGHUN1",[4045.987],5) // General Chang
-		CreateCreature("UCMGHUN2",[4000.909],0) // Thangrim the Blade
-		CreateCreature("UCMGHUN3",[4154.963],11) // Kang
-		CreateCreature("UCMGHUN4",[4220.982],1) // Ortus Hammerstrike
+		CreateCreature("UCMGHUN1",[3421.1618],5) // General Chang
+		CreateCreature("UCMGHUN2",[3386.1520],0) // Thangrim the Blade
+		CreateCreature("UCMGHUN3",[3507.1538],11) // Kang
+		CreateCreature("UCMGHUN4",[3559.1579],1) // Ortus Hammerstrike
 		SetGlobal("UcmgHunter","AR1200",1)
 		Continue()
 END

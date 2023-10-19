@@ -2,7 +2,7 @@
 @1	= ~Qui êtes-vous et que me voulez-vous ?~
 @2	= ~Qui je suis ? Je suis Gab'Riella Maelither, maîtresse d'arme de la Maison Maelither, mais grâce à vous je suis maintenant la *Matrone* Maelither.~
 @3	= ~Grâce à moi ? Que voulez-vous dire ?~
-@4	= ~(Soupir) Ne vous souvenez-vous pas d'une Mère Matrone accompagnée de son escorte, rencontrée en Ombreterre, et que vous avez tuée aux alentours d'Ust Natha ?~
+@4	= ~(Soupir) Ne vous souvenez-vous pas d'une Mère Matrone accompagnée de son escorte, rencontrée en Ombre-terre, et que vous avez tuée aux alentours d'Ust Natha ?~
 @5	= ~Non.~
 @6	= ~Si, mais elle nous a attaqués la première.~
 @7	= ~Vous osez me mentir ? Puisse la Grande Mère vous torturer pour l'éternité dans les Arènes de Toile des Démons.~
@@ -12,7 +12,7 @@
 @11	= ~Oh, et qui est donc cette Mère Matrone Maelither ?~
 @12	= ~Ha ha, j'aime cela. Tenter de m'amadouer. Vous auriez fait un bon petit esclave de la Maison Maelither, mais revenons-en à notre petit problème. (Elle s'arrête, comme prise de confusion)~ ~Ha ha, j'aime cela. Tenter de m'amadouer. Vous auriez fait une bonne petite esclave de la Maison Maelither, mais revenons-en à notre petit problème. (Elle s'arrête, comme prise de confusion)~
 @13	= ~(Vous attendez, en vous demandant qui, au nom des Neufs Enfers, a pu la laisser sortir de sa cellule.)~
-@14	= ~(Vous sentez la haine qui émane d'elle alors qu'elle vous regarde dans les yeux.) Aucun surfacin inférieur n'a le droit de toucher, et encore moins de tuer un Drow et d'en sortir vivant. ELGG LIL OGGLIN ! LOLTH TLU MALL; JAL ULTRINNAN ZHAH XUNDUS !~
+@14	= ~(Vous sentez la haine qui émane d'elle alors qu'elle vous regarde dans les yeux.) Aucun surfacin inférieur n'a le droit de toucher, et encore moins de tuer un elfe noir et d'en sortir vivant. ELGG LIL OGGLIN ! LOLTH TLU MALL; JAL ULTRINNAN ZHAH XUNDUS !~
 
 @100	= ~Bonjour, <LADYLORD>. Voudriez-vous acheter quelques-uns de mes articles de grande qualité ? J'ai beaucoup de parchemins pour ceux qui le désirent.~
 @101	= ~Regardons ce que vous avez.~
@@ -46,8 +46,8 @@
 @400	= ~Merci petit, je suis si heureux que vous soyez venu. Cela nous épargne la corvée de vous trouver.~ ~Merci petite, je suis si heureux que vous soyez venu. Cela nous épargne la corvée de vous trouver.~
 @401	= ~Nous trouver ? Que nous voulez-vous ?~
 @402	= ~Et bien, vous tuer, bien entendu. Il a dit que vous seriez là, d'ailleurs, et que nous serions là pour vous accueillir, puis mettre fin à vos jours.~
-@403	= ~Qui est ce "il" et pourquoi désire-t-il notre mort ?~
-@404	= ~Pour quelqu'un qui s'apprête à mourir, vous gaspillez vos derniers instants en posant des questions bien stupides. Non, nous ne vous révèlerons pas qui "il" est comme le feraient d'autres méchants. Cela mettrait en pièce l'intrigue, si vous tuiez ces méchants. Maintenant, tenez-vous prêt, cela ne fera pas trop mal.~
+@403	= ~Qui est ce « il » et pourquoi désire-t-il notre mort ?~
+@404	= ~Pour quelqu'un qui s'apprête à mourir, vous gaspillez vos derniers instants en posant des questions bien stupides. Non, nous ne vous révélerons pas qui « il » est comme le feraient d'autres méchants. Cela mettrait en pièce l'intrigue, si vous tuiez ces méchants. Maintenant, tenez-vous prêt, cela ne fera pas trop mal.~
 @405	= ~Une dernière question, s'il vous plaît.~
 @406	= ~Quoi encore ?~
 @407	= ~Est-ce votre puanteur naturelle que je sens, ou y a-t-il une mare fétide dans les environs ?~
@@ -56,7 +56,7 @@
 @500	= ~Qu'est-ce que ceci ?? Des ordures de la surface dans notre royaume ? Il semble que vous proveniez de cette répugnante cité Sahuagin. Ils paieront chèrement pour avoir laissé des êtres tels que vous passer par ici. Mais vous serez très certainement morts d'ici-là.~
 @501	= ~Hé ! Attendez une minute ! Nous ne vous avons rien fait, alors pourquoi nous êtes-vous si hostile ?~
 @502	= ~Et d'un, vous êtes inférieurs, de deux, j'ai été obligée de parler votre langue gutturale pour que vous puissiez me comprendre, et de trois, Lolth me récompensera bien lorsque j'offrirai votre mort en sacrifice.~
-@503	= ~Je vois une faille dans votre plan, "maîtresse". Et d'une, il n'est pas bien conçu, de deux nous sommes de bien meilleurs guerriers que vous, et de trois dos lueth Lolth phuul rothe iblith !~
+@503	= ~Je vois une faille dans votre plan, « maîtresse ». Et d'une, il n'est pas bien conçu, de deux nous sommes de bien meilleurs guerriers que vous, et de trois dos lueth Lolth phuul rothe iblith !~
 @504	= ~(La Matrone vous adresse un regard maléfique.) Sargtlins ! Xun izil dos phuul quarthen lueth elgg nind !~
 
 @600	= ~Vous Héros ? Pauvre Sméagol s'est fait voler son Précieux par méchants orques, et a besoin de Précieux. Vous aidez Sméagol, et Sméagol vous donne jolies pièces brillantes.~
@@ -89,7 +89,7 @@
 @10012	= ~Mère Matrone Maelither~
 @10013	= ~Gab'Riella Maelither~
 @10014	= ~Callendous~
-@10015	= ~Lilli la Noire, Etoile Sombre~
+@10015	= ~Lilli la Noire, Étoile Sombre~
 @10016	= ~Silliria~
 @10017	= ~Aris le Puissant~
 @10018	= ~Kiel le Tueur de Héros~
@@ -136,7 +136,7 @@ Force nécessaire : 3
 Non utilisable par :
 Clerc~
 
-@10036	= ~Arbalète Légère "La Torche"~
+@10036	= ~Arbalète Légère « La Torche »~
 @10037	= ~La Torche a été conçue par un gnome dément qui adorait le feu. C'est l'une des rares choses qui ont pu être retrouvées dans son laboratoire lorsque celui-ci fut incendié alors que son inventeur testait cette arme.
 
 L'une des arbalètes les plus puissantes du royaume, Dent de feu n'a pas besoin de munitions car elle tire des carreaux de feu.
@@ -154,8 +154,8 @@ Inutilisable par :
 Druide
 Clerc
 Mage~
-@10038	= ~Fléau +3, "Mort Enflammée"~
-@10039	= ~Fléau +3, "Mort Enflammée"
+@10038	= ~Fléau +3, « Mort Enflammée »~
+@10039	= ~Fléau +3, « Mort Enflammée »
 Ce fléau est enchanté pour provoquer des dégâts de feu et augmenter votre sagesse. Amaunator en serait heureux.
 
 PARAMETRES :
@@ -163,19 +163,19 @@ PARAMETRES :
 TAC0 : +3
 Dégâts : 1D8 +3
 Type de dégât : contondant
-Spécial : Attaques augmentées
-Spécial : 2D3 dégâts de feu
+Spécial : Sagesse augmentée
+Spécial : 2D3 +1 dégâts de feu
 Poids : 8
 Facteur de vitesse : 3
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type : arme à 1 main
 Force nécessaire : 13
 Utilisable seulement par :
  Clerc
  Paladin~
  
-@10040	= ~Fléau Empoisonné Drow +4~
-@10041	= ~Fléau Empoisonné Drow +4
+@10040	= ~Fléau Empoisonné Elfe noir +4~
+@10041	= ~Fléau Empoisonné Elfe noir +4
 Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme servait à l'origine à battre le grain. 
 
 PARAMETRES :
@@ -185,7 +185,7 @@ Dégâts : 1D6 +4, +5 de Poison
 Type de dégâts : écrasant
 Poids : 15
 Facteur de vitesse : 7
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type : arme à 1 main
 Force nécessaire : 13
 Non utilisable par :
@@ -193,10 +193,10 @@ Druide
 Mage 
 Voleur~
 
-@10042	= ~Carreaux Empoisonnés Drow +2~
-@10043	= ~Carreaux Empoisonnés Drow +2
+@10042	= ~Carreaux Empoisonnés Elfe noir +2~
+@10043	= ~Carreaux Empoisonnés Elfe noir +2
 Les carreaux sont les projectiles tirés par les arbalètes, quelle qu'en soit la taille. Cependant, ceux-ci ont subi des enchantements qui améliorent leurs performances en vol, comme s'ils étaient guidés vers leur cible.
-Ces carreaux ont été améliorés par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-uns furent conçus pour la future conquête de la Surface par la Maison Maelither.
+Ces carreaux ont été améliorés par la magicienne elfe noire Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-uns furent conçus pour la future conquête de la Surface par la Maison Maelither.
 
 PARAMETRES :
 
@@ -215,8 +215,8 @@ PARAMETRES
 Lance le sort Désintégration une fois par jour
 +2 aux JS contre la Mort~
 
-@10046	= ~Billes +2 "Feu de la Forge"~
-@10047	= ~Billes +2 "Feu de la Forge"
+@10046	= ~Billes +2 « Feu de la Forge »~
+@10047	= ~Billes +2 « Feu de la Forge »
 Des courants magiques sont incrustés dans cette bille, qui la rendent mieux équilibrée et plus légère. Elle file contre votre adversaire et quand elle le frappe, elle explose dans un éclair de feu.
 
 PARAMETRES :
@@ -228,10 +228,10 @@ Type de Dégâts : projectile (perforant)
 Poids : 0
 Arme de jet : fronde~
 
-@10048	= ~Cotte de Maille Drow +3
+@10048	= ~Cotte de Maille Elfe noir +3
 
-L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers/Magiciens sans trop de restrictions.
-Cette armure a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers / Magiciens sans trop de restrictions.
+Cette armure a été améliorée par la magicienne elfe noire Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
 
 
 PARAMETRES :
@@ -247,9 +247,9 @@ Magiciens
 Druides 
 Kensai~
 
-@10049	= ~Cotte de Maille Drow +5
-L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers/Magiciens sans trop de restrictions.
-Cette armure a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+@10049	= ~Cotte de Maille Elfe noir +5
+L'art tout en finesse et en solidité des elfes noirs leur permet de concevoir des équipements magnifiques et néanmoins résistants. La cotte de maille elfe noir, si finement ouvragée qu'on peut la porter sous des vêtements normaux sans que cela se voie, est un bon exemple. Cette caractéristique et son poids réduit font qu'elle peut être portée par les Voleurs et les Guerriers / Magiciens sans trop de restrictions.
+Cette armure a été améliorée par la magicienne elfe noire Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
 
 PARAMETRES :
 
@@ -285,10 +285,10 @@ Utilisable par :
  Druide
  Rôdeur~
 
-@10054	= ~Hallebarde Drow +3
+@10054	= ~Hallebarde Elfe noir +3
 
 De loin la plus ancienne et la plus utilisée arme d'hast, la hallebarde est constituée d'une lame de hache montée sur une lance d'environ 2 m de long. La hache est équipée à l'arrière d'une pique et vers le haut d'une pointe généralement de section carrée. La pique est souvent remplacée par un crochet, utilisé pour faire tomber les cavaliers. La hallebarde peut être décrite comme un compromis entre la hache et la lance.
-Cette arme a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+Cette arme a été améliorée par la magicienne elfe noire Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
 
 PARAMETRES :
 
@@ -333,7 +333,7 @@ Barde
 Druide
 Mage
 Voleur~
-@10059	= ~Bouclier Drow +3
+@10059	= ~Bouclier Elfe noir +3
 L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas. 
 
 PARAMETRES :
@@ -346,7 +346,7 @@ Non utilisable par :
  Druide
  Mage
  Voleur~
-@10060	= ~Cimeterre +3, "Furie d'Andarous"~
+@10060	= ~Cimeterre +3, « Furie d'Andarous »~
 @10061	= ~Andarous est un rôdeur qui a perdu ses bois à cause d'orques qui les ont ravagés et ont utilisé les troncs pour construire un fort. Mielikki a répondu à ses prières en lui donnant une épée pour lui permettre de réclamer vengeance au nom de la nature. Il détruisit avec cette seule arme tous les orques du camp.
 
 
@@ -357,12 +357,12 @@ Dégâts : 1D8 +3, +2D4 dégâts électriques
 Type de dégâts : tranchant
 Poids : 3
 Facteur de vitesse : 2
-Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type de compétence : Cimeterre / Wakizashi / Ninja-To
 Type : arme à 1 main
 Utilisable par :
  Druide
  Rôdeur~
-@10062	= ~Katana +3, "El Tel'lerian"~
+@10062	= ~Katana +3, « El Tel'lerian »~
 @10063	= ~Tel'lerian était un grand guerrier de Kara-Tur. C'était un mercenaire qui voyageait à travers les royaumes à la recherche de travail, combattant toujours le mal. Ce katana était l'une de ses armes favorites. Il perdit son épée et sa vie au cours d'une embuscade sur la route de Châteausuif.
 
 PARAMETRES :
@@ -373,7 +373,7 @@ TAC0 : +3
 Dégâts : 2D4 +3
 Type de dégâts : tranchant
 Poids : 10
-Facteur de vitesse : 8
+Facteur de vitesse : 3
 Type de compétence : Katana
 Type: arme à 1 main
 Force nécessaire : 11
@@ -381,7 +381,7 @@ Utilisable par :
  Guerriers
  Rôdeurs
  Paladins~
-@10064	= ~Epée à deux mains +3, "Mort de Khazid"~
+@10064	= ~Épée à deux mains +3, « Mort de Khazid »~
 @10065	= ~Mort de Khazid fut forgée par un maître d'arme nain, Khazid El Dum. Il venait de créer cette épée lorsqu'un groupe de voleurs s'est introduit chez lui et l'a tué à l'aide de celle-ci. Une partie de son essence fut liée à cette arme au moment de sa mort.
 
 PARAMETRES
@@ -394,14 +394,14 @@ Spécial :
 Type de dégâts : Tranchant
 Poids : 12
 Facteur de Vitesse : 9
-Compétence : Epée à 2 mains
+Compétence : Épée à 2 mains
 Type d'arme : à 2 mains
 Inutilisable par :
  Druides
  Clercs
  Mages
  Voleurs~
-@10066	= ~Katana +4, "Toran El Desiade"~
+@10066	= ~Katana +4, « Toran El Desiade »~
 @10067	= ~On sait peu de choses sur l'histoire de ce grand katana. D'anciennes runes sont gravées sur le pommeau, et sont peut-être à l'origine de ses capacités magiques.
 
 PARAMETRES :
@@ -423,9 +423,9 @@ Utilisable par :
  Rôdeur
  Paladin~
 
-@10068	= ~Cimeterre Drow +3, "Blizzard"~
+@10068	= ~Cimeterre Elfe noir +3, « Blizzard »~
 @10069	= ~La lame à simple tranchant, longue et recourbée, tient à la fois du sabre et du cimeterre, bien que ses origines soient situées dans une autre partie de Féérune. 
-Cette arme a été améliorée par la mage Drow Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
+Cette arme a été améliorée par la magicienne elfe noire Gab'Riella Maelither, afin de ne pas tomber en poussière à la Surface. Seuls quelques-unes furent conçues pour la future conquête de la Surface par la Maison Maelither.
 
 PARAMETRES :
 
@@ -434,7 +434,7 @@ TAC0 : +4
 Type de dégâts :  Tranchant
 Poids : 3
 Facteur de vitesse : 2
-Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type de compétence : Cimeterre / Wakizashi / Ninja-To
 Type : arme à 1 main
 Force nécessaire : 10
 Non utilisable par : 
@@ -461,7 +461,7 @@ Non utilisable par :
  Belluaire
  Kensai
  Moine~
-@10073	= ~Cette armure fut forgée avec la peau du plus puissant des vers polaires du Val Bise, nommé "Roi de l'Hiver" par les autochtones. Cette peau est extrêmement résistante, mais étonnamment légère. Son apparence est inhabituelle, blanc coloré d'accents bleutés.
+@10073	= ~Cette armure fut forgée avec la peau du plus puissant des vers polaires du Val Bise, nommé « Roi de l'Hiver » par les autochtones. Cette peau est extrêmement résistante, mais étonnamment légère. Son apparence est inhabituelle, blanc coloré d'accents bleutés.
 
 PARAMETRES :
 
@@ -483,7 +483,7 @@ Non utilisable par :
 @10074	= ~Casque~
 @10075	= ~Casque du Patriote~
 @10076	= ~Un Casque à l'aspect étrange~
-@10077	= ~Ce casque fut porté par le guerrier nain Danel Froidargent, roi-martyr de la dernière Cité-Etat de Rocargent. Les exploits de Danel ne sont pas aussi connus que ceux d'autres nains héroïques, mais c'est peut-être parce que son royaume mourut avec lui. Sa nation a souffert de bien des pertes lorsque les trolls et les géants l'attaquèrent, il y a plus de mille ans, au cours de la Guerre presque oubliée du Sang Figé. Cette guerre entre les tribus de monstres et le royaume de Rocargent a duré plus de quinze ans. Danel ne tenta jamais de fuir son royaume, de chercher de l'aide auprès des nations voisines ou d'abandonner son peuple. Bien que nombre de ses sujets aient fui, il resta à Rocargent jusqu'à la fin. Avant la dernière bataille de cette terrible guerre, il dit à son peuple : "Quand vous verrez tomber le plumet sur ma tête, je veux être sûr que notre peuple ne se pliera pas comme l'or, mais se brisera comme le fer."
+@10077	= ~Ce casque fut porté par le guerrier nain Danel Froidargent, roi-martyr de la dernière Cité-État de Rocargent. Les exploits de Danel ne sont pas aussi connus que ceux d'autres nains héroïques, mais c'est peut-être parce que son royaume mourut avec lui. Sa nation a souffert de bien des pertes lorsque les trolls et les géants l'attaquèrent, il y a plus de mille ans, au cours de la Guerre presque oubliée du Sang Figé. Cette guerre entre les tribus de monstres et le royaume de Rocargent a duré plus de quinze ans. Danel ne tenta jamais de fuir son royaume, de chercher de l'aide auprès des nations voisines ou d'abandonner son peuple. Bien que nombre de ses sujets aient fui, il resta à Rocargent jusqu'à la fin. Avant la dernière bataille de cette terrible guerre, il dit à son peuple : « Quand vous verrez tomber le plumet sur ma tête, je veux être sûr que notre peuple ne se pliera pas comme l'or, mais se brisera comme le fer. »
 
 Danel chargea en première ligne dès le début de la bataille, et tomba entre les griffes d'une douzaine de trolls. Au moment où son plumet ne fut plus visible, chaque homme, chaque femme, chaque enfant qui restait à Rocargent se précipita dans les cavernes fortifiées et entraîna autant de trolls et de géant qu'il le put. Des barils d'huile enflammée étaient dispersés dans toute la cité, consumant autant de trolls et de terribles géants du froid que de nains. Finalement, les monstres remportèrent une victoire à la Pyrrhus. La cité naine n'était plus qu'un amas de ruines fumantes dont on ne pouvait tirer que peu de trésor, aucun esclave, et aucune trace de nourriture. Bien des trolls moururent de famine cet hiver, et ils se retournèrent contre leurs alliés pour subsister, signant là la fin de cette armée.
 
@@ -496,13 +496,13 @@ Mage
 Barde
 Voleur~
 @10078	= ~Bracelets d'Argent de Kedl~
-@10079	= ~Ce mage, habitant de Phlan, était connu sous le nom de "Kedl aux Trois Anneaux", car il était dit qu'il avait mis au point une technique lui permettant de porter simultanément trois anneaux magiques. Enchanteur d'objet, il était bien connu pour son goût détestable en matière de vêtements, de bijoux et autres accessoires. Ses bracelets d'argents faisaient toujours partie de sa garde-robe. Kedl les vendit finalement lorsqu'il eut besoin d'argent pour un puissant anneau. Malheureusement, il mourut lors d'une attaque orque sur Phlan quelques années plus tard.
+@10079	= ~Ce mage, habitant de Phlan, était connu sous le nom de « Kedl aux Trois Anneaux », car il était dit qu'il avait mis au point une technique lui permettant de porter simultanément trois anneaux magiques. Enchanteur d'objet, il était bien connu pour son goût détestable en matière de vêtements, de bijoux et autres accessoires. Ses bracelets d'argents faisaient toujours partie de sa garde-robe. Kedl les vendit finalement lorsqu'il eut besoin d'argent pour un puissant anneau. Malheureusement, il mourut lors d'une attaque orque sur Phlan quelques années plus tard.
 
 PARAMETRES :
 
 Classe d'Armure : 2
 Poids : 2~
-@10080	= ~Epée Courte~
+@10080	= ~Épée Courte~
 @10081	= ~Sang de Fer~
 @10082	= ~L'épée courte est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler dague. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est utilisé pour décrire une lame à double tranchant longue d'environ 60 cm. L'estoc de l'épée est généralement pointu, et on la range donc parmi les armes perforantes.
 
@@ -512,7 +512,7 @@ Dégâts : 1D6
 Type de dégâts : perforant
 Poids : 3
 Facteur de vitesse : 3
-Type de compétence : Epée courte
+Type de compétence : Épée courte
 Type : arme à 1 main
 Force nécessaire : 5
 Non utilisable par :
@@ -530,7 +530,7 @@ Spécial : Guérit 3 points de vie à chaque coup porté
 Type de dégâts : perforant
 Facteur de Vitesse : 1
 Poids :  2
-Type de compétence : Epée Courte
+Type de compétence : Épée Courte
 Type : arme à 1 main
 Force nécessaire : 5
 Inutilisable par :
@@ -538,7 +538,7 @@ Inutilisable par :
  Druide
  Clerc 
  Mage~
-@10084	= ~Epée Longue~
+@10084	= ~Épée Longue~
 @10085	= ~Cynisme~
 @10086	= ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
 
@@ -548,7 +548,7 @@ Dégâts : 1D8
 Type de dégâts : tranchant
 Poids : 4
 Facteur de vitesse : 5
-Type de compétence : Epée longue
+Type de compétence : Épée longue
 Type : arme à 1 main
 Force requise : 6
 Non utilisable par :
@@ -556,7 +556,7 @@ Non utilisable par :
  Clerc
  Mage
  Belluaire~
-@10087	= ~En 834 DR, un sorcier nommé Legedain le Sage surprit un voleur renommé qui était entré par effraction dans sa tour. Le voleur était un cambrioleur cynique nommé Ilfain Noirplume. Legedain vieillissait et se fatiguait de son corps frêle. Pour remédier à cette situation, il lança "Jarre Magique" et plongea l'esprit d'Ilfain dans une gemme. Legedain transféra sa propre âme dans le corps du jeune elfe et plaça la pierre sur une étagère. Une centaine d'années plus tard, Legedain décida d'en faire quelque chose. Il créa une épée pour son arrogant garde du corps, Gundak, et transféra l'esprit d'Ilfain depuis la gemme jusqu'à la lame. Ilfain, qui avait toujours été très critique au cours de son existence, commença à faire des remarques télépathiques à Gundak pendant les combats. Gundak en eut assez de l'épée au bout de quinze jours et la jeta dans une rue. Un groupe de guerrier la récupéra et l'abandonna au bout de quelques jours. Avec le temps, la lame ne fut plus connue que sous son nom actuel.
+@10087	= ~En 834 DR, un sorcier nommé Legedain le Sage surprit un voleur renommé qui était entré par effraction dans sa tour. Le voleur était un cambrioleur cynique nommé Ilfain Noirplume. Legedain vieillissait et se fatiguait de son corps frêle. Pour remédier à cette situation, il lança « Jarre Magique » et plongea l'esprit d'Ilfain dans une gemme. Legedain transféra sa propre âme dans le corps du jeune elfe et plaça la pierre sur une étagère. Une centaine d'années plus tard, Legedain décida d'en faire quelque chose. Il créa une épée pour son arrogant garde du corps, Gundak, et transféra l'esprit d'Ilfain depuis la gemme jusqu'à la lame. Ilfain, qui avait toujours été très critique au cours de son existence, commença à faire des remarques télépathiques à Gundak pendant les combats. Gundak en eut assez de l'épée au bout de quinze jours et la jeta dans une rue. Un groupe de guerrier la récupéra et l'abandonna au bout de quelques jours. Avec le temps, la lame ne fut plus connue que sous son nom actuel.
 
 PARAMETRES :
 
@@ -568,7 +568,7 @@ Spécial :
 Type de dégâts : tranchant
 Poids : 4
 Facteur de vitesse : 5
-Type de compétence : Epée longue
+Type de compétence : Épée longue
 Type : arme à 1 main
 Force requise : 6
 Non utilisable par :
@@ -576,8 +576,8 @@ Non utilisable par :
  Clerc
  Mage
  Belluaire~
-@10088	= ~Epée Bâtarde~
-@10089	= ~Epée Bâtarde du Cancer +4~
+@10088	= ~Épée Bâtarde~
+@10089	= ~Épée Bâtarde du Cancer +4~
 @10090	= ~En plus d'être un remarquable travail d'artisan, cette épée se caractérise par de petites runes de pouvoirs gravées tout au long de sa lame. De longues heures furent consacrées à sa création, et une légère lueur bleue semble émaner des runes.
 
 PARAMETRES :
@@ -588,7 +588,7 @@ Spécial : 15% de chance de provoquer Maladie chez la cible
 Type de dégâts : tranchant
 Poids : 10
 Facteur de vitesse : 8
-Type de compétence : Epée bâtarde
+Type de compétence : Épée bâtarde
 Type: arme à 1 main
 Force nécessaire : 11
 Non utilisable par :
@@ -605,7 +605,7 @@ Non utilisable par :
 PARAMETRES :
 
 TAC0 : +4
-Dégâts : 1D4 +3
+Dégâts : 1D4 +5
 Spécial :
 	Classe d'Armure : +2
 	+15% de résistance aux dégâts Perforants
@@ -623,8 +623,8 @@ Non utilisable par :
  Druide
  Mage 
  Voleur~
-@10094	= ~Etoile du Matin~
-@10095	= ~Etoile du Matin des Dieux~
+@10094	= ~Étoile du Matin~
+@10095	= ~Étoile du Matin des Dieux~
 @10096	= ~L'étoile du matin est un manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin mesurent environ 1,20 m. Celle-ci possède une tête en or qui fut magiquement améliorée pour que sa malléabilité ne soit pas un handicap.
 
 PARAMETRES :
@@ -638,12 +638,12 @@ Spécial :
 Type de dégâts : contondant
 Poids : 10
 Facteur de vitesse : 6
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type: arme à 1 main
 Force nécessaire : 11
 Utilisable par :
  Clerc~
-@10097	= ~Etoile du Matin +4 : Défenseur~
+@10097	= ~Étoile du Matin +4 : Défenseur~
 @10098	= ~L'étoile du matin est un manche en bois couronné d'une tête en métal constituée d'une gaine de fer cloutée. Les étoiles du matin mesurent environ 1,20 m. Celle-ci possède une tête en or qui fut magiquement améliorée pour que sa malléabilité ne soit pas un handicap.
 
 PARAMETRES :
@@ -658,26 +658,26 @@ Spécial :
 Type de dégâts : contondant
 Poids : 10
 Facteur de vitesse : 6
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type: arme à 1 main
 Force nécessaire : 11
 Utilisable par :
  Clerc~
 @10099	= ~Fléau~
-@10100	= ~Fléau Etourdissant +4~
+@10100	= ~Fléau Étourdissant +4~
 @10101	= ~Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme a été renforcée par magie. Des runes semblent luire sur toute sa surface.
 
 PARAMETRES :
 
 TAC0 : +4
-Dégâts :  1D6 +3
+Dégâts :  1D6 +5
 Spécial :
 	50% de chance de provoquer 2D3 dégâts électriques supplémentaires
 	10% de chance d'Etourdir la cible
 Type de dégâts : contondant
 Poids : 15
 Facteur de vitesse : 7
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type: arme à 1 main
 Non utilisable par :
 Druide
@@ -710,7 +710,7 @@ Dégâts : 1D8 +2
 Type de dégât : perforant
 Poids : 3
 Facteur de vitesse : 3
-Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type de compétence : Cimeterre / Wakizashi / Ninja-To
 Type : arme à 1 main
 Force nécessaire : 5
 Inutilisable par :
@@ -728,7 +728,7 @@ Dégâts : 1D8 +2
 Type de dégât : tranchant
 Poids : 5
 Facteur de vitesse : 4
-Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type de compétence : cimeterre / Wakizashi / Ninja-To
 Type : arme à 1 main
 Force nécessaire : 6
 Inutilisable par :
@@ -761,7 +761,7 @@ Spécial :
 	Régénération de 2 points de vie par round
 	Invoque un gardien mort-vivant 1 fois par jour
 	Lance Régénération 1 fois par jour
-	Lance Forme Ethérée 1 fois par jour
+	Lance Forme Éthérée 1 fois par jour
 	
 Poids : 50
 Force nécessaire : 14
@@ -781,7 +781,7 @@ Spécial :
 Type de dégâts : contondant
 Poids : 9
 Facteur de vitesse : 5
-Type de compétence : Fléau/Etoile du matin
+Type de compétence : Fléau / Étoile du matin
 Type: arme à 1 main
 Non utilisable par :
 Druide
@@ -792,7 +792,7 @@ Voleur~
 @10121	= ~Bertoxxulous~
 @10122	= ~Bertoxxulous, le Porteur de Peste
 
-"La seule vérité est la mort de chacun". Ceci est gravé sur la lame dans une langue démoniaque. Lorsqu'il tient cette épée, le porteur considère le déclin de la chair comme un spectacle d'une beauté ultime. Le pourpre subtil d'une blessure récente, le jaune verdâtre, presque iridescent d'une pustule infectée, voilà ce qui le fera vibrer.
+« La seule vérité est la mort de chacun ». Ceci est gravé sur la lame dans une langue démoniaque. Lorsqu'il tient cette épée, le porteur considère le déclin de la chair comme un spectacle d'une beauté ultime. Le pourpre subtil d'une blessure récente, le jaune verdâtre, presque iridescent d'une pustule infectée, voilà ce qui le fera vibrer.
 L'épée luit comme si elle était recouverte d'un ichor noir lorsqu'on utilise la magie pour tenter d'en découvrir la nature. Des maléfices nécromanciens infectent chaque parcelle de l'arme. Ceux qui voudraient l'utiliser n'auront plus d'autre désir que d'être entourés d'êtres qui continueront à pourrir même dans la non-vie.
 On ne peut apprendre d'autres éléments sur cette épée, hormis le fait qu'elle provient des Neufs Enfers.
 
@@ -816,8 +816,8 @@ Type de compétence : épée courte
 Type : arme à 1 main
 Utilisable par : 
  Personnage d'alignement mauvais~
-@10123	= ~Wakizashi +4 "Vent Divin"~
-@10124	= ~Wakizashi +4 "Vent Divin"
+@10123	= ~Wakizashi +4 « Vent Divin »~
+@10124	= ~Wakizashi +4 « Vent Divin »
 Cette arme appartenait à un noble guerrier nommé Shikintu. Ses réflexes étaient si foudroyants que ses cibles étaient étourdies sous l'impact de ses coups rapides et puissants. On dit que lorsqu'il mourut, son esprit ne fit plus qu'un avec son épée.
 
 PARAMETRES :
@@ -829,7 +829,7 @@ Spécial :
 Type de dégât : perforant
 Poids : 3
 Facteur de vitesse : 3
-Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type de compétence : cimeterre / Wakizashi / Ninja-To
 Type : arme à 1 main
 Force nécessaire : 5
 Inutilisable par :
@@ -837,7 +837,7 @@ Inutilisable par :
  Clerc
  Mage
  Belluaire~
-@10125	= ~Katana +4, "Fléau de Mort"~
+@10125	= ~Katana +4, « Fléau de Mort »~
 @10126	= ~Une épée conçue par Fenris le Nécromancien de l'Orient. On ne sait rien d'autre sur cette épée ni sur son créateur. Peut-être une recherche studieuse dans un ouvrage vous permettra-t-elle d'en savoir plus.
 
 PARAMETRES :
@@ -857,8 +857,8 @@ Non utilisable par :
  Clerc
  Mage
  Belluaire~
-@10127	= ~Epée à 2 mains~
-@10128	= ~Epée à 2 mains +4 de Dragon Vert~
+@10127	= ~Épée à 2 mains~
+@10128	= ~Épée à 2 mains +4 de Dragon Vert~
 @10129	= ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques. 
 
 PARAMETRES :
@@ -867,7 +867,7 @@ Dégâts : 1D10
 Type de dégâts : tranchant 
 Poids : 15
 Facteur de vitesse : 10
-Type de compétence : Epée à 2 mains
+Type de compétence : Épée à 2 mains
 Type : arme à 2 mains
 Force nécessaire : 14
 Non utilisable par :
@@ -889,15 +889,15 @@ Spécial :
 Type de dégâts : tranchant 
 Poids : 15
 Facteur de vitesse : 10
-Type de compétence : Epée à 2 mains
+Type de compétence : Épée à 2 mains
 Type : arme à 2 mains
 Force nécessaire : 14
 Utilisable par :
  Guerrier
  Rôdeur
  Paladin~
-@10131	= ~Un Etrange Anneau~
-@10132	= ~Un Anneau Très Etrange~
+@10131	= ~Un Étrange Anneau~
+@10132	= ~Un Anneau Très Étrange~
 @10133	= ~Vous êtes tenté d'enfiler cet anneau. Essayez-donc.~ ~Vous êtes tentée d'enfiler cet anneau. Essayez-donc.~
 @10134	= ~Une sensation étrange s'empare de vous alors que vous tenez cet anneau. Il serait dans votre intérêt de ne pas l'enfiler et de le rendre à Sméagol. Vous ne l'avez tout de même pas enfilé, n'est-ce pas ?~
 @10135	= ~Produits de l'Est Lointain de Shikoku~

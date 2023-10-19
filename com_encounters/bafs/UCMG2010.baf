@@ -1,7 +1,7 @@
 IF
-	Global("AnnaExists","AR2010",0)
+	Global("COMAnnaExists","AR2010",0)
 THEN
 	RESPONSE #100
-		SetGlobal("AnnaExists","AR2010",1)
+		SetGlobal("COMAnnaExists","AR2010",1)
 		CreateCreature("UCMGCL02",[820.541],7) 
 END

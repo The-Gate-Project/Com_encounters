@@ -8,6 +8,10 @@ END
 
 IF ~~ THEN BEGIN 1 
   SAY @702
-  IF ~~ THEN DO ~Enemy()
+  IF ~~ THEN DO ~
+ActionOverride("UCMGTH02",Enemy())
+ActionOverride("UCMGTH03",Enemy())
+ActionOverride("UCMGTH04",Enemy())
+Enemy()
 ~ EXIT
 END

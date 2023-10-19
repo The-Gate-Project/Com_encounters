@@ -43,7 +43,7 @@ Danno: 1D8 +3
 THACO: +3
 Saggezza: +1 di bonus
 Speciale: Incrementa gli attacchi
-Speciale: 2D3 di Danno da Fuoco
+Speciale: 2D3 +1 di Danno da Fuoco
 Tipo di danno: schiacciamento
 Peso: 8
 Fattore velocità: 3
@@ -354,7 +354,7 @@ Tipo: ad una mano~
 
 STATISTICHE:
 
-Danno: 1D4 +3
+Danno: 1D4 +5
 THAC0: +4
 Tipo di danno: Schiacciamento
 Bonus alla Classe Armatura: 2

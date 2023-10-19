@@ -45,7 +45,7 @@ Damage: 1D8 +3
 THACO: +3
 Wisdom: +1 bonus
 Special: Increased attacks
-Special: 2D3 Fire Damage
+Special: 2D3 +1 Fire Damage
 Damage type: crushing
 Weight: 8
 Speed Factor: 3
@@ -360,7 +360,7 @@ Type: 1-handed~
 
 STATISTICS:
 
-Damage: 1D4 +3
+Damage: 1D4 +5
 THAC0: +4
 Damage type: Crushing
 Armor Class Bonus: 2
