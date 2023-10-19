@@ -65,7 +65,7 @@ Afterwards, you may delete the following files:
 ## Version History :
 --------------------
 
-- Version 1.20 Review (october 20, 2023)  
+- Version 1.20 Review (october 19, 2023)  
 
     CHANGES  
 
@@ -86,7 +86,7 @@ Afterwards, you may delete the following files:
 	
     BUGFIXES  
 
-    Corrected wrong effects for some Items (These three still need to be revised CM2H07 COMA11 UFLAL5A)    
+    Corrected wrong effects for some Items    
 
 
 - Version 1.10 All platforms Version (September 8, 2014)  

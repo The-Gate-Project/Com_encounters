@@ -536,6 +536,10 @@ COPY ~com_encounters/item/UCMGSW10.ITM~ ~override/UCMGSW10.ITM~
 COPY ~com_encounters/item/UCMGSW11.ITM~ ~override/UCMGSW11.ITM~       
   SAY NAME2 @10125 
   SAY DESC @10126 
+  
+// Effect for CM2H07.ITM  
+  
+COPY ~com_encounters/eff/CM2H07.eff~ ~override/CM2H07.eff~      
 
 COPY ~com_encounters/item/CM2H07.ITM~ ~override/CM2H07.ITM~         
   SAY NAME1 @10127 
