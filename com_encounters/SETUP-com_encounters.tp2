@@ -753,7 +753,7 @@ COPY_EXISTING ~CEFGT02.CRE~ 	~override~
 	ADD_MEMORIZED_SPELL ~SPPR410~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR607~ #5 ~priest~ ( 1 ) // memorized
 	REMOVE_CRE_ITEM ~BLUN01~ ~weapon1~
-	ADD_CRE_ITEM ~BLUN31~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~BLUN31~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGDRU01.CRE~ 	~override~
 	WRITE_SHORT 0x14 ~2000~ // XP value
@@ -761,13 +761,13 @@ COPY_EXISTING ~DGDRU01.CRE~ 	~override~
 	WRITE_BYTE 0x53 ~7~  // attacks/round 3/2 (7)
 	ADD_MEMORIZED_SPELL ~SPPR514~ #4 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR607~ #5 ~priest~ ( 1 ) // memorized
-	ADD_CRE_ITEM ~SW1H76~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H76~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGFIG01.CRE~ 	~override~
 	WRITE_SHORT 0x14 ~3000~ // XP value
 	WRITE_SHORT 0x1c ~100~ // Gold
 	REMOVE_CRE_ITEM ~SPER01~ ~weapon1~
-	ADD_CRE_ITEM ~SPER02~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SPER02~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~DGMAG01.CRE~ 	~override~
@@ -777,7 +777,7 @@ COPY_EXISTING ~DGMAG01.CRE~ 	~override~
 	ADD_MEMORIZED_SPELL ~SPWI309~ #2 ~Wizard~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPWI313~ #2 ~Wizard~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~CLCK11~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~DART05~ #40 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~DART05~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR6A.CRE~   	~override~
@@ -790,7 +790,7 @@ COPY_EXISTING ~TDR6A.CRE~   	~override~
 	ADD_MEMORIZED_SPELL ~SPPR302~ #2 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR319~ #2 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT02~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~STAF02~ #40 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~STAF02~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR8A.CRE~   	~override~
@@ -806,13 +806,13 @@ COPY_EXISTING ~TDR8A.CRE~   	~override~
 	ADD_MEMORIZED_SPELL ~SPPR401~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR411~ #3 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT05~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~SW1H22~ #40 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H22~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR8B.CRE~   	~override~
 	ADD_MEMORIZED_SPELL ~SPPR302~ #2 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT11~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~BLUN01~ #40 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~BLUN01~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR10A.CRE~  	~override~
@@ -825,7 +825,7 @@ COPY_EXISTING ~TDR10A.CRE~  	~override~
 	ADD_MEMORIZED_SPELL ~SPPR406~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR514~ #4 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT15~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~STAF16~ #40 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~STAF16~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~TDR10B.CRE~  	~override~
 	WRITE_SHORT 0x24 ~86~ // Current HP
@@ -839,7 +839,7 @@ COPY_EXISTING ~TDR10B.CRE~  	~override~
 	
 COPY_EXISTING ~TRRAK01.CRE~ 	~override~
 	REMOVE_CRE_ITEM ~SW1H04~ ~weapon1~
-	ADD_CRE_ITEM ~UCMGSW02~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~UCMGSW02~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TRRAK02.CRE~ 	~override~
@@ -848,7 +848,7 @@ COPY_EXISTING ~TRRAK02.CRE~ 	~override~
 	WRITE_SHORT 0x24 ~66~ // Current HP
 	WRITE_SHORT 0x26 ~66~ // Maximum HP
 	REMOVE_CRE_ITEM ~SW1H04~ ~weapon1~
-	ADD_CRE_ITEM ~SW1H05~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H05~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	ADD_CRE_ITEM ~UCMGBR01~ #0 #0 #0 ~unstealable~ ~INV2~ // Inventory 2
 
 
@@ -881,7 +881,7 @@ COPY_EXISTING ~KORCRAZY.CRE~	~override~
 	ADD_KNOWN_SPELL ~SPPR727~ #6 ~priest~
 	ADD_MEMORIZED_SPELL ~SPPR727~ #6 ~priest~ ( 1 ) // memorized
 	REMOVE_CRE_ITEM ~STAF01~ ~weapon1~
-	ADD_CRE_ITEM ~STAF02~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~STAF02~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	ADD_CRE_ITEM ~POTN08~ #5 #0 #0 ~unstealable~ ~qitem1~ // Quick item 1
 	ADD_CRE_ITEM ~CHAN05~ #0 #0 #0 ~unstealable~ ~armor~
 	
@@ -892,7 +892,7 @@ COPY_EXISTING ~KORGOO01.CRE~	~override~
 	WRITE_SHORT 0x26 ~45~ // Maximum HP
 	WRITE_BYTE 0x52 ~12~  // THACO
 	REMOVE_CRE_ITEM ~SW1H07~ ~weapon1~
-	ADD_CRE_ITEM ~SW1H14~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H14~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	REMOVE_CRE_ITEM ~CHAN01~ ~armor~
 	ADD_CRE_ITEM ~LEAT10~ #0 #0 #0 ~unstealable~ ~armor~
 	REMOVE_CRE_ITEM ~SHLD03~ ~shield~
@@ -906,7 +906,7 @@ COPY_EXISTING ~KORGOO02.CRE~	~override~
 	WRITE_BYTE 0x52 ~11~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2
 	REMOVE_CRE_ITEM ~SW1H07~ ~weapon1~
-	ADD_CRE_ITEM ~SW1H08~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H08~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	REMOVE_CRE_ITEM ~CHAN01~ ~armor~
 	ADD_CRE_ITEM ~PLAT10~ #0 #0 #0 ~unstealable~ ~armor~
 	REMOVE_CRE_ITEM ~HELM01~ ~helmet~
@@ -920,7 +920,7 @@ COPY_EXISTING ~KORSCROO.CRE~	~override~
 	WRITE_BYTE 0x23c ~18~  // Dexterity
 	WRITE_LONG 0x28 ~0x6300~ // Cre Animation
 	REMOVE_CRE_ITEM ~SW1H07~ ~weapon1~
-	ADD_CRE_ITEM ~SW1H09~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~SW1H09~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	REMOVE_CRE_ITEM ~CHAN01~ ~armor~
 	ADD_CRE_ITEM ~LEAT15~ #0 #0 #0 ~unstealable~ ~armor~
 	REMOVE_CRE_ITEM ~SHLD03~ ~shield~
@@ -938,7 +938,7 @@ COPY_EXISTING ~KORSHAG.CRE~ 	~override~
 	WRITE_SHORT 0x26 ~85~ // Maximum HP
 	WRITE_BYTE 0x53 ~8~  // attacks/round 5/2 (8)
 	REMOVE_CRE_ITEM ~SW1H07~ ~weapon1~
-	ADD_CRE_ITEM ~UCMGSW06~ #0 #0 #0 ~unstealable~ ~weapon1~
+	ADD_CRE_ITEM ~UCMGSW06~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	REMOVE_CRE_ITEM ~CHAN01~ ~armor~
 	ADD_CRE_ITEM ~CHAN02~ #0 #0 #0 ~unstealable~ ~armor~
 	REMOVE_CRE_ITEM ~SHLD03~ ~shield~
@@ -946,7 +946,7 @@ COPY_EXISTING ~KORSHAG.CRE~ 	~override~
 	ADD_CRE_ITEM ~POTN08~ #5 #0 #0 ~unstealable~ ~qitem1~ // Quick item 1
 	ADD_CRE_ITEM ~POTN14~ #5 #0 #0 ~unstealable~ ~qitem2~ // Quick item 2
 	ADD_CRE_ITEM ~BOOK89~ #0 #0 #0 ~unstealable~ ~INV1~ // Inventory 1
-
+	
 
 // Isaya: now displayed at the beginning of installation with README
 //AT_INTERACTIVE_EXIT ~VIEW com_encounters/readme_ce.html~
