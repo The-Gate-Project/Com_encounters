@@ -656,7 +656,7 @@ LABEL ~CoM_Solaufein-improved_druids~
 // COPY ~com_encounters/improved_druids~ ~override~
 
 COPY_EXISTING ~CEDRUID2.CRE~	~override~
-	WRITE_SHORT 0x14 ~4000~ // XP value
+	WRITE_SHORT 0x14 ~4000~ // XP value (lowered from 4500)
 	WRITE_SHORT 0x46 ~5~  // Natural AC
 	WRITE_SHORT 0x48 ~5~  // Effective AC
 	WRITE_BYTE 0x52 ~8~  // THACO
@@ -673,9 +673,9 @@ COPY_EXISTING ~CEDRUID2.CRE~	~override~
 	ADD_KNOWN_SPELL ~SPPR110~ #0 ~priest~
 	ADD_MEMORIZED_SPELL ~SPPR110~ #0 ~priest~ ( 1 ) // memorized
 	ADD_KNOWN_SPELL ~SPPR206~ #1 ~priest~
-	ADD_MEMORIZED_SPELL ~SPPR206~ #0 ~priest~ ( 1 ) // memorized
+	ADD_MEMORIZED_SPELL ~SPPR206~ #1 ~priest~ ( 1 ) // memorized
 	ADD_KNOWN_SPELL ~SPPR211~ #1 ~priest~
-	ADD_MEMORIZED_SPELL ~SPPR211~ #0 ~priest~ ( 1 ) // memorized
+	ADD_MEMORIZED_SPELL ~SPPR211~ #1 ~priest~ ( 1 ) // memorized
 	ADD_KNOWN_SPELL ~SPPR213~ #1 ~priest~
 	ADD_MEMORIZED_SPELL ~SPPR213~ #1 ~priest~ ( 2 ) // memorized
 	ADD_KNOWN_SPELL ~SPPR302~ #2 ~priest~
@@ -699,12 +699,12 @@ COPY_EXISTING ~CEDRUID2.CRE~	~override~
 	ADD_CRE_ITEM ~LEAT07~ #0 #0 #0 ~unstealable~ ~armor~
 
 COPY_EXISTING ~CEFGT01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~4000~ // XP value
-	WRITE_SHORT 0x46 ~5~  // Natural AC
-	WRITE_SHORT 0x48 ~5~  // Effective AC
-	WRITE_BYTE 0x52 ~8~  // THACO
+	WRITE_SHORT 0x14 ~4000~ // XP value (lowered from 7000)
+	WRITE_SHORT 0x46 ~10~  // Natural AC
+	WRITE_SHORT 0x48 ~10~  // Effective AC
+	WRITE_BYTE 0x52 ~5~  // THACO
 	WRITE_BYTE 0x53 ~9~  // attacks/round 7/2(9)
-	WRITE_BYTE 0x23c ~19~  // Dexterity
+	WRITE_BYTE 0x23c ~16~  // Dexterity
 	WRITE_ASCII 0x250 ~DRUID12A~ (8)  // script Class  
 	ADD_KNOWN_SPELL ~SPPR704~ #6 ~priest~
 	ADD_MEMORIZED_SPELL ~SPPR704~ #6 ~priest~ ( 1 ) // memorized
@@ -756,22 +756,24 @@ COPY_EXISTING ~CEFGT02.CRE~ 	~override~
 	ADD_CRE_ITEM ~BLUN31~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGDRU01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value
+	WRITE_SHORT 0x14 ~2000~ // XP value (lowered from 2500)
 	WRITE_SHORT 0x1c ~100~ // Gold
 	WRITE_BYTE 0x53 ~7~  // attacks/round 3/2 (7)
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR514~ #4 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR607~ #5 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~SW1H76~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGFIG01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~3000~ // XP value
+	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 4000)
 	WRITE_SHORT 0x1c ~100~ // Gold
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	REMOVE_CRE_ITEM ~SPER01~ ~weapon1~
 	ADD_CRE_ITEM ~SPER02~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~DGMAG01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value
+	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 5900)
 	ADD_MEMORIZED_SPELL ~SPWI217~ #1 ~Wizard~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~Wizard~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPWI309~ #2 ~Wizard~ ( 1 ) // memorized
@@ -781,24 +783,26 @@ COPY_EXISTING ~DGMAG01.CRE~ 	~override~
 	
 	
 COPY_EXISTING ~TDR6A.CRE~   	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value
+	WRITE_SHORT 0x14 ~2000~ // XP value (lowered from 3000)
 	WRITE_SHORT 0x24 ~68~ // Current HP
 	WRITE_SHORT 0x26 ~68~ // Maximum HP
 	WRITE_BYTE 0x52 ~10~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2 (2)
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR206~ #1 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR302~ #2 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR319~ #2 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT02~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~STAF02~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
+	ADD_CRE_ITEM ~STAF02~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR8A.CRE~   	~override~
-	WRITE_SHORT 0x14 ~1500~ // XP value
+	WRITE_SHORT 0x14 ~1500~ // XP value (lowered from 3000)
 	WRITE_SHORT 0x24 ~84~ // Current HP
 	WRITE_SHORT 0x26 ~84~ // Maximum HP
 	WRITE_BYTE 0x52 ~10~  // THACO
 	WRITE_BYTE 0x53 ~8~  // attacks/round 5/2 (8)
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR105~ #0 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR208~ #1 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR302~ #2 ~priest~ ( 1 ) // memorized
@@ -806,35 +810,42 @@ COPY_EXISTING ~TDR8A.CRE~   	~override~
 	ADD_MEMORIZED_SPELL ~SPPR401~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR411~ #3 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT05~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~SW1H22~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
+	ADD_CRE_ITEM ~SW1H22~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TDR8B.CRE~   	~override~
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR302~ #2 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT11~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~BLUN01~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
+	ADD_CRE_ITEM ~BLUN01~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
-COPY_EXISTING ~TDR10A.CRE~  	~override~
-	WRITE_SHORT 0x14 ~2500~ // XP value
+COPY_EXISTING ~TDR10A.CRE~  	~override~ // Kyland Lind
+	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 6000)
 	WRITE_SHORT 0x1c ~20~ // Gold
 	WRITE_BYTE 0x52 ~11~  // THACO
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR206~ #1 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR319~ #2 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR401~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR406~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR514~ #4 ~priest~ ( 1 ) // memorized
 	ADD_CRE_ITEM ~LEAT15~ #0 #0 #0 ~unstealable~ ~armor~
-	ADD_CRE_ITEM ~STAF16~ #40 #0 #0 ~unstealable~ ~weapon1~ EQUIP
+	ADD_CRE_ITEM ~STAF16~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~TDR10B.CRE~  	~override~
 	WRITE_SHORT 0x24 ~86~ // Current HP
 	WRITE_SHORT 0x26 ~86~ // Maximum HP
+	WRITE_SHORT 0x46 ~5~  // Natural AC
+	WRITE_SHORT 0x48 ~5~  // Effective AC
 	WRITE_BYTE 0x52 ~10~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2 (2)
+	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	ADD_MEMORIZED_SPELL ~SPPR410~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR411~ #3 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR517~ #4 ~priest~ ( 1 ) // memorized
+	ADD_CRE_ITEM ~LEAT15~ #0 #0 #0 ~unstealable~ ~armor~
+	ADD_CRE_ITEM ~SPER05~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 	
 COPY_EXISTING ~TRRAK01.CRE~ 	~override~
@@ -862,7 +873,7 @@ COPY_EXISTING ~KORCRAZY.CRE~	~override~
 	WRITE_SHORT 0x1c ~20~ // Gold
 	WRITE_SHORT 0x24 ~60~ // Current HP
 	WRITE_SHORT 0x26 ~60~ // Maximum HP
-	WRITE_BYTE 0x52 ~10~  // THACO
+	WRITE_BYTE 0x52 ~8~  // THACO
 	WRITE_BYTE 0x53 ~7~  // attacks/round 3/2 (7)
 	ADD_MEMORIZED_SPELL ~SPPR202~ #1 ~priest~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPPR405~ #3 ~priest~ ( 1 ) // memorized
@@ -887,7 +898,7 @@ COPY_EXISTING ~KORCRAZY.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORGOO01.CRE~	~override~
-	WRITE_SHORT 0x14 ~500~ // XP value
+	WRITE_SHORT 0x14 ~500~ // XP value (lowered from 6000)
 	WRITE_SHORT 0x24 ~45~ // Current HP
 	WRITE_SHORT 0x26 ~45~ // Maximum HP
 	WRITE_BYTE 0x52 ~12~  // THACO
@@ -900,7 +911,7 @@ COPY_EXISTING ~KORGOO01.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORGOO02.CRE~	~override~
-	WRITE_SHORT 0x14 ~500~ // XP value
+	WRITE_SHORT 0x14 ~1000~ // XP value  (lowered from 1500)
 	WRITE_SHORT 0x24 ~45~ // Current HP
 	WRITE_SHORT 0x26 ~45~ // Maximum HP
 	WRITE_BYTE 0x52 ~11~  // THACO
@@ -914,7 +925,7 @@ COPY_EXISTING ~KORGOO02.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORSCROO.CRE~	~override~
-	WRITE_SHORT 0x14 ~2500~ // XP value
+	WRITE_SHORT 0x14 ~2500~ // XP value  (lowered from 2900)
 	WRITE_BYTE 0x52 ~6~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2
 	WRITE_BYTE 0x23c ~18~  // Dexterity
@@ -933,7 +944,7 @@ COPY_EXISTING ~KORSCROO.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORSHAG.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~4500~ // XP value
+	WRITE_SHORT 0x14 ~3500~ // XP value  (lowered from 4500)
 	WRITE_SHORT 0x24 ~85~ // Current HP
 	WRITE_SHORT 0x26 ~85~ // Maximum HP
 	WRITE_BYTE 0x53 ~8~  // attacks/round 5/2 (8)
@@ -945,7 +956,7 @@ COPY_EXISTING ~KORSHAG.CRE~ 	~override~
 	ADD_CRE_ITEM ~SHLD04~ #0 #0 #0 ~unstealable~ ~shield~
 	ADD_CRE_ITEM ~POTN08~ #5 #0 #0 ~unstealable~ ~qitem1~ // Quick item 1
 	ADD_CRE_ITEM ~POTN14~ #5 #0 #0 ~unstealable~ ~qitem2~ // Quick item 2
-	ADD_CRE_ITEM ~BOOK89~ #0 #0 #0 ~unstealable~ ~INV1~ // Inventory 1
+	// ADD_CRE_ITEM ~BOOK89~ #0 #0 #0 ~unstealable~ ~INV1~ // Inventory 1
 	
 
 // Isaya: now displayed at the beginning of installation with README
