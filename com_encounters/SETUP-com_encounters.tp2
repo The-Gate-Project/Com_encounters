@@ -175,6 +175,8 @@ COPY ~com_encounters/cre/UCMGWA05.CRE~ ~override/UCMGWA05.CRE~
 COPY ~com_encounters/cre/UCMGTH01.CRE~ ~override/UCMGTH01.CRE~
   SAY NAME1 @10014
   SAY NAME2 @10014
+  REMOVE_CRE_ITEM ~WAND02~
+  ADD_CRE_ITEM ~WAND02~ #0 #0 #0 ~unstealable~ ~qitem3~
 
 COPY ~com_encounters/cre/UCMGTH02.CRE~ ~override/UCMGTH02.CRE~
   SAY NAME1 @10015
@@ -200,11 +202,15 @@ COPY ~com_encounters/cre/UCMGNUT1.CRE~ ~override/UCMGNUT1.CRE~
 COPY ~com_encounters/cre/UCMGNUT.CRE~ ~override/UCMGNUT.CRE~
   SAY NAME1 @10018
   SAY NAME2 @10018
+  REMOVE_CRE_ITEM ~UCMGNOT1~
+  ADD_CRE_ITEM ~UCMGNOT1~ #1 #0 #0 ~unstealable~ ~inv6~
 
 COPY ~com_encounters/cre/UCMGHUN4.CRE~ ~override/UCMGHUN4.CRE~
   SAY NAME1 @10019
   SAY NAME2 @10019
   WRITE_ASCII 0x280 ~UCMGHUN4~ (8) // Script name / Death variable
+  REMOVE_CRE_ITEM ~UCMGSH01~
+  ADD_CRE_ITEM ~UCMGSH01~ #0 #0 #0 ~unstealable~ ~shield~ EQUIP
 
 COPY ~com_encounters/cre/UCMGHUN3.CRE~ ~override/UCMGHUN3.CRE~
   SAY NAME1 @10020
