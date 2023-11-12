@@ -9,7 +9,7 @@ BACKUP ~com_encounters\backup~
 AUTHOR ~Raven, Magnus Thorenson and CoM Solaufein~
 
 // Isaya: version, readme displayed at the beginning, UTF-8 conversion on the fly
-VERSION ~v1.20~
+VERSION ~v1.21~
 
 README ~com_encounters/readme_ce.html~
 
