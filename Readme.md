@@ -65,6 +65,12 @@ Afterwards, you may delete the following files:
 ## Version History :
 --------------------
 
+- Version 1.22 (March 17, 2024)  
+
+    CHANGES  
+
+    Chinese translation thanks to Lzw104522773.   
+
 - Version 1.20 Review (october 19, 2023)  
 
     CHANGES  
