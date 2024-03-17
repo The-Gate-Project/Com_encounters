@@ -58,6 +58,9 @@ LANGUAGE ~Polish (by Aristo)~
 LANGUAGE ~Spanish (by alaisFcZ)~
          ~spanish~
          ~com_encounters/translations/spanish/dialog.tra~
+LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
+         ~schinese~
+         ~com_encounters/translations/schinese/dialog.tra~
 
 BEGIN @10000
 LABEL ~CoM_Solaufein-Com_encounters~
