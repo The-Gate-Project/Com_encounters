@@ -61,7 +61,7 @@ LANGUAGE ~Spanish (by alaisFcZ)~
 LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
          ~schinese~
          ~com_encounters/translations/schinese/dialog.tra~
-
+         ~com_encounters/translations/schinese/setup.tra~
 BEGIN @10000
 LABEL ~CoM_Solaufein-Com_encounters~
 REQUIRE_PREDICATE GAME_IS ~tob bgt bg2ee eet~ @10010
