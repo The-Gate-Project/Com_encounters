@@ -62,6 +62,7 @@ LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
          ~schinese~
          ~com_encounters/translations/schinese/dialog.tra~
          ~com_encounters/translations/schinese/setup.tra~
+		 
 BEGIN @10000
 LABEL ~CoM_Solaufein-Com_encounters~
 REQUIRE_PREDICATE GAME_IS ~tob bgt bg2ee eet~ @10010
@@ -127,30 +128,30 @@ END
 // Creature Stuff
 
 COPY ~com_encounters/cre/UCMGDP01.CRE~ ~override/UCMGDP01.CRE~
-  WRITE_ASCII 0x280 ~UCMGDP01~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGDP01~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGDP02.CRE~ ~override/UCMGDP02.CRE~
-  WRITE_ASCII 0x280 ~UCMGDP02~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGDP02~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGDW01.CRE~ ~override/UCMGDW01.CRE~
-  WRITE_ASCII 0x280 ~UCMGDW01~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGDW01~ (32) // Script name / Death variable
   
 COPY ~com_encounters/cre/UCMGDW02.CRE~ ~override/UCMGDW02.CRE~
-  WRITE_ASCII 0x280 ~UCMGDW02~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGDW02~ (32) // Script name / Death variable
   
 COPY ~com_encounters/cre/UCMGDW03.CRE~ ~override/UCMGDW03.CRE~
   SAY NAME1 @10011
   SAY NAME2 @10011
-  WRITE_ASCII 0x280 ~UCMGDW03~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGDW03~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGMA01.CRE~ ~override/UCMGMA01.CRE~
-  WRITE_ASCII 0x280 ~UCMGMA01~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGMA01~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGMA02.CRE~ ~override/UCMGMA02.CRE~
-  WRITE_ASCII 0x280 ~UCMGMA02~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGMA02~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGMA03.CRE~ ~override/UCMGMA03.CRE~
-  WRITE_ASCII 0x280 ~UCMGMA03~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGMA03~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGMATR.CRE~ ~override/UCMGMATR.CRE~
   SAY NAME1 @10012
@@ -161,19 +162,19 @@ COPY ~com_encounters/cre/UCMGMM01.CRE~ ~override/UCMGMM01.CRE~
   SAY NAME2 @10013
 
 COPY ~com_encounters/cre/UCMGWA01.CRE~ ~override/UCMGWA01.CRE~
-  WRITE_ASCII 0x280 ~UCMGWA01~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGWA01~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGWA02.CRE~ ~override/UCMGWA02.CRE~
-  WRITE_ASCII 0x280 ~UCMGWA02~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGWA02~ (32) // Script name / Death variable
   
 COPY ~com_encounters/cre/UCMGWA03.CRE~ ~override/UCMGWA03.CRE~
-  WRITE_ASCII 0x280 ~UCMGWA03~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGWA03~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGWA04.CRE~ ~override/UCMGWA04.CRE~
-  WRITE_ASCII 0x280 ~UCMGWA04~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGWA04~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGWA05.CRE~ ~override/UCMGWA05.CRE~
-  WRITE_ASCII 0x280 ~UCMGWA05~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGWA05~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGTH01.CRE~ ~override/UCMGTH01.CRE~
   SAY NAME1 @10014
@@ -184,13 +185,13 @@ COPY ~com_encounters/cre/UCMGTH01.CRE~ ~override/UCMGTH01.CRE~
 COPY ~com_encounters/cre/UCMGTH02.CRE~ ~override/UCMGTH02.CRE~
   SAY NAME1 @10015
   SAY NAME2 @10015
-  WRITE_ASCII 0x280 ~UCMGTH02~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGTH02~ (32) // Script name / Death variable
   
 COPY ~com_encounters/cre/UCMGTH03.CRE~ ~override/UCMGTH03.CRE~
-  WRITE_ASCII 0x280 ~UCMGTH03~ (9) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGTH03~ (32) // Script name / Death variable
   
 COPY ~com_encounters/cre/UCMGTH04.CRE~ ~override/UCMGTH04.CRE~
-  WRITE_ASCII 0x280 ~UCMGTH04~ (9) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGTH04~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGNUT2.CRE~ ~override/UCMGNUT2.CRE~
   SAY NAME1 @10016
@@ -211,19 +212,19 @@ COPY ~com_encounters/cre/UCMGNUT.CRE~ ~override/UCMGNUT.CRE~
 COPY ~com_encounters/cre/UCMGHUN4.CRE~ ~override/UCMGHUN4.CRE~
   SAY NAME1 @10019
   SAY NAME2 @10019
-  WRITE_ASCII 0x280 ~UCMGHUN4~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGHUN4~ (32) // Script name / Death variable
   REMOVE_CRE_ITEM ~UCMGSH01~
   ADD_CRE_ITEM ~UCMGSH01~ #0 #0 #0 ~unstealable~ ~shield~ EQUIP
 
 COPY ~com_encounters/cre/UCMGHUN3.CRE~ ~override/UCMGHUN3.CRE~
   SAY NAME1 @10020
   SAY NAME2 @10020
-  WRITE_ASCII 0x280 ~UCMGHUN3~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGHUN3~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGHUN2.CRE~ ~override/UCMGHUN2.CRE~
   SAY NAME1 @10021
   SAY NAME2 @10021
-  WRITE_ASCII 0x280 ~UCMGHUN2~ (8) // Script name / Death variable
+  WRITE_ASCII 0x280 ~UCMGHUN2~ (32) // Script name / Death variable
 
 COPY ~com_encounters/cre/UCMGHUN1.CRE~ ~override/UCMGHUN1.CRE~
   SAY NAME1 @10022
@@ -665,7 +666,7 @@ LABEL ~CoM_Solaufein-improved_druids~
 // COPY ~com_encounters/improved_druids~ ~override~
 
 COPY_EXISTING ~CEDRUID2.CRE~	~override~
-	WRITE_SHORT 0x14 ~4000~ // XP value (lowered from 4500)
+	WRITE_LONG 0x14 ~4000~ // XP value (lowered from 4500)
 	WRITE_SHORT 0x46 ~5~  // Natural AC
 	WRITE_SHORT 0x48 ~5~  // Effective AC
 	WRITE_BYTE 0x52 ~8~  // THACO
@@ -708,7 +709,7 @@ COPY_EXISTING ~CEDRUID2.CRE~	~override~
 	ADD_CRE_ITEM ~LEAT07~ #0 #0 #0 ~unstealable~ ~armor~
 
 COPY_EXISTING ~CEFGT01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~4000~ // XP value (lowered from 7000)
+	WRITE_LONG 0x14 ~4000~ // XP value (lowered from 7000)
 	WRITE_SHORT 0x46 ~10~  // Natural AC
 	WRITE_SHORT 0x48 ~10~  // Effective AC
 	WRITE_BYTE 0x52 ~5~  // THACO
@@ -754,7 +755,7 @@ COPY_EXISTING ~CEFGT01.CRE~ 	~override~
 	ADD_CRE_ITEM ~BLUN10~ #0 #0 #0 ~unstealable~ ~shield~
 	
 COPY_EXISTING ~CEFGT02.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value
+	WRITE_LONG 0x14 ~2000~ // XP value
 	WRITE_SHORT 0x1c ~100~ // Gold
 	WRITE_BYTE 0x52 ~11~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2 (2)
@@ -765,7 +766,7 @@ COPY_EXISTING ~CEFGT02.CRE~ 	~override~
 	ADD_CRE_ITEM ~BLUN31~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGDRU01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value (lowered from 2500)
+	WRITE_LONG 0x14 ~2000~ // XP value (lowered from 2500)
 	WRITE_SHORT 0x1c ~100~ // Gold
 	WRITE_BYTE 0x53 ~7~  // attacks/round 3/2 (7)
 	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
@@ -774,7 +775,7 @@ COPY_EXISTING ~DGDRU01.CRE~ 	~override~
 	ADD_CRE_ITEM ~SW1H76~ #0 #0 #0 ~unstealable~ ~weapon1~ EQUIP
 	
 COPY_EXISTING ~DGFIG01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 4000)
+	WRITE_LONG 0x14 ~3000~ // XP value (lowered from 4000)
 	WRITE_SHORT 0x1c ~100~ // Gold
 	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
 	REMOVE_CRE_ITEM ~SPER01~ ~weapon1~
@@ -782,7 +783,7 @@ COPY_EXISTING ~DGFIG01.CRE~ 	~override~
 	
 	
 COPY_EXISTING ~DGMAG01.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 5900)
+	WRITE_LONG 0x14 ~3000~ // XP value (lowered from 5900)
 	ADD_MEMORIZED_SPELL ~SPWI217~ #1 ~Wizard~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPWI308~ #2 ~Wizard~ ( 1 ) // memorized
 	ADD_MEMORIZED_SPELL ~SPWI309~ #2 ~Wizard~ ( 1 ) // memorized
@@ -792,7 +793,7 @@ COPY_EXISTING ~DGMAG01.CRE~ 	~override~
 	
 	
 COPY_EXISTING ~TDR6A.CRE~   	~override~
-	WRITE_SHORT 0x14 ~2000~ // XP value (lowered from 3000)
+	WRITE_LONG 0x14 ~2000~ // XP value (lowered from 3000)
 	WRITE_SHORT 0x24 ~68~ // Current HP
 	WRITE_SHORT 0x26 ~68~ // Maximum HP
 	WRITE_BYTE 0x52 ~10~  // THACO
@@ -806,7 +807,7 @@ COPY_EXISTING ~TDR6A.CRE~   	~override~
 	
 	
 COPY_EXISTING ~TDR8A.CRE~   	~override~
-	WRITE_SHORT 0x14 ~1500~ // XP value (lowered from 3000)
+	WRITE_LONG 0x14 ~1500~ // XP value (lowered from 3000)
 	WRITE_SHORT 0x24 ~84~ // Current HP
 	WRITE_SHORT 0x26 ~84~ // Maximum HP
 	WRITE_BYTE 0x52 ~10~  // THACO
@@ -830,7 +831,7 @@ COPY_EXISTING ~TDR8B.CRE~   	~override~
 	
 	
 COPY_EXISTING ~TDR10A.CRE~  	~override~ // Kyland Lind
-	WRITE_SHORT 0x14 ~3000~ // XP value (lowered from 6000)
+	WRITE_LONG 0x14 ~3000~ // XP value (lowered from 6000)
 	WRITE_SHORT 0x1c ~20~ // Gold
 	WRITE_BYTE 0x52 ~11~  // THACO
 	WRITE_BYTE 0x27b ~35~  // Alignement (NEUTRAL_EVIL - 35)
@@ -863,7 +864,7 @@ COPY_EXISTING ~TRRAK01.CRE~ 	~override~
 	
 	
 COPY_EXISTING ~TRRAK02.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~3600~ // XP value
+	WRITE_LONG 0x14 ~3600~ // XP value
 	WRITE_SHORT 0x1c ~60~ // Gold
 	WRITE_SHORT 0x24 ~66~ // Current HP
 	WRITE_SHORT 0x26 ~66~ // Maximum HP
@@ -878,7 +879,7 @@ LABEL ~CoM_Solaufein-improved_shagbag~
 //COPY ~com_encounters/shagbag~ ~override~
 
 COPY_EXISTING ~KORCRAZY.CRE~	~override~
-	WRITE_SHORT 0x14 ~700~ // XP value
+	WRITE_LONG 0x14 ~700~ // XP value
 	WRITE_SHORT 0x1c ~20~ // Gold
 	WRITE_SHORT 0x24 ~60~ // Current HP
 	WRITE_SHORT 0x26 ~60~ // Maximum HP
@@ -907,7 +908,7 @@ COPY_EXISTING ~KORCRAZY.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORGOO01.CRE~	~override~
-	WRITE_SHORT 0x14 ~500~ // XP value (lowered from 6000)
+	WRITE_LONG 0x14 ~500~ // XP value (lowered from 6000)
 	WRITE_SHORT 0x24 ~45~ // Current HP
 	WRITE_SHORT 0x26 ~45~ // Maximum HP
 	WRITE_BYTE 0x52 ~12~  // THACO
@@ -920,7 +921,7 @@ COPY_EXISTING ~KORGOO01.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORGOO02.CRE~	~override~
-	WRITE_SHORT 0x14 ~1000~ // XP value  (lowered from 1500)
+	WRITE_LONG 0x14 ~1000~ // XP value  (lowered from 1500)
 	WRITE_SHORT 0x24 ~45~ // Current HP
 	WRITE_SHORT 0x26 ~45~ // Maximum HP
 	WRITE_BYTE 0x52 ~11~  // THACO
@@ -934,7 +935,7 @@ COPY_EXISTING ~KORGOO02.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORSCROO.CRE~	~override~
-	WRITE_SHORT 0x14 ~2500~ // XP value  (lowered from 2900)
+	WRITE_LONG 0x14 ~2500~ // XP value  (lowered from 2900)
 	WRITE_BYTE 0x52 ~6~  // THACO
 	WRITE_BYTE 0x53 ~2~  // attacks/round 2
 	WRITE_BYTE 0x23c ~18~  // Dexterity
@@ -953,7 +954,7 @@ COPY_EXISTING ~KORSCROO.CRE~	~override~
 	
 	
 COPY_EXISTING ~KORSHAG.CRE~ 	~override~
-	WRITE_SHORT 0x14 ~3500~ // XP value  (lowered from 4500)
+	WRITE_LONG 0x14 ~3500~ // XP value  (lowered from 4500)
 	WRITE_SHORT 0x24 ~85~ // Current HP
 	WRITE_SHORT 0x26 ~85~ // Maximum HP
 	WRITE_BYTE 0x53 ~8~  // attacks/round 5/2 (8)

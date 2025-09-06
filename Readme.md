@@ -1,8 +1,22 @@
 # Com_encounters
 
-![Language](https://img.shields.io/static/v1?label=language&message=english%20%7C%20french%20%7C%20german%20%7C%20italian%20%7C%20polish%20%7C%20spanish%20%7C%20russian%20%7C%20&color=informational)
+[![Release](https://img.shields.io/github/v/release/The-Gate-Project/Com_encounters?include_prereleases&color=41788a)](https://github.com/The-Gate-Project/Com_encounters/releases)
+[![Published](https://img.shields.io/github/release-date-pre/The-Gate-Project/Com_encounters?display_date=published_at&label=published&color=014a69)](https://github.com/The-Gate-Project/Com_encounters/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/The-Gate-Project/Com_encounters/total?color=41788a)](https://github.com/The-Gate-Project/Com_encounters/releases)
 
-**Autor** : **Raven**, **Magnus Thorenson** and **CoM Solaufein**
+[![Language](https://img.shields.io/badge/language-english%20%7C%20french%20%7C%20german%20%7C%20italian%20%7C%20polish%20%7C%20spanish%20%7C%20russian-014a69)](https://github.com/The-Gate-Project/Com_encounters/releases)
+[![Games](https://img.shields.io/badge/games-BG2:ToB%20%7C%20BGT%20%7C%20BG2:EE%20%7C%20EET-41788a)](https://github.com/The-Gate-Project/Com_encounters/releases)
+
+<!--
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThe-Gate-Project%2FCom_encounters&countColor=41788a&style=flat)
+
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-014a69)](https://github.com/The-Gate-Project/Com_encounters/releases)
+-->
+
+**Author** : **Raven**, **Magnus Thorenson** and **CoM Solaufein**
+
+[Official readme](https://htmlpreview.github.io/?https://github.com/The-Gate-Project/Com_encounters/blob/main/com_encounters/readme_ce.html)
 
 [Link to original Mod Download](https://github.com/The-Gate-Project/Com_encounters/releases/tag/v1.10)
 
