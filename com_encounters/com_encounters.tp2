@@ -5,7 +5,7 @@
 	/////////////////////////
 
 
-BACKUP ~com_encounters\backup~
+BACKUP ~com_encounters/backup~
 AUTHOR ~Raven, Magnus Thorenson and CoM Solaufein~
 
 // Isaya: version, readme displayed at the beginning, UTF-8 conversion on the fly
@@ -92,7 +92,7 @@ COPY ~com_encounters/images/ucmshikS.bmp~ ~override~  */
 ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
     INCLUDE ~%MOD_FOLDER%/lib/gw_convert_inventory_bam_to_ee.tpa~ // Loads function converting inventory BAMs to EE.
     OUTER_SPRINT file-exc ~BLUNCM01 CLCKCM01 PLATCM01 RINGCM01 STAFCM01 SW1HCM01 SW1HCM02 SW1HCM03~ // Special cases: unused inventory or description icons, and ability .bam don't need to be converted.
-    ACTION_BASH_FOR ~com_encounters/bams/~ ~^.+\.bam$~ BEGIN
+    ACTION_BASH_FOR ~com_encounters/bams/~ ~^.+/.bam$~ BEGIN
         ACTION_TO_LOWER %BASH_FOR_FILE%
         ACTION_TO_LOWER %BASH_FOR_RES%
         ACTION_IF (~%file-exc%~ STRING_CONTAINS_REGEXP ~%BASH_FOR_RES%~ = 1) BEGIN
@@ -115,7 +115,7 @@ ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
 	
 END ELSE BEGIN
 
-COPY ~com_encounters\portraits~ ~override~
+COPY ~com_encounters/portraits~ ~override~
 
 END
 
